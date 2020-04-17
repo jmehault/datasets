@@ -1,0 +1,1886 @@
+ID,Age,Genre,Education,Pays,Nscore,Escore,Oscore,Ascore,Cscore,Impulsivite,Sensations,Cannabis,Cannabis_recode,Sans_diplome,Genre_num
+1,35,Femme,Diplome professionnel,Royaume-Unis,39,36,41,37,42,-0.21711999999999998,-1.18084,non,0,0,1
+2,25,Homme,Doctorat,Royaume-Unis,29,52,54,48,41,-0.71126,-0.21575,oui,1,0,0
+3,35,Homme,Diplome professionnel,Royaume-Unis,31,45,39,32,34,-1.37983,0.40148,oui,1,0,0
+4,18,Femme,Maitrise,Royaume-Unis,34,34,45,47,46,-1.37983,-1.18084,oui,1,0,1
+5,35,Femme,Doctorat,Royaume-Unis,43,28,42,41,50,-0.21711999999999998,-0.21575,oui,1,0,1
+6,65,Femme,Quitte ecole a 18 ans,Canada,29,38,34,55,52,-1.37983,-1.5485799999999998,non,0,1,1
+7,45,Homme,Maitrise,Etats-Unis,31,32,42,41,48,-0.21711999999999998,0.07987000000000001,non,0,0,0
+8,35,Homme,Quitte ecole a 16 ans,Royaume-Unis,24,52,39,41,52,0.19268,-0.52593,non,0,1,0
+9,35,Femme,Diplome professionnel,Canada,42,55,38,48,49,-1.37983,-1.5485799999999998,non,0,0,1
+10,55,Homme,Maitrise,Royaume-Unis,33,40,35,47,43,-1.37983,-0.8463700000000001,non,0,0,0
+11,25,Femme,Diplome universitaire,Royaume-Unis,26,45,37,38,53,0.19268,0.07987000000000001,oui,1,0,1
+12,45,Homme,Quitte Lycee ou universite sans diplome,Autre,24,40,46,30,38,0.52975,1.2247,oui,1,1,0
+13,55,Femme,Diplome universitaire,Royaume-Unis,56,41,48,32,36,1.29221,0.07987000000000001,oui,1,0,1
+14,55,Femme,Diplome professionnel,Canada,28,45,45,49,58,-0.71126,-0.8463700000000001,non,0,0,1
+15,55,Femme,Diplome professionnel,Royaume-Unis,27,49,48,39,52,1.29221,0.7654,non,0,0,1
+16,55,Homme,Diplome universitaire,Royaume-Unis,19,29,34,36,49,-0.71126,-0.52593,non,0,0,0
+17,35,Femme,Quitte Lycee ou universite sans diplome,Royaume-Unis,22,34,33,45,47,-0.21711999999999998,-2.07848,oui,1,1,1
+18,45,Homme,Quitte ecole a 16 ans,Royaume-Unis,41,31,43,40,31,-1.37983,-0.8463700000000001,oui,1,1,0
+19,55,Homme,Diplome universitaire,Australie,49,39,44,30,30,-0.71126,-0.21575,oui,1,0,0
+20,35,Homme,Diplome professionnel,Royaume-Unis,32,27,28,30,47,-1.37983,-2.07848,non,0,0,0
+21,45,Homme,Diplome professionnel,Royaume-Unis,28,45,50,53,33,0.19268,-0.21575,oui,1,0,0
+22,65,Homme,Quitte ecole avant 16 ans,Royaume-Unis,25,43,37,39,53,-0.21711999999999998,-1.18084,non,0,1,0
+23,45,Homme,Diplome universitaire,Royaume-Unis,40,33,39,50,35,-0.71126,0.07987000000000001,non,0,0,0
+24,45,Homme,Quitte ecole a 16 ans,Royaume-Unis,51,17,36,45,34,-1.37983,-1.5485799999999998,oui,1,1,0
+25,55,Homme,Diplome universitaire,Royaume-Unis,34,44,53,48,51,-0.21711999999999998,-0.52593,non,0,0,0
+26,45,Homme,Quitte Lycee ou universite sans diplome,Royaume-Unis,28,37,36,49,42,-0.21711999999999998,0.40148,non,0,1,0
+27,55,Femme,Quitte ecole a 18 ans,Canada,35,28,25,38,46,0.19268,-1.5485799999999998,non,0,1,1
+28,35,Homme,Diplome universitaire,Royaume-Unis,41,31,45,43,25,1.8620299999999999,0.40148,oui,1,0,0
+29,35,Femme,Maitrise,Royaume-Unis,36,29,40,45,50,0.19268,-0.52593,non,0,0,1
+30,45,Homme,Doctorat,Royaume-Unis,24,51,51,49,53,-0.21711999999999998,-0.52593,non,0,0,0
+31,45,Homme,Quitte ecole a 16 ans,Royaume-Unis,39,34,36,33,37,-1.37983,0.07987000000000001,oui,1,1,0
+32,35,Femme,Quitte ecole a 16 ans,Autre,25,34,46,39,42,-1.37983,-0.8463700000000001,non,0,1,1
+33,35,Homme,Diplome universitaire,Royaume-Unis,28,31,45,46,42,0.19268,-0.8463700000000001,oui,1,0,0
+34,18,Homme,Diplome universitaire,Royaume-Unis,40,38,47,51,41,-0.71126,-1.5485799999999998,non,0,0,0
+35,35,Homme,Diplome universitaire,Etats-Unis,46,44,51,23,36,0.52975,1.92173,oui,1,0,0
+36,65,Homme,Quitte ecole avant 16 ans,Royaume-Unis,33,34,27,41,36,0.52975,-1.5485799999999998,non,0,1,0
+37,35,Homme,Diplome universitaire,Royaume-Unis,33,36,44,43,30,-0.21711999999999998,-0.21575,non,0,0,0
+38,55,Homme,Quitte ecole avant 16 ans,Etats-Unis,39,42,52,44,37,0.52975,-0.52593,oui,1,1,0
+39,45,Homme,Diplome universitaire,Royaume-Unis,22,48,47,43,47,-0.21711999999999998,-0.8463700000000001,non,0,0,0
+40,65,Femme,Diplome professionnel,Royaume-Unis,33,33,37,38,45,-1.37983,-0.21575,non,0,0,1
+41,35,Homme,Maitrise,Royaume-Unis,36,37,45,29,47,-0.71126,0.07987000000000001,non,0,0,0
+42,35,Femme,Diplome universitaire,Royaume-Unis,44,40,52,54,39,-0.21711999999999998,-0.21575,non,0,0,1
+43,35,Homme,Maitrise,Royaume-Unis,34,33,36,43,37,-0.21711999999999998,-0.52593,oui,1,0,0
+44,35,Homme,Diplome professionnel,Royaume-Unis,27,36,43,42,34,-0.21711999999999998,-0.21575,oui,1,0,0
+45,25,Homme,Diplome universitaire,Royaume-Unis,26,49,48,51,48,-0.21711999999999998,0.07987000000000001,non,0,0,0
+46,25,Femme,Diplome universitaire,Royaume-Unis,31,43,53,49,52,-1.37983,-2.07848,non,0,0,1
+47,45,Femme,Quitte Lycee ou universite sans diplome,Canada,39,44,37,45,51,-0.71126,-0.8463700000000001,non,0,1,1
+48,45,Homme,Maitrise,Royaume-Unis,19,45,47,49,49,-2.55524,-1.18084,non,0,0,0
+49,45,Homme,Quitte ecole a 16 ans,Royaume-Unis,37,34,43,42,37,0.19268,-0.8463700000000001,oui,1,1,0
+50,25,Femme,Maitrise,Royaume-Unis,44,36,31,37,44,0.52975,1.2247,non,0,0,1
+51,35,Homme,Maitrise,Royaume-Unis,46,39,44,35,42,-0.71126,-0.8463700000000001,oui,1,0,0
+52,45,Homme,Diplome professionnel,Canada,47,46,41,37,27,1.8620299999999999,1.92173,oui,1,0,0
+53,55,Femme,Diplome universitaire,Royaume-Unis,34,40,35,45,36,0.52975,-1.5485799999999998,non,0,0,1
+54,45,Homme,Maitrise,Royaume-Unis,23,39,52,45,44,-0.21711999999999998,-0.21575,non,0,0,0
+55,55,Homme,Quitte ecole a 16 ans,Royaume-Unis,36,47,41,36,33,1.29221,1.2247,oui,1,1,0
+56,55,Femme,Diplome professionnel,Royaume-Unis,36,35,37,40,39,-1.37983,-2.07848,non,0,0,1
+57,35,Femme,Quitte Lycee ou universite sans diplome,Royaume-Unis,36,40,33,43,44,-1.37983,-1.5485799999999998,non,0,1,1
+58,25,Femme,Diplome universitaire,Royaume-Unis,30,44,31,45,47,-0.71126,-0.52593,non,0,0,1
+59,45,Homme,Quitte ecole a 18 ans,Royaume-Unis,38,44,45,40,39,1.8620299999999999,1.2247,oui,1,1,0
+60,45,Homme,Diplome universitaire,Royaume-Unis,31,31,36,32,41,-1.37983,-1.5485799999999998,non,0,0,0
+61,25,Femme,Doctorat,Royaume-Unis,49,42,47,41,40,-1.37983,0.07987000000000001,non,0,0,1
+62,45,Homme,Maitrise,Royaume-Unis,18,50,53,44,50,-1.37983,-1.18084,non,0,0,0
+63,25,Homme,Diplome universitaire,Royaume-Unis,30,30,32,34,45,-1.37983,-1.18084,non,0,0,0
+64,45,Homme,Diplome universitaire,Royaume-Unis,46,38,40,39,42,-1.37983,-1.18084,non,0,0,0
+65,45,Homme,Doctorat,Royaume-Unis,22,43,52,40,48,-1.37983,-0.52593,oui,1,0,0
+66,35,Homme,Quitte Lycee ou universite sans diplome,Royaume-Unis,43,43,39,50,46,0.52975,-0.21575,non,0,1,0
+67,45,Homme,Quitte ecole a 16 ans,Royaume-Unis,26,35,37,51,45,-0.71126,-1.18084,non,0,1,0
+68,25,Homme,Maitrise,Royaume-Unis,32,38,52,37,41,0.88113,-0.21575,oui,1,0,0
+69,35,Homme,Diplome professionnel,Autre,27,40,47,42,40,-0.21711999999999998,0.07987000000000001,oui,1,0,0
+70,45,Femme,Quitte ecole a 16 ans,Royaume-Unis,35,35,33,45,42,-1.37983,-0.8463700000000001,non,0,1,1
+71,25,Homme,Quitte Lycee ou universite sans diplome,Royaume-Unis,32,38,46,30,40,0.52975,0.7654,oui,1,1,0
+72,45,Femme,Quitte ecole a 18 ans,Canada,31,47,43,50,43,-2.55524,-0.8463700000000001,non,0,1,1
+73,45,Homme,Quitte ecole a 18 ans,Royaume-Unis,22,46,45,46,48,0.19268,0.40148,non,0,1,0
+74,45,Homme,Diplome professionnel,Royaume-Unis,29,36,43,45,49,-0.71126,-0.21575,non,0,0,0
+75,65,Femme,Quitte ecole a 16 ans,Royaume-Unis,25,27,26,33,44,0.52975,-2.07848,non,0,1,1
+76,25,Homme,Diplome universitaire,Royaume-Unis,34,41,34,38,39,0.52975,-0.21575,non,0,0,0
+77,45,Femme,Quitte ecole a 17 ans,Canada,32,35,34,46,46,-2.55524,-2.07848,non,0,1,1
+78,35,Homme,Diplome universitaire,Royaume-Unis,37,28,41,35,39,-0.21711999999999998,-2.07848,oui,1,0,0
+79,35,Homme,Quitte Lycee ou universite sans diplome,Royaume-Unis,28,34,30,32,25,-2.55524,-1.18084,non,0,1,0
+80,35,Homme,Diplome professionnel,Royaume-Unis,32,34,31,50,37,-0.21711999999999998,-0.21575,non,0,0,0
+81,65,Femme,Doctorat,Canada,36,42,48,42,51,-0.21711999999999998,-0.21575,non,0,0,1
+82,55,Femme,Diplome universitaire,Royaume-Unis,28,31,45,37,41,0.88113,0.40148,oui,1,0,1
+83,55,Homme,Maitrise,Canada,19,49,38,47,51,-0.21711999999999998,-1.18084,non,0,0,0
+84,55,Femme,Quitte ecole a 17 ans,Royaume-Unis,46,33,37,52,29,0.19268,-0.21575,non,0,1,1
+85,45,Homme,Quitte ecole a 16 ans,Royaume-Unis,32,41,43,41,41,-1.37983,0.07987000000000001,oui,1,1,0
+86,25,Femme,Quitte ecole a 18 ans,Royaume-Unis,31,40,34,44,45,0.52975,1.2247,non,0,1,1
+87,35,Homme,Quitte Lycee ou universite sans diplome,Royaume-Unis,43,39,37,44,41,-0.21711999999999998,0.40148,non,0,1,0
+88,55,Homme,Quitte ecole a 16 ans,Royaume-Unis,27,41,42,41,44,-0.71126,0.40148,non,0,1,0
+89,35,Femme,Quitte Lycee ou universite sans diplome,Royaume-Unis,39,26,35,38,38,-1.37983,-2.07848,oui,1,1,1
+90,35,Femme,Maitrise,Royaume-Unis,45,36,47,39,40,0.52975,-0.21575,non,0,0,1
+91,35,Femme,Maitrise,Royaume-Unis,49,42,50,45,36,-1.37983,0.07987000000000001,oui,1,0,1
+92,35,Homme,Diplome professionnel,Canada,40,37,50,45,47,0.88113,0.7654,non,0,0,0
+93,25,Homme,Quitte ecole a 18 ans,Royaume-Unis,22,38,42,45,42,-0.71126,-0.8463700000000001,non,0,1,0
+94,65,Femme,Quitte ecole a 16 ans,Royaume-Unis,34,34,38,48,45,-1.37983,-1.5485799999999998,non,0,1,1
+95,45,Homme,Maitrise,Royaume-Unis,29,36,38,47,41,-1.37983,-2.07848,oui,1,0,0
+96,45,Homme,Maitrise,Royaume-Unis,31,42,52,32,49,0.52975,-0.21575,non,0,0,0
+97,35,Femme,Diplome universitaire,Canada,37,32,47,42,47,-1.37983,-1.5485799999999998,oui,1,0,1
+98,45,Femme,Maitrise,Royaume-Unis,31,44,43,39,33,0.19268,-0.8463700000000001,non,0,0,1
+99,35,Homme,Doctorat,Canada,25,37,45,39,48,-0.21711999999999998,1.2247,non,0,0,0
+100,25,Femme,Diplome universitaire,Royaume-Unis,29,57,50,49,52,0.52975,0.40148,oui,1,0,1
+101,25,Homme,Maitrise,Autre,26,55,49,33,39,-0.21711999999999998,1.2247,oui,1,0,0
+102,45,Femme,Quitte ecole a 16 ans,Australie,30,43,33,42,48,-1.37983,-0.8463700000000001,non,0,1,1
+103,45,Homme,Quitte ecole a 18 ans,Royaume-Unis,30,48,54,34,42,-0.71126,1.2247,non,0,1,0
+104,45,Femme,Diplome professionnel,Canada,36,44,43,41,43,0.19268,0.7654,non,0,0,1
+105,25,Femme,Quitte Lycee ou universite sans diplome,Canada,27,41,44,50,46,-0.71126,0.07987000000000001,oui,1,1,1
+106,35,Homme,Diplome professionnel,Royaume-Unis,18,43,32,38,54,-1.37983,-1.5485799999999998,non,0,0,0
+107,25,Femme,Quitte Lycee ou universite sans diplome,Royaume-Unis,46,38,32,45,39,-1.37983,-0.8463700000000001,non,0,1,1
+108,35,Femme,Quitte ecole a 16 ans,Royaume-Unis,37,40,36,38,46,0.52975,-0.21575,non,0,1,1
+109,25,Femme,Diplome universitaire,Royaume-Unis,31,53,46,44,47,1.8620299999999999,1.2247,oui,1,0,1
+110,45,Femme,Quitte Lycee ou universite sans diplome,Royaume-Unis,28,43,35,37,38,-0.71126,0.07987000000000001,oui,1,1,1
+111,45,Homme,Maitrise,Royaume-Unis,34,42,46,41,41,0.19268,-0.52593,non,0,0,0
+112,25,Homme,Maitrise,Royaume-Unis,39,32,39,39,37,0.19268,0.40148,oui,1,0,0
+113,25,Femme,Diplome universitaire,Royaume-Unis,25,42,51,35,36,-0.21711999999999998,-0.21575,oui,1,0,1
+114,45,Femme,Diplome professionnel,Royaume-Unis,36,44,47,44,47,0.19268,-0.21575,oui,1,0,1
+115,35,Homme,Quitte Lycee ou universite sans diplome,Royaume-Unis,17,52,54,38,31,1.8620299999999999,1.2247,oui,1,1,0
+116,25,Femme,Diplome professionnel,Canada,38,36,39,45,49,-1.37983,-2.07848,oui,1,0,1
+117,35,Homme,Diplome professionnel,Canada,42,36,46,31,39,0.52975,-0.21575,oui,1,0,0
+118,25,Femme,Diplome universitaire,Royaume-Unis,51,45,54,44,33,0.52975,0.40148,non,0,0,1
+119,35,Femme,Quitte Lycee ou universite sans diplome,Etats-Unis,53,26,28,50,44,-0.21711999999999998,-1.5485799999999998,non,0,1,1
+120,35,Femme,Diplome universitaire,Royaume-Unis,32,44,38,45,51,-0.21711999999999998,-0.8463700000000001,non,0,0,1
+121,25,Femme,Maitrise,Royaume-Unis,26,44,38,36,47,0.19268,1.92173,non,0,0,1
+122,35,Femme,Diplome professionnel,Royaume-Unis,50,31,34,29,36,0.52975,0.07987000000000001,non,0,0,1
+123,55,Homme,Maitrise,Royaume-Unis,38,41,44,41,35,-0.21711999999999998,-0.52593,non,0,0,0
+124,25,Femme,Diplome universitaire,Royaume-Unis,38,35,42,43,43,1.29221,0.07987000000000001,oui,1,0,1
+125,45,Homme,Quitte ecole a 16 ans,Royaume-Unis,32,52,47,46,46,-0.21711999999999998,-0.21575,non,0,1,0
+126,55,Homme,Diplome universitaire,Royaume-Unis,31,48,48,44,49,0.52975,0.40148,non,0,0,0
+127,45,Homme,Diplome universitaire,Royaume-Unis,25,44,37,40,42,-0.21711999999999998,-0.8463700000000001,non,0,0,0
+128,45,Femme,Quitte ecole a 17 ans,Royaume-Unis,32,34,39,45,48,-1.37983,-2.07848,non,0,1,1
+129,35,Homme,Doctorat,Royaume-Unis,36,44,46,44,44,-0.21711999999999998,-1.18084,non,0,0,0
+130,45,Femme,Maitrise,Royaume-Unis,28,46,37,49,45,0.19268,0.40148,non,0,0,1
+131,45,Femme,Quitte ecole a 16 ans,Royaume-Unis,45,42,35,46,55,-0.71126,-1.18084,non,0,1,1
+132,45,Femme,Quitte ecole a 16 ans,Royaume-Unis,22,39,36,57,46,-1.37983,-2.07848,non,0,1,1
+133,35,Femme,Quitte ecole a 18 ans,Irelande,33,36,41,42,44,-1.37983,-1.5485799999999998,non,0,1,1
+134,35,Homme,Maitrise,Royaume-Unis,35,41,47,42,43,0.52975,0.40148,non,0,0,0
+135,25,Femme,Maitrise,Royaume-Unis,60,29,43,47,37,-1.37983,0.40148,non,0,0,1
+136,35,Femme,Quitte ecole a 16 ans,Royaume-Unis,21,50,41,54,52,0.52975,-0.52593,non,0,1,1
+137,45,Femme,Diplome universitaire,Royaume-Unis,34,38,33,54,52,1.29221,0.07987000000000001,non,0,0,1
+138,45,Femme,Diplome universitaire,Royaume-Unis,25,50,47,48,45,-2.55524,-1.18084,non,0,0,1
+139,55,Homme,Diplome universitaire,Royaume-Unis,31,34,46,45,48,-1.37983,-1.18084,non,0,0,0
+140,45,Homme,Quitte ecole a 16 ans,Royaume-Unis,35,42,41,49,40,-0.21711999999999998,-0.21575,non,0,1,0
+141,25,Femme,Diplome universitaire,Royaume-Unis,54,42,54,49,40,-0.71126,-0.21575,non,0,0,1
+142,35,Femme,Quitte ecole a 16 ans,Royaume-Unis,28,44,37,51,46,-1.37983,-2.07848,non,0,1,1
+143,35,Homme,Quitte ecole a 17 ans,Royaume-Unis,31,38,36,45,41,0.52975,0.40148,non,0,1,0
+144,35,Homme,Diplome professionnel,Royaume-Unis,21,48,41,51,54,-0.71126,-0.52593,non,0,0,0
+145,45,Homme,Diplome professionnel,Canada,37,32,42,35,42,-0.21711999999999998,0.7654,oui,1,0,0
+146,45,Femme,Diplome universitaire,Royaume-Unis,31,41,37,56,47,1.29221,0.40148,non,0,0,1
+147,55,Homme,Diplome professionnel,Royaume-Unis,38,31,44,40,40,0.19268,-1.18084,non,0,0,0
+148,35,Homme,Maitrise,Royaume-Unis,30,43,40,44,48,-0.21711999999999998,-0.52593,non,0,0,0
+149,35,Femme,Diplome professionnel,Royaume-Unis,35,32,27,37,44,-1.37983,-1.5485799999999998,non,0,0,1
+150,45,Femme,Diplome universitaire,Royaume-Unis,28,52,40,55,52,-0.21711999999999998,-1.18084,oui,1,0,1
+151,35,Femme,Quitte Lycee ou universite sans diplome,Royaume-Unis,33,48,46,47,49,0.19268,0.07987000000000001,non,0,1,1
+152,35,Femme,Diplome universitaire,Royaume-Unis,41,28,32,46,35,-0.71126,-0.8463700000000001,oui,1,0,1
+153,25,Femme,Diplome universitaire,Royaume-Unis,31,29,40,39,37,-2.55524,-1.5485799999999998,oui,1,0,1
+154,25,Homme,Diplome universitaire,Royaume-Unis,29,46,33,48,47,-0.21711999999999998,-0.52593,non,0,0,0
+155,18,Femme,Quitte Lycee ou universite sans diplome,Royaume-Unis,59,30,50,40,46,-0.21711999999999998,0.7654,non,0,1,1
+156,35,Femme,Diplome universitaire,Royaume-Unis,42,30,36,45,40,-0.71126,-0.8463700000000001,non,0,0,1
+157,35,Femme,Quitte Lycee ou universite sans diplome,Royaume-Unis,48,40,43,50,43,0.19268,-0.52593,oui,1,1,1
+158,25,Homme,Quitte ecole a 16 ans,Royaume-Unis,26,47,32,40,47,-0.21711999999999998,0.7654,non,0,1,0
+159,35,Femme,Diplome universitaire,Australie,33,41,43,41,45,0.88113,1.2247,non,0,0,1
+160,45,Femme,Quitte Lycee ou universite sans diplome,Royaume-Unis,31,36,41,44,44,-0.21711999999999998,-1.18084,non,0,1,1
+161,45,Homme,Maitrise,Autre,46,45,48,42,44,-0.21711999999999998,0.40148,oui,1,0,0
+162,35,Homme,Diplome universitaire,Royaume-Unis,29,42,39,54,39,-0.71126,-1.18084,non,0,0,0
+163,25,Femme,Diplome universitaire,Nouvelle-Zelande,38,40,44,53,48,-1.37983,-0.21575,oui,1,0,1
+164,25,Femme,Quitte Lycee ou universite sans diplome,Royaume-Unis,53,40,43,49,43,-0.21711999999999998,-0.8463700000000001,non,0,1,1
+165,25,Femme,Doctorat,Royaume-Unis,37,42,34,52,49,-1.37983,-0.52593,non,0,0,1
+166,45,Homme,Maitrise,Royaume-Unis,33,38,43,40,52,-1.37983,-0.8463700000000001,non,0,0,0
+167,18,Homme,Quitte Lycee ou universite sans diplome,Royaume-Unis,50,31,50,27,27,0.88113,0.07987000000000001,oui,1,1,0
+168,25,Femme,Diplome professionnel,Royaume-Unis,36,40,38,40,48,0.52975,-0.52593,non,0,0,1
+169,25,Femme,Diplome universitaire,Royaume-Unis,38,48,36,41,33,0.52975,0.40148,non,0,0,1
+170,18,Femme,Quitte ecole a 18 ans,Royaume-Unis,32,40,35,47,41,-0.71126,0.40148,non,0,1,1
+171,45,Homme,Quitte ecole a 16 ans,Royaume-Unis,49,38,43,44,41,0.88113,0.40148,oui,1,1,0
+172,35,Homme,Maitrise,Royaume-Unis,32,46,57,48,36,1.29221,1.92173,non,0,0,0
+173,45,Femme,Diplome professionnel,Royaume-Unis,41,36,42,40,47,0.19268,-1.18084,oui,1,0,1
+174,35,Femme,Diplome universitaire,Royaume-Unis,46,44,53,44,44,0.52975,0.40148,non,0,0,1
+175,35,Femme,Diplome professionnel,Royaume-Unis,46,36,29,48,30,0.88113,0.07987000000000001,non,0,0,1
+176,55,Femme,Diplome universitaire,Royaume-Unis,42,40,48,51,43,0.19268,0.07987000000000001,non,0,0,1
+177,35,Femme,Diplome universitaire,Royaume-Unis,34,36,39,35,38,-1.37983,-1.18084,non,0,0,1
+178,35,Femme,Diplome universitaire,Royaume-Unis,50,40,36,37,49,-0.71126,-0.52593,non,0,0,1
+179,45,Femme,Diplome universitaire,Royaume-Unis,44,33,42,48,41,0.19268,-0.21575,non,0,0,1
+180,35,Femme,Diplome professionnel,Royaume-Unis,40,39,38,50,37,-1.37983,-1.18084,oui,1,0,1
+181,45,Femme,Diplome professionnel,Royaume-Unis,39,44,34,45,48,0.19268,0.07987000000000001,non,0,0,1
+182,25,Homme,Doctorat,Royaume-Unis,24,37,43,47,48,-0.71126,-1.18084,non,0,0,0
+183,35,Femme,Quitte Lycee ou universite sans diplome,Royaume-Unis,39,45,43,51,47,-1.37983,-1.18084,non,0,1,1
+184,18,Femme,Diplome universitaire,Royaume-Unis,54,37,47,38,48,-0.71126,0.40148,non,0,0,1
+185,55,Homme,Quitte ecole a 18 ans,Royaume-Unis,36,34,38,47,44,-1.37983,-1.18084,non,0,1,0
+186,35,Femme,Diplome universitaire,Canada,39,44,45,48,41,-0.21711999999999998,-0.52593,oui,1,0,1
+187,35,Femme,Maitrise,Royaume-Unis,29,49,46,45,53,-1.37983,-1.5485799999999998,non,0,0,1
+188,55,Femme,Quitte ecole a 16 ans,Royaume-Unis,28,34,31,50,46,-1.37983,-1.5485799999999998,non,0,1,1
+189,45,Femme,Quitte ecole a 16 ans,Royaume-Unis,40,30,30,47,40,-1.37983,-2.07848,non,0,1,1
+190,18,Femme,Maitrise,Royaume-Unis,32,40,42,44,47,-0.71126,-0.8463700000000001,oui,1,0,1
+191,55,Femme,Diplome professionnel,Royaume-Unis,23,40,39,47,40,-0.71126,-1.5485799999999998,non,0,0,1
+192,18,Homme,Diplome universitaire,Royaume-Unis,32,48,37,47,38,0.52975,0.07987000000000001,oui,1,0,0
+193,25,Femme,Diplome professionnel,Canada,28,38,44,45,38,0.88113,0.07987000000000001,oui,1,0,1
+194,45,Femme,Diplome universitaire,Royaume-Unis,39,32,42,44,43,-1.37983,0.07987000000000001,non,0,0,1
+195,25,Femme,Diplome universitaire,Canada,27,48,45,43,45,-0.71126,-1.18084,oui,1,0,1
+196,55,Femme,Diplome universitaire,Royaume-Unis,42,42,50,41,48,0.52975,0.07987000000000001,oui,1,0,1
+197,18,Homme,Diplome universitaire,Royaume-Unis,30,42,41,51,35,0.19268,-1.18084,non,0,0,0
+198,55,Femme,Diplome universitaire,Royaume-Unis,32,43,40,37,38,-0.71126,-0.8463700000000001,non,0,0,1
+199,25,Femme,Diplome professionnel,Royaume-Unis,35,43,49,48,42,1.8620299999999999,1.2247,oui,1,0,1
+200,45,Femme,Diplome professionnel,Royaume-Unis,31,54,50,54,50,0.52975,0.07987000000000001,oui,1,0,1
+201,18,Femme,Diplome universitaire,Royaume-Unis,30,41,39,50,51,0.52975,1.2247,non,0,0,1
+202,35,Homme,Maitrise,Royaume-Unis,34,33,41,34,50,-0.71126,-0.8463700000000001,oui,1,0,0
+203,35,Femme,Diplome universitaire,Royaume-Unis,29,48,42,49,49,0.19268,-0.8463700000000001,non,0,0,1
+204,65,Homme,Quitte ecole avant 16 ans,Royaume-Unis,22,32,28,37,37,-1.37983,-2.07848,non,0,1,0
+205,25,Femme,Diplome universitaire,Royaume-Unis,34,46,53,43,44,-0.21711999999999998,0.40148,oui,1,0,1
+206,35,Femme,Quitte ecole a 16 ans,Royaume-Unis,34,47,47,37,34,1.8620299999999999,0.40148,non,0,1,1
+207,18,Femme,Diplome universitaire,Royaume-Unis,35,48,49,44,45,0.88113,0.07987000000000001,non,0,0,1
+208,35,Femme,Diplome professionnel,Royaume-Unis,29,43,41,47,41,-0.21711999999999998,0.40148,oui,1,0,1
+209,35,Femme,Diplome universitaire,Royaume-Unis,37,40,44,41,42,0.52975,1.2247,oui,1,0,1
+210,25,Homme,Maitrise,Royaume-Unis,23,43,52,40,49,-1.37983,-0.8463700000000001,non,0,0,0
+211,25,Femme,Quitte Lycee ou universite sans diplome,Royaume-Unis,43,41,35,43,32,1.8620299999999999,0.7654,non,0,1,1
+212,45,Femme,Quitte ecole a 16 ans,Royaume-Unis,29,36,37,50,48,-1.37983,-2.07848,non,0,1,1
+213,25,Femme,Diplome professionnel,Royaume-Unis,37,44,39,54,46,-0.21711999999999998,-1.18084,non,0,0,1
+214,45,Femme,Diplome professionnel,Irelande,41,39,36,49,43,-1.37983,-1.5485799999999998,non,0,0,1
+215,25,Femme,Diplome professionnel,Royaume-Unis,34,47,48,51,50,0.19268,1.2247,oui,1,0,1
+216,25,Femme,Diplome universitaire,Canada,51,38,40,50,39,0.19268,0.07987000000000001,oui,1,0,1
+217,25,Femme,Diplome professionnel,Royaume-Unis,38,47,47,52,42,0.88113,0.7654,non,0,0,1
+218,35,Homme,Diplome professionnel,Royaume-Unis,48,45,48,52,29,1.8620299999999999,0.7654,non,0,0,0
+219,25,Femme,Maitrise,Autre,39,47,39,36,47,-0.21711999999999998,-0.52593,oui,1,0,1
+220,35,Femme,Quitte Lycee ou universite sans diplome,Royaume-Unis,32,36,46,50,44,-1.37983,-0.8463700000000001,non,0,1,1
+221,18,Femme,Diplome universitaire,Royaume-Unis,44,38,47,43,43,0.19268,0.07987000000000001,oui,1,0,1
+222,25,Femme,Diplome universitaire,Royaume-Unis,34,43,42,38,48,0.52975,-0.52593,non,0,0,1
+223,35,Femme,Diplome universitaire,Royaume-Unis,33,44,50,50,44,1.29221,1.2247,oui,1,0,1
+224,55,Homme,Diplome universitaire,Royaume-Unis,25,47,43,50,48,-0.21711999999999998,0.07987000000000001,non,0,0,0
+225,45,Femme,Diplome universitaire,Royaume-Unis,31,49,47,46,47,-0.21711999999999998,-0.21575,non,0,0,1
+226,35,Femme,Diplome universitaire,Royaume-Unis,24,44,51,40,44,-1.37983,-1.5485799999999998,non,0,0,1
+227,45,Femme,Diplome universitaire,Royaume-Unis,31,43,40,52,51,-0.21711999999999998,-0.8463700000000001,non,0,0,1
+228,18,Homme,Quitte Lycee ou universite sans diplome,Royaume-Unis,38,46,38,39,46,1.29221,0.40148,oui,1,1,0
+229,45,Homme,Maitrise,Royaume-Unis,29,42,45,38,41,0.19268,0.07987000000000001,oui,1,0,0
+230,45,Femme,Diplome universitaire,Royaume-Unis,26,49,46,49,52,-1.37983,-2.07848,non,0,0,1
+231,35,Femme,Diplome professionnel,Royaume-Unis,46,23,32,47,45,-1.37983,-1.5485799999999998,non,0,0,1
+232,65,Femme,Maitrise,Royaume-Unis,37,32,42,40,44,-0.21711999999999998,-1.5485799999999998,non,0,0,1
+233,25,Femme,Diplome universitaire,Royaume-Unis,36,48,45,44,47,0.52975,0.7654,non,0,0,1
+234,45,Homme,Diplome universitaire,Royaume-Unis,29,45,35,49,44,0.52975,0.40148,non,0,0,0
+235,25,Femme,Diplome universitaire,Royaume-Unis,40,46,45,37,52,0.19268,0.40148,oui,1,0,1
+236,25,Femme,Diplome professionnel,Royaume-Unis,36,46,36,56,54,-1.37983,-2.07848,non,0,0,1
+237,25,Femme,Maitrise,Royaume-Unis,50,42,44,46,45,0.19268,-0.21575,non,0,0,1
+238,25,Femme,Quitte ecole a 16 ans,Royaume-Unis,45,39,29,45,50,-1.37983,-2.07848,oui,1,1,1
+239,18,Femme,Quitte ecole a 18 ans,Royaume-Unis,41,39,40,39,44,-0.21711999999999998,-0.21575,non,0,1,1
+240,45,Femme,Diplome professionnel,Royaume-Unis,20,44,50,53,44,-1.37983,-0.8463700000000001,non,0,0,1
+241,35,Femme,Maitrise,Royaume-Unis,42,31,45,53,56,-1.37983,-0.8463700000000001,non,0,0,1
+242,25,Femme,Quitte ecole a 18 ans,Autre,55,31,39,48,34,0.19268,-1.18084,oui,1,1,1
+243,18,Femme,Quitte Lycee ou universite sans diplome,Royaume-Unis,50,29,25,48,35,-1.37983,-1.5485799999999998,non,0,1,1
+244,25,Femme,Diplome universitaire,Royaume-Unis,30,47,50,49,48,-1.37983,-0.21575,oui,1,0,1
+245,35,Homme,Diplome universitaire,Royaume-Unis,54,29,44,50,20,-0.71126,-0.52593,non,0,0,0
+246,25,Femme,Quitte Lycee ou universite sans diplome,Royaume-Unis,33,33,33,33,31,-2.55524,-1.5485799999999998,non,0,1,1
+247,25,Femme,Diplome professionnel,Royaume-Unis,49,35,36,46,37,-0.21711999999999998,-0.8463700000000001,oui,1,0,1
+248,45,Homme,Maitrise,Royaume-Unis,27,38,37,47,52,-0.21711999999999998,-0.52593,non,0,0,0
+249,45,Femme,Doctorat,Royaume-Unis,16,41,43,55,53,-0.71126,-1.18084,non,0,0,1
+250,45,Femme,Diplome professionnel,Royaume-Unis,47,42,44,49,49,-0.71126,-0.21575,non,0,0,1
+251,45,Homme,Diplome universitaire,Royaume-Unis,31,41,43,40,51,0.19268,-0.8463700000000001,non,0,0,0
+252,35,Femme,Diplome universitaire,Royaume-Unis,42,33,40,42,47,-1.37983,-1.5485799999999998,non,0,0,1
+253,18,Femme,Maitrise,Royaume-Unis,23,46,41,56,54,-0.71126,-0.21575,oui,1,0,1
+254,45,Femme,Doctorat,Royaume-Unis,28,41,47,43,48,-1.37983,-2.07848,oui,1,0,1
+255,25,Homme,Diplome professionnel,Royaume-Unis,49,35,40,37,40,-1.37983,-0.8463700000000001,oui,1,0,0
+256,35,Femme,Maitrise,Royaume-Unis,25,51,52,51,47,0.19268,0.40148,oui,1,0,1
+257,18,Femme,Quitte Lycee ou universite sans diplome,Royaume-Unis,31,44,43,48,48,-0.71126,-0.21575,oui,1,1,1
+258,35,Homme,Doctorat,Royaume-Unis,36,40,51,25,40,-0.71126,0.07987000000000001,non,0,0,0
+259,65,Homme,Doctorat,Royaume-Unis,41,39,42,33,53,-0.71126,-1.5485799999999998,non,0,0,0
+260,65,Homme,Diplome professionnel,Royaume-Unis,26,38,47,46,47,-0.21711999999999998,-0.52593,non,0,0,0
+261,45,Femme,Diplome professionnel,Royaume-Unis,31,46,57,37,42,1.8620299999999999,1.2247,oui,1,0,1
+262,55,Homme,Diplome universitaire,Royaume-Unis,29,37,50,43,41,1.8620299999999999,0.07987000000000001,non,0,0,0
+263,45,Homme,Maitrise,Royaume-Unis,27,45,43,49,44,-1.37983,-1.5485799999999998,non,0,0,0
+264,55,Femme,Quitte ecole avant 16 ans,Royaume-Unis,26,40,45,53,49,-0.71126,-1.5485799999999998,non,0,1,1
+265,18,Femme,Diplome universitaire,Royaume-Unis,31,41,45,47,46,-1.37983,-1.18084,oui,1,0,1
+266,35,Femme,Diplome universitaire,Royaume-Unis,33,40,42,43,42,-0.71126,-2.07848,non,0,0,1
+267,55,Homme,Diplome universitaire,Royaume-Unis,25,39,44,45,47,-0.21711999999999998,0.07987000000000001,oui,1,0,0
+268,35,Homme,Diplome professionnel,Royaume-Unis,27,49,36,40,42,-0.21711999999999998,0.07987000000000001,non,0,0,0
+269,45,Femme,Maitrise,Royaume-Unis,26,51,49,46,54,-0.21711999999999998,-0.52593,non,0,0,1
+270,35,Femme,Maitrise,Royaume-Unis,27,41,39,38,43,-1.37983,-2.07848,non,0,0,1
+271,45,Femme,Maitrise,Royaume-Unis,17,53,55,48,47,0.88113,0.40148,non,0,0,1
+272,45,Femme,Maitrise,Royaume-Unis,43,35,48,45,31,-0.71126,0.7654,non,0,0,1
+273,55,Homme,Doctorat,Royaume-Unis,26,40,45,45,42,0.52975,-0.8463700000000001,non,0,0,0
+274,25,Femme,Diplome universitaire,Royaume-Unis,38,41,37,45,44,-0.71126,-0.21575,oui,1,0,1
+275,35,Homme,Maitrise,Royaume-Unis,38,46,46,37,46,-0.21711999999999998,0.7654,oui,1,0,0
+276,35,Femme,Maitrise,Royaume-Unis,40,37,46,46,52,-1.37983,-0.21575,non,0,0,1
+277,55,Homme,Doctorat,Royaume-Unis,27,43,41,41,38,-0.21711999999999998,-0.52593,non,0,0,0
+278,25,Homme,Quitte Lycee ou universite sans diplome,Royaume-Unis,26,49,52,48,41,0.52975,0.07987000000000001,oui,1,1,0
+279,45,Femme,Diplome universitaire,Royaume-Unis,33,37,43,48,42,-0.71126,-0.52593,non,0,0,1
+280,45,Homme,Maitrise,Royaume-Unis,24,45,47,46,45,0.19268,-0.52593,non,0,0,0
+281,55,Homme,Maitrise,Royaume-Unis,35,41,50,43,35,-0.71126,-0.8463700000000001,non,0,0,0
+282,45,Femme,Quitte Lycee ou universite sans diplome,Royaume-Unis,36,38,29,42,41,-0.71126,-0.8463700000000001,non,0,1,1
+283,45,Femme,Maitrise,Royaume-Unis,35,40,46,49,48,0.19268,0.40148,non,0,0,1
+284,45,Homme,Diplome universitaire,Royaume-Unis,27,50,46,41,47,0.19268,0.40148,non,0,0,0
+285,35,Homme,Diplome professionnel,Autre,25,34,50,40,44,1.29221,-0.21575,oui,1,0,0
+286,35,Homme,Diplome universitaire,Royaume-Unis,27,48,40,41,44,-1.37983,-0.21575,non,0,0,0
+287,45,Femme,Diplome universitaire,Royaume-Unis,38,30,44,34,41,-1.37983,-2.07848,non,0,0,1
+288,45,Homme,Maitrise,Royaume-Unis,39,42,42,46,35,-0.21711999999999998,-0.21575,non,0,0,0
+289,25,Homme,Quitte Lycee ou universite sans diplome,Royaume-Unis,42,42,40,41,42,-0.21711999999999998,-1.5485799999999998,non,0,1,0
+290,25,Femme,Maitrise,Royaume-Unis,19,44,40,53,49,-1.37983,-1.18084,oui,1,0,1
+291,35,Femme,Diplome professionnel,Royaume-Unis,27,46,39,52,48,-1.37983,-1.5485799999999998,non,0,0,1
+292,35,Femme,Quitte Lycee ou universite sans diplome,Royaume-Unis,42,32,48,38,39,-1.37983,-0.52593,oui,1,1,1
+293,45,Femme,Diplome professionnel,Royaume-Unis,35,39,41,39,45,-0.71126,-0.52593,non,0,0,1
+295,25,Femme,Diplome professionnel,Royaume-Unis,47,40,44,38,39,0.19268,-0.21575,oui,1,0,1
+296,18,Femme,Quitte ecole a 17 ans,Royaume-Unis,32,43,44,39,41,-0.71126,-0.8463700000000001,non,0,1,1
+297,35,Homme,Diplome professionnel,Royaume-Unis,49,37,46,43,42,-0.71126,-0.52593,oui,1,0,0
+298,65,Femme,Quitte ecole a 16 ans,Royaume-Unis,44,34,46,42,49,-0.21711999999999998,-0.52593,non,0,1,1
+300,35,Femme,Diplome universitaire,Royaume-Unis,37,38,35,53,45,-0.21711999999999998,-1.5485799999999998,non,0,0,1
+301,35,Femme,Diplome professionnel,Etats-Unis,44,33,44,46,46,-0.71126,-0.8463700000000001,non,0,0,1
+302,25,Femme,Quitte Lycee ou universite sans diplome,Etats-Unis,33,37,34,44,46,-1.37983,-1.5485799999999998,non,0,1,1
+303,35,Femme,Doctorat,Royaume-Unis,41,37,40,47,48,-0.71126,-0.8463700000000001,non,0,0,1
+304,55,Femme,Diplome professionnel,Royaume-Unis,34,44,45,38,39,-0.21711999999999998,0.07987000000000001,oui,1,0,1
+305,45,Femme,Diplome universitaire,Royaume-Unis,32,40,36,42,48,-0.21711999999999998,-1.18084,non,0,0,1
+306,45,Femme,Diplome universitaire,Royaume-Unis,26,22,36,53,43,-0.71126,-1.5485799999999998,non,0,0,1
+307,35,Homme,Maitrise,Royaume-Unis,38,31,39,36,47,-1.37983,-0.8463700000000001,oui,1,0,0
+308,45,Homme,Maitrise,Royaume-Unis,31,36,40,50,47,-0.71126,-0.52593,oui,1,0,0
+309,35,Femme,Quitte ecole a 18 ans,Royaume-Unis,21,45,44,43,52,0.19268,0.07987000000000001,non,0,1,1
+310,35,Homme,Maitrise,Royaume-Unis,28,41,44,47,45,-1.37983,-2.07848,non,0,0,0
+311,45,Femme,Diplome universitaire,Royaume-Unis,24,39,39,44,46,-1.37983,-1.5485799999999998,non,0,0,1
+312,18,Femme,Quitte ecole a 16 ans,Royaume-Unis,47,36,31,41,41,1.8620299999999999,0.7654,non,0,1,1
+313,45,Femme,Maitrise,Royaume-Unis,32,40,42,45,43,-1.37983,-0.52593,non,0,0,1
+314,25,Femme,Maitrise,Royaume-Unis,36,51,47,47,50,0.19268,-0.52593,non,0,0,1
+315,18,Femme,Quitte ecole a 18 ans,Irelande,30,41,40,44,41,-0.71126,-1.18084,non,0,1,1
+316,45,Femme,Doctorat,Royaume-Unis,28,45,49,43,45,-0.71126,-0.52593,non,0,0,1
+317,55,Femme,Diplome universitaire,Royaume-Unis,31,45,52,40,36,1.8620299999999999,0.40148,oui,1,0,1
+318,35,Homme,Diplome universitaire,Royaume-Unis,28,52,38,43,49,-0.71126,-0.52593,oui,1,0,0
+319,25,Femme,Diplome professionnel,Royaume-Unis,36,40,40,45,48,-1.37983,-1.18084,non,0,0,1
+320,45,Femme,Quitte ecole a 16 ans,Royaume-Unis,39,38,36,42,46,0.88113,0.40148,non,0,1,1
+321,45,Femme,Diplome universitaire,Royaume-Unis,43,38,41,36,41,-1.37983,-1.18084,non,0,0,1
+322,35,Femme,Quitte Lycee ou universite sans diplome,Royaume-Unis,41,38,38,54,52,-1.37983,-2.07848,non,0,1,1
+323,18,Femme,Diplome universitaire,Royaume-Unis,28,43,48,49,43,-0.21711999999999998,0.40148,oui,1,0,1
+324,45,Homme,Quitte ecole a 17 ans,Royaume-Unis,45,32,33,45,36,-0.71126,0.07987000000000001,oui,1,1,0
+325,25,Femme,Doctorat,Royaume-Unis,38,40,54,37,48,0.19268,-0.52593,non,0,0,1
+326,35,Femme,Diplome professionnel,Royaume-Unis,28,48,44,49,55,0.19268,-0.52593,non,0,0,1
+327,35,Homme,Quitte ecole a 18 ans,Royaume-Unis,30,28,31,49,45,0.52975,0.07987000000000001,oui,1,1,0
+328,45,Homme,Maitrise,Royaume-Unis,20,50,45,53,50,-1.37983,-0.8463700000000001,non,0,0,0
+329,25,Femme,Diplome professionnel,Royaume-Unis,38,38,36,50,38,-1.37983,-2.07848,non,0,0,1
+330,45,Homme,Diplome professionnel,Royaume-Unis,32,43,38,46,41,0.52975,-0.21575,non,0,0,0
+331,45,Femme,Diplome professionnel,Royaume-Unis,26,43,40,48,47,-0.21711999999999998,-0.21575,non,0,0,1
+332,35,Homme,Quitte ecole avant 16 ans,Royaume-Unis,33,37,38,40,46,-1.37983,-0.8463700000000001,oui,1,1,0
+333,55,Femme,Quitte ecole a 18 ans,Canada,31,37,34,49,47,-1.37983,-1.5485799999999998,non,0,1,1
+334,18,Femme,Quitte Lycee ou universite sans diplome,Royaume-Unis,59,26,39,46,28,0.19268,-0.52593,oui,1,1,1
+335,65,Homme,Quitte Lycee ou universite sans diplome,Canada,24,37,38,44,43,1.29221,-0.21575,non,0,1,0
+336,65,Femme,Quitte ecole a 16 ans,Canada,34,39,35,34,42,-0.21711999999999998,0.7654,non,0,1,1
+337,25,Femme,Maitrise,Royaume-Unis,40,36,49,46,34,1.8620299999999999,0.7654,oui,1,0,1
+338,45,Femme,Maitrise,Royaume-Unis,42,41,44,43,50,-0.21711999999999998,-0.8463700000000001,non,0,0,1
+339,45,Femme,Diplome professionnel,Canada,30,42,52,31,45,1.8620299999999999,0.40148,oui,1,0,1
+340,35,Homme,Doctorat,Royaume-Unis,20,48,47,48,51,-0.21711999999999998,0.40148,non,0,0,0
+341,45,Femme,Diplome professionnel,Royaume-Unis,34,38,41,49,47,-1.37983,-0.21575,non,0,0,1
+342,35,Femme,Maitrise,Royaume-Unis,31,47,51,45,45,-2.55524,-0.21575,oui,1,0,1
+343,55,Femme,Diplome professionnel,Royaume-Unis,21,46,43,49,53,-2.55524,-1.5485799999999998,non,0,0,1
+344,55,Femme,Diplome professionnel,Royaume-Unis,42,40,45,42,46,0.19268,-0.52593,non,0,0,1
+345,18,Femme,Quitte ecole avant 16 ans,Royaume-Unis,38,39,45,42,39,0.88113,-0.8463700000000001,oui,1,1,1
+346,35,Femme,Maitrise,Royaume-Unis,20,41,54,54,49,-0.71126,-0.8463700000000001,non,0,0,1
+347,35,Femme,Diplome universitaire,Royaume-Unis,36,43,44,49,44,0.19268,-0.21575,oui,1,0,1
+348,45,Femme,Diplome universitaire,Royaume-Unis,34,51,55,57,44,1.8620299999999999,1.2247,oui,1,0,1
+349,45,Homme,Maitrise,Royaume-Unis,27,45,45,43,45,-1.37983,-1.5485799999999998,non,0,0,0
+350,45,Homme,Diplome professionnel,Royaume-Unis,30,42,42,42,44,-0.21711999999999998,-1.18084,non,0,0,0
+351,45,Homme,Diplome universitaire,Royaume-Unis,41,35,41,44,41,-0.21711999999999998,0.40148,oui,1,0,0
+352,35,Femme,Quitte Lycee ou universite sans diplome,Royaume-Unis,46,36,51,51,37,0.88113,-0.21575,oui,1,1,1
+353,35,Homme,Diplome professionnel,Royaume-Unis,40,41,45,40,38,-0.21711999999999998,0.40148,oui,1,0,0
+354,45,Homme,Diplome universitaire,Royaume-Unis,34,35,48,48,31,0.19268,-0.21575,non,0,0,0
+355,25,Homme,Quitte ecole a 16 ans,Royaume-Unis,31,40,44,39,45,0.52975,-0.8463700000000001,oui,1,1,0
+356,35,Homme,Diplome professionnel,Royaume-Unis,38,39,45,45,40,-0.71126,0.40148,non,0,0,0
+357,25,Homme,Quitte ecole avant 16 ans,Royaume-Unis,42,40,53,54,48,1.8620299999999999,1.92173,oui,1,1,0
+358,45,Homme,Diplome universitaire,Royaume-Unis,25,39,36,52,45,-0.71126,0.07987000000000001,non,0,0,0
+359,35,Homme,Quitte ecole a 16 ans,Royaume-Unis,57,31,38,31,29,1.8620299999999999,1.92173,oui,1,1,0
+360,35,Homme,Quitte Lycee ou universite sans diplome,Royaume-Unis,40,34,51,44,39,0.52975,-0.21575,oui,1,1,0
+361,25,Femme,Quitte Lycee ou universite sans diplome,Royaume-Unis,30,50,49,44,45,1.29221,1.92173,oui,1,1,1
+362,45,Femme,Diplome universitaire,Royaume-Unis,41,45,45,44,41,-0.21711999999999998,0.07987000000000001,oui,1,0,1
+363,35,Femme,Diplome professionnel,Royaume-Unis,42,44,52,49,50,0.88113,0.40148,oui,1,0,1
+364,45,Homme,Diplome universitaire,Royaume-Unis,40,42,44,47,45,-0.71126,-0.52593,oui,1,0,0
+365,45,Femme,Diplome professionnel,Royaume-Unis,48,39,36,48,45,-1.37983,-2.07848,non,0,0,1
+366,35,Femme,Doctorat,Royaume-Unis,40,39,46,43,38,-0.21711999999999998,-0.21575,non,0,0,1
+367,45,Homme,Diplome professionnel,Royaume-Unis,34,40,41,40,32,-1.37983,-1.5485799999999998,non,0,0,0
+368,35,Femme,Diplome universitaire,Royaume-Unis,26,43,44,42,46,-1.37983,-1.18084,non,0,0,1
+369,45,Femme,Diplome universitaire,Royaume-Unis,25,43,47,46,44,0.19268,-0.21575,oui,1,0,1
+370,25,Homme,Diplome professionnel,Royaume-Unis,35,33,33,44,47,-0.21711999999999998,-0.8463700000000001,oui,1,0,0
+371,25,Femme,Diplome universitaire,Royaume-Unis,48,42,47,48,37,0.19268,-0.21575,oui,1,0,1
+372,18,Homme,Quitte ecole a 18 ans,Canada,38,42,46,37,40,-0.71126,0.07987000000000001,oui,1,1,0
+373,35,Femme,Diplome universitaire,Royaume-Unis,46,54,55,34,45,1.29221,1.92173,oui,1,0,1
+374,18,Femme,Quitte Lycee ou universite sans diplome,Royaume-Unis,45,46,37,47,44,-0.21711999999999998,0.40148,oui,1,1,1
+375,45,Homme,Diplome universitaire,Royaume-Unis,32,27,50,37,43,-0.21711999999999998,-0.52593,oui,1,0,0
+376,55,Femme,Maitrise,Royaume-Unis,33,48,51,53,49,-0.71126,-1.18084,non,0,0,1
+377,65,Homme,Diplome professionnel,Royaume-Unis,37,41,47,34,51,-1.37983,-0.8463700000000001,non,0,0,0
+378,45,Femme,Maitrise,Royaume-Unis,27,40,40,44,48,-0.71126,0.40148,oui,1,0,1
+379,25,Femme,Diplome universitaire,Royaume-Unis,31,36,33,46,38,-0.71126,-1.18084,non,0,0,1
+380,25,Homme,Maitrise,Autre,44,33,49,47,47,0.52975,-0.21575,non,0,0,0
+381,45,Femme,Diplome professionnel,Royaume-Unis,44,37,50,43,44,-0.21711999999999998,-0.21575,non,0,0,1
+382,35,Homme,Diplome universitaire,Royaume-Unis,31,47,43,39,43,0.19268,0.7654,oui,1,0,0
+383,35,Homme,Quitte ecole a 16 ans,Autre,32,36,37,37,36,1.29221,-0.52593,oui,1,1,0
+384,35,Femme,Maitrise,Autre,28,41,44,41,47,0.19268,0.40148,non,0,0,1
+385,45,Femme,Diplome universitaire,Royaume-Unis,37,38,42,50,47,-2.55524,-0.52593,non,0,0,1
+386,45,Femme,Diplome universitaire,Royaume-Unis,33,41,38,48,46,0.19268,-1.5485799999999998,non,0,0,1
+387,25,Homme,Diplome professionnel,Royaume-Unis,30,37,28,44,39,-0.71126,-0.21575,oui,1,0,0
+388,45,Homme,Quitte ecole a 18 ans,Royaume-Unis,19,43,37,53,46,-0.71126,-0.52593,non,0,1,0
+389,25,Homme,Diplome universitaire,Royaume-Unis,24,42,41,34,54,-0.71126,0.07987000000000001,non,0,0,0
+390,35,Homme,Diplome professionnel,Royaume-Unis,37,38,46,42,40,-0.21711999999999998,-0.8463700000000001,non,0,0,0
+391,25,Homme,Doctorat,Royaume-Unis,30,42,44,44,46,-1.37983,-1.5485799999999998,non,0,0,0
+392,35,Femme,Quitte Lycee ou universite sans diplome,Royaume-Unis,29,37,47,44,42,0.19268,-0.8463700000000001,non,0,1,1
+393,25,Femme,Diplome universitaire,Royaume-Unis,42,40,46,45,43,-0.71126,-0.52593,oui,1,0,1
+394,35,Femme,Quitte ecole a 17 ans,Royaume-Unis,31,42,41,43,49,-0.71126,-1.18084,non,0,1,1
+395,25,Femme,Diplome professionnel,Royaume-Unis,28,39,29,39,51,-1.37983,-2.07848,non,0,0,1
+396,25,Homme,Diplome professionnel,Royaume-Unis,23,44,44,38,53,0.52975,0.40148,non,0,0,0
+397,35,Homme,Diplome universitaire,Royaume-Unis,38,48,42,33,36,1.8620299999999999,1.2247,oui,1,0,0
+398,35,Femme,Diplome universitaire,Royaume-Unis,20,44,38,41,46,-0.21711999999999998,-0.52593,oui,1,0,1
+399,45,Homme,Diplome professionnel,Royaume-Unis,37,43,39,33,45,1.29221,1.2247,non,0,0,0
+400,25,Femme,Maitrise,Royaume-Unis,28,42,47,34,48,0.88113,-0.52593,oui,1,0,1
+401,45,Homme,Maitrise,Royaume-Unis,27,48,54,49,46,-0.71126,-1.18084,non,0,0,0
+402,25,Femme,Quitte ecole a 18 ans,Royaume-Unis,34,39,31,47,47,-0.71126,-0.8463700000000001,non,0,1,1
+403,45,Homme,Quitte ecole a 16 ans,Royaume-Unis,37,32,42,32,37,1.8620299999999999,1.2247,oui,1,1,0
+404,18,Homme,Quitte Lycee ou universite sans diplome,Royaume-Unis,27,35,43,39,32,0.52975,0.40148,oui,1,1,0
+405,18,Homme,Diplome universitaire,Royaume-Unis,23,44,43,38,39,-1.37983,-0.52593,oui,1,0,0
+406,45,Homme,Quitte ecole a 17 ans,Royaume-Unis,45,39,44,42,44,0.88113,0.07987000000000001,oui,1,1,0
+407,18,Femme,Quitte ecole avant 16 ans,Royaume-Unis,37,50,56,51,42,1.29221,0.7654,oui,1,1,1
+408,45,Femme,Diplome universitaire,Royaume-Unis,53,33,55,43,39,0.19268,0.40148,oui,1,0,1
+409,35,Homme,Quitte ecole a 17 ans,Royaume-Unis,49,39,43,41,37,-0.21711999999999998,0.07987000000000001,oui,1,1,0
+410,25,Homme,Diplome universitaire,Royaume-Unis,29,41,49,44,40,0.19268,-1.5485799999999998,oui,1,0,0
+411,35,Femme,Diplome professionnel,Etats-Unis,22,45,50,45,46,-0.21711999999999998,0.40148,oui,1,0,1
+412,45,Homme,Quitte ecole a 18 ans,Royaume-Unis,46,30,48,49,31,0.88113,0.40148,oui,1,1,0
+413,35,Femme,Quitte Lycee ou universite sans diplome,Autre,31,29,47,44,29,-0.21711999999999998,-0.8463700000000001,non,0,1,1
+414,25,Femme,Diplome universitaire,Royaume-Unis,37,47,38,46,40,-0.71126,-0.52593,oui,1,0,1
+415,35,Homme,Quitte Lycee ou universite sans diplome,Royaume-Unis,36,39,50,44,39,-0.21711999999999998,-0.21575,oui,1,1,0
+416,35,Femme,Quitte Lycee ou universite sans diplome,Royaume-Unis,20,42,37,42,37,0.19268,-0.21575,non,0,1,1
+417,18,Homme,Quitte ecole a 18 ans,Royaume-Unis,30,32,41,29,56,-0.21711999999999998,0.7654,oui,1,1,0
+418,18,Homme,Quitte Lycee ou universite sans diplome,Royaume-Unis,35,35,47,28,32,0.19268,0.7654,oui,1,1,0
+419,25,Homme,Quitte Lycee ou universite sans diplome,Royaume-Unis,28,46,46,36,37,1.29221,1.92173,oui,1,1,0
+420,25,Femme,Doctorat,Royaume-Unis,39,40,52,40,45,-0.21711999999999998,-0.21575,oui,1,0,1
+421,25,Homme,Diplome universitaire,Royaume-Unis,42,41,44,41,43,0.19268,-0.52593,non,0,0,0
+422,18,Homme,Quitte ecole a 18 ans,Royaume-Unis,39,45,45,37,49,0.52975,0.7654,oui,1,1,0
+423,25,Homme,Quitte Lycee ou universite sans diplome,Royaume-Unis,39,27,35,41,39,0.52975,-0.8463700000000001,oui,1,1,0
+424,35,Homme,Diplome professionnel,Royaume-Unis,28,39,45,54,37,-0.21711999999999998,-1.18084,oui,1,0,0
+425,35,Femme,Diplome universitaire,Royaume-Unis,26,45,40,51,48,-0.21711999999999998,-0.8463700000000001,non,0,0,1
+426,45,Femme,Doctorat,Etats-Unis,41,40,55,49,42,1.29221,0.40148,oui,1,0,1
+427,35,Homme,Diplome universitaire,Royaume-Unis,32,38,46,41,29,-0.21711999999999998,-0.8463700000000001,oui,1,0,0
+428,45,Homme,Quitte ecole a 16 ans,Royaume-Unis,38,40,43,42,42,0.52975,-0.21575,non,0,1,0
+429,35,Homme,Diplome universitaire,Autre,42,34,44,34,41,0.88113,0.07987000000000001,oui,1,0,0
+430,25,Femme,Quitte ecole a 18 ans,Royaume-Unis,27,39,30,45,47,-1.37983,-1.5485799999999998,oui,1,1,1
+431,25,Homme,Quitte ecole avant 16 ans,Royaume-Unis,38,33,35,38,40,-0.21711999999999998,-0.21575,non,0,1,0
+432,25,Femme,Quitte ecole a 18 ans,Royaume-Unis,36,42,38,49,34,0.19268,-0.21575,oui,1,1,1
+433,25,Homme,Diplome universitaire,Royaume-Unis,33,38,33,45,43,-0.71126,-1.18084,non,0,0,0
+434,45,Femme,Quitte ecole a 16 ans,Royaume-Unis,38,52,37,51,41,1.8620299999999999,0.7654,oui,1,1,1
+435,18,Femme,Diplome universitaire,Royaume-Unis,34,46,34,56,52,-0.21711999999999998,-0.52593,non,0,0,1
+436,25,Femme,Diplome universitaire,Royaume-Unis,36,43,37,47,53,-0.71126,-0.52593,non,0,0,1
+437,55,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,29,38,52,54,47,-1.37983,-1.18084,oui,1,1,0
+438,45,Homme,Quitte ecole a 16 ans,Royaume-Unis,23,43,47,37,45,0.52975,0.40148,oui,1,1,0
+439,25,Femme,Diplome universitaire,Etats-Unis,59,37,39,31,26,0.88113,0.07987000000000001,oui,1,0,1
+440,18,Femme,Quitte Lycee ou universite sans diplome,Etats-Unis,49,38,47,42,28,0.19268,-0.21575,oui,1,1,1
+441,35,Femme,Diplome universitaire,Royaume-Unis,31,43,41,48,53,-0.21711999999999998,-0.52593,oui,1,0,1
+442,18,Femme,Quitte Lycee ou universite sans diplome,Royaume-Unis,29,49,30,43,46,0.52975,0.07987000000000001,oui,1,1,1
+443,25,Femme,Maitrise,Royaume-Unis,27,40,47,42,42,0.19268,0.07987000000000001,oui,1,0,1
+444,35,Homme,Quitte ecole a 16 ans,Royaume-Unis,40,44,40,38,40,-0.21711999999999998,-0.21575,non,0,1,0
+445,45,Femme,Diplome professionnel,Royaume-Unis,31,45,49,44,47,-2.55524,-0.8463700000000001,non,0,0,1
+446,45,Femme,Diplome universitaire,Royaume-Unis,46,33,41,37,45,-0.21711999999999998,-1.5485799999999998,non,0,0,1
+447,25,Femme,Diplome universitaire,Royaume-Unis,38,32,48,58,37,-0.71126,0.40148,oui,1,0,1
+448,25,Homme,Maitrise,Royaume-Unis,36,39,39,38,33,1.29221,0.07987000000000001,oui,1,0,0
+449,18,Femme,Quitte Lycee ou universite sans diplome,Royaume-Unis,47,49,52,31,35,1.29221,1.2247,oui,1,1,1
+450,18,Homme,Diplome universitaire,Royaume-Unis,32,44,48,41,47,-0.21711999999999998,0.07987000000000001,oui,1,0,0
+451,18,Femme,Diplome universitaire,Royaume-Unis,43,39,39,47,34,0.52975,0.07987000000000001,oui,1,0,1
+452,18,Femme,Maitrise,Royaume-Unis,25,45,39,42,47,0.19268,-0.52593,oui,1,0,1
+453,35,Femme,Diplome universitaire,Royaume-Unis,34,39,46,44,48,-1.37983,0.07987000000000001,oui,1,0,1
+454,25,Homme,Diplome universitaire,Royaume-Unis,48,27,43,44,45,-1.37983,-0.21575,oui,1,0,0
+455,45,Homme,Doctorat,Royaume-Unis,34,36,51,38,40,1.8620299999999999,0.7654,oui,1,0,0
+456,18,Femme,Diplome universitaire,Royaume-Unis,44,34,50,38,22,0.88113,-0.21575,oui,1,0,1
+457,35,Homme,Diplome universitaire,Royaume-Unis,51,37,47,28,37,0.88113,0.40148,oui,1,0,0
+458,35,Femme,Maitrise,Royaume-Unis,31,36,46,47,47,-1.37983,-2.07848,non,0,0,1
+459,18,Femme,Diplome universitaire,Royaume-Unis,42,40,46,47,43,-0.21711999999999998,0.07987000000000001,oui,1,0,1
+460,25,Homme,Maitrise,Royaume-Unis,45,48,56,26,39,0.52975,0.07987000000000001,oui,1,0,0
+461,18,Femme,Diplome universitaire,Royaume-Unis,48,30,53,31,44,0.88113,0.07987000000000001,oui,1,0,1
+462,18,Homme,Quitte Lycee ou universite sans diplome,Royaume-Unis,50,30,27,54,32,0.52975,-1.18084,oui,1,1,0
+463,35,Homme,Quitte Lycee ou universite sans diplome,Royaume-Unis,44,43,54,44,24,1.29221,1.2247,oui,1,1,0
+464,45,Homme,Quitte ecole a 18 ans,Royaume-Unis,46,33,41,52,32,-0.21711999999999998,0.40148,non,0,1,0
+465,18,Femme,Diplome universitaire,Royaume-Unis,39,34,52,48,48,0.19268,-0.21575,oui,1,0,1
+466,18,Femme,Maitrise,Royaume-Unis,49,32,45,40,39,1.29221,0.7654,oui,1,0,1
+467,18,Femme,Diplome universitaire,Royaume-Unis,39,44,52,50,40,-0.71126,0.7654,oui,1,0,1
+468,45,Homme,Diplome universitaire,Royaume-Unis,38,40,53,43,51,-0.21711999999999998,-0.21575,non,0,0,0
+469,35,Homme,Diplome universitaire,Royaume-Unis,35,41,40,41,43,-1.37983,-1.18084,non,0,0,0
+470,25,Homme,Diplome universitaire,Royaume-Unis,25,51,54,48,42,0.88113,1.2247,oui,1,0,0
+471,45,Femme,Quitte ecole a 16 ans,Etats-Unis,59,28,35,53,26,-0.21711999999999998,0.07987000000000001,non,0,1,1
+472,18,Femme,Diplome universitaire,Royaume-Unis,37,45,47,42,47,-0.71126,-0.8463700000000001,non,0,0,1
+473,18,Homme,Maitrise,Royaume-Unis,27,55,52,50,55,-0.21711999999999998,0.40148,oui,1,0,0
+474,18,Femme,Quitte ecole avant 16 ans,Royaume-Unis,39,40,44,51,42,0.19268,-0.21575,oui,1,1,1
+475,35,Femme,Quitte Lycee ou universite sans diplome,Etats-Unis,49,40,42,38,38,0.88113,-0.21575,oui,1,1,1
+476,55,Femme,Diplome universitaire,Royaume-Unis,33,46,46,42,45,-1.37983,-2.07848,non,0,0,1
+477,45,Femme,Diplome universitaire,Etats-Unis,25,46,42,48,48,-0.71126,-0.8463700000000001,oui,1,0,1
+478,35,Homme,Diplome universitaire,Royaume-Unis,52,33,49,31,39,0.19268,-0.8463700000000001,oui,1,0,0
+479,35,Femme,Diplome professionnel,Royaume-Unis,50,35,40,35,32,1.29221,0.7654,oui,1,0,1
+480,25,Femme,Diplome universitaire,Royaume-Unis,40,45,43,49,46,-0.21711999999999998,0.07987000000000001,oui,1,0,1
+481,25,Femme,Maitrise,Australie,40,37,54,52,44,0.19268,0.40148,oui,1,0,1
+482,18,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,47,34,44,34,37,-1.37983,-0.8463700000000001,oui,1,1,0
+483,35,Femme,Diplome universitaire,Australie,46,41,47,42,46,0.19268,0.40148,oui,1,0,1
+484,35,Homme,Quitte Lycee ou universite sans diplome,Royaume-Unis,29,39,47,44,52,-0.71126,-0.21575,oui,1,1,0
+485,25,Femme,Diplome universitaire,Royaume-Unis,48,43,54,45,48,0.19268,-0.8463700000000001,oui,1,0,1
+486,35,Femme,Quitte ecole a 16 ans,Royaume-Unis,30,46,41,48,40,-1.37983,-1.18084,oui,1,1,1
+487,45,Femme,Quitte ecole a 16 ans,Royaume-Unis,31,42,34,50,36,-1.37983,-0.8463700000000001,oui,1,1,1
+488,25,Homme,Quitte ecole a 18 ans,Autre,50,28,52,38,31,-0.71126,-1.18084,oui,1,1,0
+489,35,Femme,Quitte ecole a 18 ans,Etats-Unis,53,27,53,36,44,0.19268,-0.52593,oui,1,1,1
+490,25,Homme,Quitte ecole a 16 ans,Royaume-Unis,40,30,46,48,39,-0.21711999999999998,1.2247,oui,1,1,0
+491,18,Homme,Quitte ecole avant 16 ans,Royaume-Unis,54,30,47,30,29,-0.21711999999999998,0.07987000000000001,oui,1,1,0
+492,18,Homme,Quitte Lycee ou universite sans diplome,Royaume-Unis,26,47,51,34,31,-0.71126,1.2247,oui,1,1,0
+493,45,Femme,Diplome professionnel,Royaume-Unis,42,45,48,41,36,1.29221,1.92173,oui,1,0,1
+494,18,Homme,Quitte ecole a 18 ans,Royaume-Unis,27,43,48,47,42,0.19268,0.40148,oui,1,1,0
+495,18,Homme,Diplome professionnel,Royaume-Unis,41,36,51,43,44,0.88113,0.7654,oui,1,0,0
+496,18,Homme,Quitte Lycee ou universite sans diplome,Royaume-Unis,43,28,51,35,29,-1.37983,-0.52593,oui,1,1,0
+497,18,Homme,Diplome professionnel,Autre,25,37,48,47,43,-1.37983,-0.21575,oui,1,0,0
+498,55,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,28,41,49,47,48,-1.37983,-0.52593,oui,1,1,0
+499,25,Homme,Maitrise,Royaume-Unis,36,48,59,39,42,-0.71126,0.07987000000000001,oui,1,0,0
+500,25,Homme,Quitte ecole a 16 ans,Autre,35,36,51,46,36,-0.21711999999999998,0.07987000000000001,oui,1,1,0
+501,55,Femme,Quitte Lycee ou universite sans diplome,Royaume-Unis,49,35,54,42,27,0.88113,1.2247,oui,1,1,1
+502,35,Femme,Diplome professionnel,Irelande,36,43,39,38,49,0.52975,0.7654,oui,1,0,1
+503,25,Femme,Diplome professionnel,Royaume-Unis,30,39,35,43,39,0.88113,-2.07848,oui,1,0,1
+504,18,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,22,44,43,39,40,0.52975,0.7654,oui,1,1,0
+505,55,Femme,Diplome professionnel,Canada,36,38,43,38,46,1.29221,0.7654,oui,1,0,1
+506,35,Homme,Quitte ecole a 16 ans,Royaume-Unis,35,40,43,43,45,-1.37983,-1.18084,oui,1,1,0
+507,45,Homme,Diplome professionnel,Autre,40,43,47,36,33,0.88113,0.07987000000000001,oui,1,0,0
+508,35,Homme,Diplome universitaire,Royaume-Unis,31,44,51,38,46,0.19268,0.07987000000000001,oui,1,0,0
+509,25,Homme,Diplome universitaire,Royaume-Unis,37,38,38,34,42,0.19268,-0.52593,oui,1,0,0
+510,35,Homme,Quitte ecole a 16 ans,Royaume-Unis,50,32,37,31,36,-0.71126,0.07987000000000001,oui,1,1,0
+511,35,Femme,Maitrise,Autre,26,47,43,45,43,-1.37983,-0.52593,non,0,0,1
+512,35,Homme,Diplome universitaire,Royaume-Unis,36,46,41,41,39,0.52975,-0.21575,oui,1,0,0
+513,45,Femme,Maitrise,Royaume-Unis,40,43,44,42,44,-0.21711999999999998,-1.18084,oui,1,0,1
+514,18,Homme,Quitte Lycee ou universite sans diplome,Royaume-Unis,40,43,49,44,34,1.8620299999999999,0.40148,oui,1,1,0
+515,55,Homme,Quitte ecole a 16 ans,Etats-Unis,34,38,44,48,45,-0.21711999999999998,-0.21575,oui,1,1,0
+516,35,Homme,Quitte ecole a 16 ans,Royaume-Unis,45,38,34,40,40,-0.21711999999999998,-0.21575,non,0,1,0
+517,18,Femme,Quitte ecole a 17 ans,Etats-Unis,23,52,48,44,44,0.88113,1.92173,oui,1,1,1
+518,35,Femme,Quitte ecole a 16 ans,Royaume-Unis,34,41,40,32,44,-0.21711999999999998,-0.52593,oui,1,1,1
+519,25,Femme,Maitrise,Royaume-Unis,39,39,47,40,48,-0.71126,-0.21575,oui,1,0,1
+520,25,Homme,Diplome professionnel,Autre,41,36,46,42,36,0.52975,1.2247,oui,1,0,0
+521,25,Homme,Maitrise,Royaume-Unis,34,42,36,50,53,0.52975,1.2247,oui,1,0,0
+522,35,Femme,Diplome universitaire,Royaume-Unis,38,38,38,38,48,-1.37983,-2.07848,oui,1,0,1
+523,45,Femme,Quitte ecole a 16 ans,Australie,42,38,39,40,43,-0.71126,-1.18084,oui,1,1,1
+524,18,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,36,42,45,34,41,0.52975,0.07987000000000001,oui,1,1,0
+525,18,Homme,Quitte Lycee ou universite sans diplome,Royaume-Unis,33,43,44,38,32,0.19268,0.07987000000000001,oui,1,1,0
+526,35,Femme,Quitte ecole avant 16 ans,Royaume-Unis,37,34,32,44,45,-1.37983,-2.07848,oui,1,1,1
+527,45,Femme,Diplome universitaire,Australie,29,44,52,55,56,0.19268,0.07987000000000001,oui,1,0,1
+528,55,Homme,Quitte ecole a 18 ans,Royaume-Unis,20,43,37,43,45,-0.71126,-0.52593,non,0,1,0
+529,18,Homme,Diplome professionnel,Royaume-Unis,45,30,43,30,31,0.88113,0.07987000000000001,oui,1,0,0
+530,35,Homme,Doctorat,Royaume-Unis,42,39,44,47,29,0.52975,-0.21575,oui,1,0,0
+531,25,Femme,Diplome professionnel,Royaume-Unis,43,47,45,43,42,-0.21711999999999998,1.2247,oui,1,0,1
+532,55,Homme,Diplome universitaire,Royaume-Unis,45,40,49,30,46,-0.21711999999999998,-1.18084,non,0,0,0
+533,45,Homme,Diplome universitaire,Royaume-Unis,46,29,40,45,35,-0.21711999999999998,0.7654,oui,1,0,0
+534,18,Femme,Diplome universitaire,Royaume-Unis,33,41,40,53,49,0.19268,-1.18084,non,0,0,1
+535,25,Homme,Maitrise,Royaume-Unis,32,39,40,32,37,0.52975,0.07987000000000001,non,0,0,0
+536,35,Femme,Maitrise,Royaume-Unis,20,54,42,52,51,0.19268,-1.18084,non,0,0,1
+537,25,Femme,Diplome universitaire,Etats-Unis,45,40,51,29,38,0.19268,-0.21575,oui,1,0,1
+538,18,Femme,Diplome universitaire,Royaume-Unis,49,45,38,49,37,0.52975,0.07987000000000001,oui,1,0,1
+539,45,Femme,Quitte Lycee ou universite sans diplome,Royaume-Unis,43,38,36,48,35,-1.37983,-1.5485799999999998,non,0,1,1
+540,35,Femme,Diplome universitaire,Royaume-Unis,47,38,45,47,46,0.19268,0.40148,non,0,0,1
+541,45,Homme,Maitrise,Royaume-Unis,24,48,44,47,53,-2.55524,-1.18084,non,0,0,0
+542,45,Femme,Diplome universitaire,Royaume-Unis,26,42,44,37,43,-1.37983,-1.5485799999999998,non,0,0,1
+543,45,Femme,Diplome universitaire,Autre,38,45,45,48,45,0.19268,0.07987000000000001,non,0,0,1
+544,35,Homme,Quitte ecole a 17 ans,Royaume-Unis,43,45,51,35,34,0.19268,1.2247,oui,1,1,0
+545,25,Femme,Diplome universitaire,Royaume-Unis,44,44,38,38,44,-0.21711999999999998,-0.21575,non,0,0,1
+546,18,Femme,Quitte ecole a 16 ans,Royaume-Unis,48,36,40,38,34,1.29221,-0.21575,oui,1,1,1
+547,35,Femme,Diplome professionnel,Royaume-Unis,51,41,42,47,36,-0.71126,-0.21575,non,0,0,1
+548,45,Femme,Quitte Lycee ou universite sans diplome,Etats-Unis,27,37,51,59,42,-1.37983,-1.18084,oui,1,1,1
+549,25,Femme,Maitrise,Royaume-Unis,20,35,38,40,54,-1.37983,-0.8463700000000001,non,0,0,1
+550,18,Homme,Diplome universitaire,Royaume-Unis,48,37,46,44,28,0.52975,-1.18084,non,0,0,0
+551,25,Femme,Maitrise,Autre,25,47,46,39,41,-0.21711999999999998,-0.8463700000000001,oui,1,0,1
+552,18,Femme,Diplome universitaire,Royaume-Unis,34,37,35,48,50,-1.37983,-0.52593,oui,1,0,1
+553,35,Femme,Maitrise,Royaume-Unis,28,48,46,36,49,-0.21711999999999998,1.2247,oui,1,0,1
+554,18,Femme,Maitrise,Royaume-Unis,52,29,44,48,44,-0.21711999999999998,-1.18084,non,0,0,1
+555,25,Femme,Maitrise,Autre,46,26,42,43,45,-0.71126,-2.07848,oui,1,0,1
+556,25,Femme,Doctorat,Royaume-Unis,42,43,42,43,50,0.52975,0.07987000000000001,non,0,0,1
+557,45,Femme,Maitrise,Royaume-Unis,38,33,37,43,48,-0.71126,-1.18084,non,0,0,1
+558,18,Femme,Diplome universitaire,Royaume-Unis,34,38,47,42,44,-1.37983,-0.52593,oui,1,0,1
+559,25,Femme,Diplome universitaire,Royaume-Unis,21,46,44,52,50,-0.71126,-0.21575,non,0,0,1
+560,18,Femme,Diplome universitaire,Royaume-Unis,31,39,41,49,41,1.29221,1.2247,oui,1,0,1
+561,45,Femme,Diplome universitaire,Royaume-Unis,28,40,48,45,49,0.19268,-0.52593,non,0,0,1
+562,18,Femme,Diplome universitaire,Royaume-Unis,46,41,40,45,45,-0.71126,-0.52593,non,0,0,1
+563,35,Femme,Diplome universitaire,Royaume-Unis,42,44,48,36,47,-0.21711999999999998,-0.21575,oui,1,0,1
+564,35,Femme,Maitrise,Royaume-Unis,58,43,34,41,51,-0.21711999999999998,-0.8463700000000001,oui,1,0,1
+565,25,Femme,Maitrise,Royaume-Unis,44,42,41,31,40,0.19268,0.07987000000000001,oui,1,0,1
+566,45,Femme,Quitte Lycee ou universite sans diplome,Royaume-Unis,31,37,45,44,39,1.8620299999999999,-0.8463700000000001,oui,1,1,1
+567,45,Femme,Maitrise,Royaume-Unis,39,34,46,47,36,-0.71126,-0.8463700000000001,non,0,0,1
+568,18,Femme,Diplome universitaire,Royaume-Unis,45,47,38,49,46,-1.37983,-1.18084,oui,1,0,1
+569,18,Homme,Diplome universitaire,Royaume-Unis,53,44,53,37,38,-0.21711999999999998,0.07987000000000001,oui,1,0,0
+570,35,Homme,Maitrise,Royaume-Unis,46,34,44,41,42,-0.21711999999999998,-0.21575,non,0,0,0
+571,35,Femme,Doctorat,Royaume-Unis,32,45,44,37,56,-0.71126,-0.52593,non,0,0,1
+572,35,Femme,Diplome professionnel,Australie,38,47,37,31,39,0.52975,0.7654,non,0,0,1
+573,18,Femme,Maitrise,Royaume-Unis,21,52,44,50,53,0.19268,0.7654,non,0,0,1
+574,35,Homme,Diplome professionnel,Royaume-Unis,48,31,33,36,37,1.8620299999999999,0.07987000000000001,oui,1,0,0
+575,55,Femme,Quitte Lycee ou universite sans diplome,Etats-Unis,27,46,48,39,39,0.52975,-0.21575,oui,1,1,1
+576,35,Femme,Diplome universitaire,Royaume-Unis,55,29,32,47,28,-0.71126,-1.5485799999999998,oui,1,0,1
+577,35,Homme,Quitte ecole a 16 ans,Royaume-Unis,20,45,34,40,49,-0.21711999999999998,0.07987000000000001,non,0,1,0
+578,25,Femme,Maitrise,Royaume-Unis,44,42,46,47,48,-0.71126,-0.52593,non,0,0,1
+579,25,Femme,Diplome universitaire,Royaume-Unis,46,45,40,51,41,-0.71126,-0.21575,oui,1,0,1
+580,45,Femme,Maitrise,Royaume-Unis,46,39,47,50,51,-1.37983,-1.5485799999999998,non,0,0,1
+581,18,Femme,Maitrise,Royaume-Unis,34,45,49,44,47,-0.21711999999999998,-0.21575,oui,1,0,1
+582,35,Femme,Quitte Lycee ou universite sans diplome,Royaume-Unis,25,40,37,43,27,1.8620299999999999,-0.21575,oui,1,1,1
+583,18,Homme,Quitte Lycee ou universite sans diplome,Royaume-Unis,27,50,48,41,37,0.88113,0.7654,oui,1,1,0
+584,35,Femme,Diplome professionnel,Royaume-Unis,39,48,55,41,48,0.52975,0.07987000000000001,non,0,0,1
+585,18,Femme,Quitte Lycee ou universite sans diplome,Etats-Unis,42,40,41,46,39,-0.21711999999999998,1.2247,oui,1,1,1
+586,25,Homme,Diplome universitaire,Royaume-Unis,33,41,43,35,47,1.29221,0.40148,non,0,0,0
+587,18,Homme,Diplome professionnel,Royaume-Unis,43,36,53,36,40,0.52975,0.40148,oui,1,0,0
+588,18,Homme,Quitte Lycee ou universite sans diplome,Royaume-Unis,39,42,43,48,28,0.19268,0.7654,oui,1,1,0
+589,25,Femme,Quitte ecole a 16 ans,Royaume-Unis,31,50,48,49,43,-0.21711999999999998,0.07987000000000001,oui,1,1,1
+590,55,Femme,Quitte Lycee ou universite sans diplome,Etats-Unis,24,39,47,37,45,0.52975,0.07987000000000001,oui,1,1,1
+591,35,Homme,Quitte ecole avant 16 ans,Royaume-Unis,30,40,41,39,46,-0.21711999999999998,0.40148,oui,1,1,0
+592,35,Femme,Diplome universitaire,Royaume-Unis,40,37,43,32,52,-0.21711999999999998,-0.8463700000000001,non,0,0,1
+593,35,Femme,Diplome professionnel,Etats-Unis,14,46,46,46,54,-0.71126,-0.21575,oui,1,0,1
+594,25,Homme,Diplome professionnel,Autre,35,46,45,47,46,0.19268,0.7654,oui,1,0,0
+595,35,Homme,Quitte ecole a 16 ans,Royaume-Unis,32,36,41,35,37,1.29221,0.7654,oui,1,1,0
+596,45,Homme,Diplome professionnel,Autre,39,41,42,34,45,-0.21711999999999998,0.7654,non,0,0,0
+597,18,Homme,Quitte ecole a 16 ans,Royaume-Unis,23,45,50,49,48,0.52975,1.2247,oui,1,1,0
+598,55,Femme,Diplome professionnel,Canada,32,37,43,38,46,0.88113,1.2247,oui,1,0,1
+599,45,Femme,Diplome professionnel,Etats-Unis,36,41,41,46,44,-0.21711999999999998,-0.52593,oui,1,0,1
+600,18,Homme,Quitte Lycee ou universite sans diplome,Royaume-Unis,41,39,47,43,35,0.52975,0.40148,oui,1,1,0
+601,45,Femme,Maitrise,Royaume-Unis,43,36,41,54,43,-0.71126,-1.18084,non,0,0,1
+602,18,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,46,47,50,44,34,1.8620299999999999,1.2247,oui,1,1,0
+603,18,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,41,28,37,29,46,0.52975,1.2247,oui,1,1,0
+604,18,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,54,33,50,39,34,0.52975,0.7654,oui,1,1,0
+605,25,Homme,Diplome universitaire,Etats-Unis,29,34,42,33,43,-0.71126,-0.21575,oui,1,0,0
+606,35,Femme,Quitte Lycee ou universite sans diplome,Etats-Unis,40,42,47,49,45,-0.71126,-0.52593,oui,1,1,1
+607,55,Femme,Maitrise,Etats-Unis,15,47,56,51,34,-0.71126,-0.52593,oui,1,0,1
+608,18,Homme,Diplome universitaire,Royaume-Unis,31,40,37,52,36,-0.21711999999999998,1.2247,oui,1,0,0
+609,45,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,35,40,51,55,41,-0.71126,0.07987000000000001,oui,1,1,0
+610,25,Homme,Diplome universitaire,Royaume-Unis,21,48,53,44,49,0.52975,1.92173,oui,1,0,0
+611,55,Femme,Diplome professionnel,Canada,48,34,35,50,30,1.8620299999999999,-0.21575,oui,1,0,1
+612,25,Homme,Quitte Lycee ou universite sans diplome,Royaume-Unis,27,46,51,44,37,0.19268,1.92173,oui,1,1,0
+613,25,Homme,Diplome universitaire,Royaume-Unis,29,42,41,51,46,0.52975,1.2247,oui,1,0,0
+614,35,Homme,Diplome universitaire,Royaume-Unis,25,41,44,41,39,-0.21711999999999998,-0.52593,oui,1,0,0
+615,25,Femme,Maitrise,Royaume-Unis,54,38,43,32,37,0.19268,0.07987000000000001,oui,1,0,1
+616,25,Femme,Quitte ecole avant 16 ans,Etats-Unis,33,44,40,37,44,1.29221,-0.21575,oui,1,1,1
+617,35,Femme,Maitrise,Royaume-Unis,37,39,42,48,40,0.88113,1.2247,oui,1,0,1
+618,45,Femme,Quitte Lycee ou universite sans diplome,Etats-Unis,46,41,44,39,34,1.29221,1.2247,oui,1,1,1
+619,45,Homme,Diplome professionnel,Irelande,27,48,43,39,47,-0.71126,0.07987000000000001,oui,1,0,0
+620,25,Femme,Diplome universitaire,Royaume-Unis,35,47,51,44,42,0.52975,0.07987000000000001,oui,1,0,1
+621,55,Homme,Maitrise,Royaume-Unis,29,33,50,37,46,-1.37983,-0.8463700000000001,non,0,0,0
+622,18,Homme,Quitte ecole a 18 ans,Royaume-Unis,41,30,42,52,28,1.29221,0.40148,oui,1,1,0
+623,35,Homme,Maitrise,Royaume-Unis,27,44,44,34,44,0.88113,0.40148,oui,1,0,0
+624,35,Femme,Maitrise,Royaume-Unis,34,43,43,45,52,-0.71126,-1.5485799999999998,non,0,0,1
+625,45,Femme,Maitrise,Royaume-Unis,32,40,42,41,31,1.8620299999999999,-0.52593,non,0,0,1
+626,35,Femme,Doctorat,Royaume-Unis,36,40,36,43,44,-1.37983,-0.21575,non,0,0,1
+627,35,Femme,Diplome professionnel,Royaume-Unis,32,36,41,37,44,-0.71126,-1.5485799999999998,oui,1,0,1
+628,35,Homme,Diplome universitaire,Royaume-Unis,35,37,39,40,45,-0.21711999999999998,-0.21575,oui,1,0,0
+629,35,Homme,Doctorat,Royaume-Unis,21,33,34,54,46,-2.55524,-0.8463700000000001,oui,1,0,0
+630,25,Femme,Doctorat,Royaume-Unis,48,32,36,53,44,-1.37983,-1.5485799999999998,oui,1,0,1
+631,45,Femme,Doctorat,Royaume-Unis,31,43,49,45,41,-0.21711999999999998,-2.07848,non,0,0,1
+632,35,Femme,Doctorat,Royaume-Unis,41,38,55,45,49,-1.37983,-2.07848,oui,1,0,1
+633,18,Femme,Diplome universitaire,Royaume-Unis,40,39,43,56,49,-1.37983,-0.52593,non,0,0,1
+634,18,Femme,Diplome universitaire,Royaume-Unis,48,37,36,37,47,-1.37983,-2.07848,oui,1,0,1
+635,25,Femme,Maitrise,Royaume-Unis,29,51,48,44,44,-0.71126,0.07987000000000001,oui,1,0,1
+636,35,Femme,Doctorat,Royaume-Unis,48,41,45,36,37,-0.21711999999999998,1.2247,oui,1,0,1
+637,35,Homme,Diplome universitaire,Royaume-Unis,28,38,44,50,38,-0.71126,0.07987000000000001,oui,1,0,0
+638,45,Femme,Diplome universitaire,Royaume-Unis,29,42,42,46,42,0.19268,-0.21575,non,0,0,1
+639,35,Femme,Diplome professionnel,Canada,32,41,38,48,45,-1.37983,-1.18084,non,0,0,1
+640,18,Femme,Diplome universitaire,Royaume-Unis,33,36,35,42,52,-0.71126,0.07987000000000001,non,0,0,1
+641,25,Homme,Quitte ecole a 16 ans,Royaume-Unis,33,51,51,51,45,0.52975,1.92173,oui,1,1,0
+642,45,Homme,Diplome universitaire,Royaume-Unis,34,35,48,44,41,-0.21711999999999998,-0.52593,non,0,0,0
+643,35,Homme,Maitrise,Royaume-Unis,29,46,51,56,53,-0.21711999999999998,0.40148,non,0,0,0
+644,25,Femme,Maitrise,Royaume-Unis,26,44,43,51,50,-0.71126,0.40148,oui,1,0,1
+645,25,Homme,Quitte Lycee ou universite sans diplome,Royaume-Unis,38,38,33,47,37,-0.21711999999999998,0.07987000000000001,oui,1,1,0
+646,45,Homme,Diplome universitaire,Royaume-Unis,36,38,43,38,39,1.29221,-0.52593,non,0,0,0
+647,18,Femme,Diplome universitaire,Royaume-Unis,31,39,43,42,47,-0.21711999999999998,-0.52593,non,0,0,1
+648,18,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,23,49,52,32,48,-0.71126,0.40148,oui,1,1,0
+649,35,Femme,Maitrise,Etats-Unis,47,41,52,55,34,1.29221,1.92173,oui,1,0,1
+650,25,Femme,Diplome universitaire,Royaume-Unis,34,45,36,43,54,0.19268,-1.18084,oui,1,0,1
+651,45,Femme,Maitrise,Royaume-Unis,31,53,58,53,43,1.29221,0.40148,oui,1,0,1
+652,25,Homme,Maitrise,Royaume-Unis,42,43,48,47,34,0.19268,-1.18084,oui,1,0,0
+653,18,Homme,Quitte Lycee ou universite sans diplome,Australie,46,48,53,39,34,0.19268,0.40148,oui,1,1,0
+654,18,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,29,44,45,44,42,1.29221,0.40148,oui,1,1,0
+655,35,Femme,Quitte ecole a 16 ans,Royaume-Unis,32,46,40,46,49,-0.71126,-0.8463700000000001,non,0,1,1
+656,25,Homme,Maitrise,Autre,31,51,42,42,34,0.52975,0.7654,oui,1,0,0
+657,45,Homme,Quitte Lycee ou universite sans diplome,Canada,48,36,47,35,33,1.29221,0.40148,oui,1,1,0
+658,45,Homme,Diplome professionnel,Royaume-Unis,47,30,54,40,31,1.8620299999999999,1.92173,oui,1,0,0
+659,18,Homme,Maitrise,Royaume-Unis,42,41,48,41,38,0.88113,0.07987000000000001,oui,1,0,0
+660,25,Homme,Doctorat,Irelande,28,49,56,37,39,1.29221,0.40148,oui,1,0,0
+661,25,Femme,Maitrise,Royaume-Unis,24,43,45,50,43,-1.37983,-1.5485799999999998,non,0,0,1
+662,18,Femme,Diplome universitaire,Royaume-Unis,33,32,40,42,51,-1.37983,-0.8463700000000001,oui,1,0,1
+663,25,Femme,Diplome universitaire,Royaume-Unis,36,41,47,55,53,0.52975,-1.18084,oui,1,0,1
+664,25,Femme,Doctorat,Royaume-Unis,48,31,43,34,31,-0.21711999999999998,-0.52593,oui,1,0,1
+665,18,Homme,Diplome universitaire,Royaume-Unis,32,37,49,45,38,0.52975,0.7654,oui,1,0,0
+666,25,Femme,Doctorat,Royaume-Unis,47,37,46,45,40,-0.71126,-0.21575,oui,1,0,1
+667,18,Homme,Quitte ecole a 18 ans,Royaume-Unis,19,38,46,42,35,0.88113,0.40148,oui,1,1,0
+668,35,Homme,Quitte Lycee ou universite sans diplome,Royaume-Unis,45,35,53,41,44,-0.21711999999999998,0.07987000000000001,oui,1,1,0
+669,45,Homme,Diplome universitaire,Royaume-Unis,21,53,46,45,39,0.19268,-0.21575,oui,1,0,0
+670,25,Homme,Quitte Lycee ou universite sans diplome,Royaume-Unis,30,46,48,41,41,0.19268,0.7654,oui,1,1,0
+671,18,Homme,Diplome professionnel,Royaume-Unis,32,41,42,38,39,-2.55524,-0.52593,oui,1,0,0
+672,35,Homme,Diplome professionnel,Royaume-Unis,31,45,45,39,43,0.88113,1.2247,oui,1,0,0
+673,18,Homme,Diplome universitaire,Royaume-Unis,33,40,54,48,48,0.52975,-0.21575,oui,1,0,0
+674,18,Femme,Quitte Lycee ou universite sans diplome,Royaume-Unis,48,47,48,47,48,-0.71126,0.07987000000000001,oui,1,1,1
+675,18,Femme,Maitrise,Royaume-Unis,44,35,41,39,34,-0.71126,0.7654,non,0,0,1
+676,35,Homme,Diplome professionnel,Royaume-Unis,35,38,40,38,36,0.19268,1.2247,oui,1,0,0
+677,18,Homme,Diplome professionnel,Royaume-Unis,38,40,33,42,44,0.88113,0.7654,oui,1,0,0
+678,25,Homme,Diplome universitaire,Royaume-Unis,41,38,48,39,37,-0.21711999999999998,-0.21575,oui,1,0,0
+679,18,Homme,Quitte Lycee ou universite sans diplome,Royaume-Unis,56,24,43,43,26,-1.37983,-1.5485799999999998,non,0,1,0
+680,18,Femme,Quitte Lycee ou universite sans diplome,Royaume-Unis,42,38,41,35,51,-0.71126,1.2247,oui,1,1,1
+681,45,Homme,Doctorat,Royaume-Unis,38,34,44,43,26,-0.71126,-2.07848,non,0,0,0
+682,35,Homme,Quitte Lycee ou universite sans diplome,Royaume-Unis,24,40,36,39,43,0.88113,0.7654,oui,1,1,0
+683,25,Homme,Maitrise,Royaume-Unis,49,27,48,45,46,-1.37983,-0.8463700000000001,non,0,0,0
+684,35,Femme,Diplome universitaire,Royaume-Unis,41,39,42,42,37,-1.37983,-0.52593,oui,1,0,1
+685,35,Femme,Diplome professionnel,Royaume-Unis,45,35,53,35,30,1.29221,1.92173,oui,1,0,1
+686,25,Homme,Diplome universitaire,Australie,32,41,50,40,36,0.88113,0.40148,oui,1,0,0
+687,18,Femme,Quitte Lycee ou universite sans diplome,Canada,51,46,54,41,35,0.88113,1.2247,oui,1,1,1
+688,45,Femme,Quitte ecole avant 16 ans,Australie,27,44,38,49,44,-1.37983,-2.07848,oui,1,1,1
+689,35,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,46,47,43,35,46,0.88113,1.2247,oui,1,1,0
+690,55,Femme,Maitrise,Royaume-Unis,44,35,42,43,41,1.8620299999999999,0.40148,non,0,0,1
+691,55,Homme,Quitte Lycee ou universite sans diplome,Royaume-Unis,40,35,35,33,41,0.52975,-0.52593,non,0,1,0
+692,25,Femme,Diplome universitaire,Royaume-Unis,34,39,38,44,45,-0.71126,-0.52593,non,0,0,1
+693,45,Femme,Maitrise,Royaume-Unis,38,35,43,41,38,-0.71126,-0.8463700000000001,non,0,0,1
+694,35,Homme,Maitrise,Royaume-Unis,25,38,46,46,46,-1.37983,-0.8463700000000001,oui,1,0,0
+695,35,Homme,Diplome professionnel,Royaume-Unis,27,36,42,39,40,0.19268,-0.21575,oui,1,0,0
+696,35,Femme,Maitrise,Royaume-Unis,34,37,45,51,53,-0.71126,-1.18084,non,0,0,1
+697,55,Homme,Diplome universitaire,Royaume-Unis,28,42,48,33,51,-0.21711999999999998,0.07987000000000001,oui,1,0,0
+698,45,Femme,Diplome universitaire,Canada,21,38,52,53,42,-0.71126,0.07987000000000001,oui,1,0,1
+699,35,Homme,Diplome universitaire,Etats-Unis,35,33,51,43,37,-0.21711999999999998,-0.52593,oui,1,0,0
+700,55,Homme,Quitte Lycee ou universite sans diplome,Royaume-Unis,34,32,40,45,34,-0.21711999999999998,0.40148,oui,1,1,0
+701,35,Femme,Quitte Lycee ou universite sans diplome,Autre,45,41,48,37,43,1.29221,1.2247,oui,1,1,1
+702,45,Homme,Quitte ecole avant 16 ans,Royaume-Unis,26,47,48,48,49,-0.71126,0.40148,oui,1,1,0
+703,35,Femme,Diplome universitaire,Royaume-Unis,32,44,49,41,42,0.88113,0.7654,oui,1,0,1
+704,55,Homme,Diplome universitaire,Royaume-Unis,23,45,44,37,41,-0.71126,0.07987000000000001,non,0,0,0
+705,35,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,28,38,41,39,44,-0.71126,-0.52593,oui,1,1,0
+706,18,Homme,Quitte Lycee ou universite sans diplome,Royaume-Unis,23,42,52,55,43,-0.71126,-0.21575,oui,1,1,0
+707,18,Femme,Diplome universitaire,Royaume-Unis,34,33,35,40,44,0.52975,-0.8463700000000001,oui,1,0,1
+708,25,Homme,Diplome universitaire,Royaume-Unis,35,52,47,42,38,0.52975,0.40148,oui,1,0,0
+709,18,Homme,Quitte Lycee ou universite sans diplome,Royaume-Unis,40,36,42,48,49,-1.37983,-0.52593,oui,1,1,0
+710,18,Homme,Diplome professionnel,Royaume-Unis,27,38,40,47,45,-0.71126,-1.5485799999999998,oui,1,0,0
+711,18,Homme,Diplome universitaire,Royaume-Unis,45,41,49,39,32,0.19268,1.2247,oui,1,0,0
+712,18,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,30,39,39,50,45,-1.37983,-0.8463700000000001,oui,1,1,0
+713,25,Femme,Maitrise,Royaume-Unis,41,42,50,44,49,-0.21711999999999998,-0.52593,oui,1,0,1
+714,18,Homme,Diplome universitaire,Etats-Unis,41,45,51,54,42,0.88113,0.7654,oui,1,0,0
+715,18,Homme,Diplome professionnel,Royaume-Unis,43,47,48,36,40,0.88113,1.92173,oui,1,0,0
+716,18,Femme,Quitte Lycee ou universite sans diplome,Etats-Unis,42,43,52,54,44,-0.21711999999999998,0.40148,oui,1,1,1
+717,18,Homme,Quitte Lycee ou universite sans diplome,Royaume-Unis,35,29,36,39,28,1.29221,-0.8463700000000001,oui,1,1,0
+718,35,Homme,Diplome universitaire,Etats-Unis,28,34,43,44,44,-0.71126,-0.8463700000000001,oui,1,0,0
+719,18,Homme,Quitte ecole a 16 ans,Autre,35,31,40,39,40,1.8620299999999999,1.2247,oui,1,1,0
+720,55,Homme,Diplome universitaire,Royaume-Unis,32,33,40,40,39,0.52975,0.40148,oui,1,0,0
+721,35,Homme,Quitte Lycee ou universite sans diplome,Royaume-Unis,48,45,51,42,49,0.88113,0.7654,oui,1,1,0
+722,35,Femme,Diplome professionnel,Royaume-Unis,51,35,47,48,43,-0.71126,-0.8463700000000001,oui,1,0,1
+723,55,Homme,Diplome professionnel,Royaume-Unis,35,38,45,39,39,-1.37983,-1.18084,oui,1,0,0
+724,25,Femme,Diplome universitaire,Royaume-Unis,27,49,47,49,46,0.19268,-0.52593,oui,1,0,1
+725,35,Femme,Quitte Lycee ou universite sans diplome,Royaume-Unis,47,36,50,48,39,0.19268,-0.21575,oui,1,1,1
+726,25,Femme,Maitrise,Royaume-Unis,39,44,50,53,44,-0.21711999999999998,1.92173,oui,1,0,1
+727,18,Homme,Diplome professionnel,Royaume-Unis,56,33,50,35,38,-0.71126,-0.52593,oui,1,0,0
+728,25,Femme,Maitrise,Royaume-Unis,39,44,41,44,41,0.19268,-0.21575,non,0,0,1
+729,18,Homme,Quitte Lycee ou universite sans diplome,Canada,23,41,50,41,30,0.19268,0.07987000000000001,oui,1,1,0
+730,25,Femme,Quitte ecole a 16 ans,Australie,30,42,46,39,43,1.29221,0.7654,oui,1,1,1
+731,35,Femme,Diplome universitaire,Royaume-Unis,43,40,38,43,42,-0.21711999999999998,-1.18084,non,0,0,1
+732,18,Homme,Quitte Lycee ou universite sans diplome,Royaume-Unis,28,48,43,42,38,0.19268,0.40148,oui,1,1,0
+733,18,Femme,Diplome universitaire,Royaume-Unis,48,44,50,42,42,-0.71126,-0.21575,oui,1,0,1
+734,35,Homme,Quitte ecole a 16 ans,Royaume-Unis,42,41,47,41,40,-0.21711999999999998,-0.52593,oui,1,1,0
+735,18,Homme,Quitte Lycee ou universite sans diplome,Royaume-Unis,43,47,54,33,28,0.88113,0.7654,oui,1,1,0
+736,25,Femme,Diplome universitaire,Royaume-Unis,38,53,58,53,37,1.29221,1.2247,oui,1,0,1
+737,25,Homme,Diplome universitaire,Royaume-Unis,31,27,26,33,33,-1.37983,0.07987000000000001,oui,1,0,0
+738,25,Homme,Diplome universitaire,Royaume-Unis,26,51,45,44,55,0.52975,1.2247,oui,1,0,0
+739,18,Femme,Quitte ecole a 18 ans,Autre,48,41,54,51,46,-0.71126,0.40148,oui,1,1,1
+740,25,Homme,Maitrise,Autre,35,30,48,40,38,0.19268,0.7654,oui,1,0,0
+741,35,Homme,Quitte Lycee ou universite sans diplome,Royaume-Unis,24,41,49,51,37,0.88113,0.07987000000000001,oui,1,1,0
+743,45,Femme,Maitrise,Royaume-Unis,44,38,47,48,52,0.52975,0.40148,non,0,0,1
+744,35,Femme,Diplome universitaire,Royaume-Unis,42,41,40,37,35,-1.37983,-1.18084,non,0,0,1
+745,25,Homme,Quitte ecole a 16 ans,Royaume-Unis,32,40,41,37,47,0.52975,0.40148,oui,1,1,0
+746,45,Homme,Quitte Lycee ou universite sans diplome,Royaume-Unis,27,41,45,47,30,1.29221,-0.21575,non,0,1,0
+747,25,Femme,Quitte ecole a 16 ans,Royaume-Unis,43,42,37,46,39,-0.71126,-0.21575,non,0,1,1
+748,25,Femme,Maitrise,Royaume-Unis,35,43,48,45,45,-0.71126,-0.21575,oui,1,0,1
+749,35,Femme,Quitte ecole a 16 ans,Royaume-Unis,40,36,35,43,28,0.19268,-0.21575,oui,1,1,1
+750,35,Femme,Doctorat,Royaume-Unis,21,46,38,53,54,-0.21711999999999998,-0.52593,non,0,0,1
+751,35,Homme,Maitrise,Royaume-Unis,34,40,45,50,41,-0.21711999999999998,0.40148,oui,1,0,0
+752,25,Femme,Diplome professionnel,Royaume-Unis,17,49,32,50,50,-0.21711999999999998,-0.8463700000000001,oui,1,0,1
+753,25,Homme,Quitte Lycee ou universite sans diplome,Autre,51,38,52,52,28,1.8620299999999999,0.07987000000000001,oui,1,1,0
+754,25,Femme,Maitrise,Royaume-Unis,40,47,41,51,45,0.19268,0.40148,oui,1,0,1
+755,25,Homme,Doctorat,Royaume-Unis,27,43,54,50,38,0.19268,0.07987000000000001,oui,1,0,0
+756,18,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,23,50,55,48,56,-0.71126,-1.18084,oui,1,1,0
+757,18,Femme,Maitrise,Royaume-Unis,42,42,41,44,47,-0.21711999999999998,-0.21575,oui,1,0,1
+758,18,Femme,Quitte Lycee ou universite sans diplome,Irelande,56,37,44,48,25,1.29221,0.40148,oui,1,1,1
+759,18,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,40,44,45,42,40,0.52975,1.2247,oui,1,1,0
+760,18,Homme,Doctorat,Royaume-Unis,14,51,49,50,44,-0.71126,0.40148,oui,1,0,0
+761,25,Homme,Diplome universitaire,Canada,36,33,39,40,37,0.19268,1.2247,oui,1,0,0
+762,18,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,52,42,37,40,23,2.90161,-0.21575,oui,1,1,0
+763,25,Femme,Diplome universitaire,Australie,24,45,54,50,43,-0.21711999999999998,0.40148,oui,1,0,1
+764,18,Femme,Diplome universitaire,Royaume-Unis,47,45,49,49,30,0.88113,-0.8463700000000001,oui,1,0,1
+765,18,Homme,Quitte ecole a 16 ans,Royaume-Unis,40,33,52,47,34,0.52975,0.7654,oui,1,1,0
+766,18,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,42,41,57,48,42,0.19268,1.2247,oui,1,1,0
+767,18,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,46,34,47,56,37,0.52975,0.07987000000000001,non,0,1,0
+768,25,Homme,Maitrise,Nouvelle-Zelande,44,35,46,38,40,-0.71126,0.07987000000000001,oui,1,0,0
+769,18,Femme,Diplome professionnel,Etats-Unis,32,44,46,41,47,1.29221,-0.52593,oui,1,0,1
+770,25,Homme,Diplome universitaire,Australie,46,41,49,46,47,-1.37983,0.7654,oui,1,0,0
+771,18,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,42,28,36,43,35,1.8620299999999999,1.2247,oui,1,1,0
+772,18,Femme,Maitrise,Royaume-Unis,41,30,32,49,44,0.52975,-0.8463700000000001,non,0,0,1
+773,45,Homme,Diplome universitaire,Royaume-Unis,48,30,42,39,28,0.19268,0.40148,oui,1,0,0
+774,45,Femme,Diplome professionnel,Canada,46,31,43,41,38,-0.21711999999999998,-0.21575,oui,1,0,1
+775,18,Homme,Quitte ecole a 18 ans,Autre,25,37,49,45,42,-0.71126,-0.21575,oui,1,1,0
+776,18,Femme,Quitte Lycee ou universite sans diplome,Autre,21,43,51,41,28,0.19268,0.40148,oui,1,1,1
+777,25,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,37,37,39,41,42,-0.71126,-1.5485799999999998,oui,1,1,0
+778,18,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,41,44,50,39,38,0.19268,0.07987000000000001,oui,1,1,0
+779,18,Homme,Quitte Lycee ou universite sans diplome,Canada,54,40,57,40,37,0.88113,0.7654,oui,1,1,0
+780,45,Homme,Quitte ecole a 18 ans,Royaume-Unis,18,47,43,47,39,0.19268,-0.52593,oui,1,1,0
+781,18,Femme,Diplome professionnel,Etats-Unis,46,24,44,46,42,-1.37983,-0.8463700000000001,oui,1,0,1
+782,35,Homme,Diplome professionnel,Etats-Unis,46,33,39,34,36,0.19268,0.7654,oui,1,0,0
+783,18,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,47,31,47,43,33,1.8620299999999999,1.92173,oui,1,1,0
+784,18,Femme,Quitte Lycee ou universite sans diplome,Etats-Unis,44,37,51,46,38,0.52975,1.2247,oui,1,1,1
+785,18,Femme,Quitte Lycee ou universite sans diplome,Etats-Unis,33,43,51,43,49,-0.21711999999999998,1.2247,oui,1,1,1
+786,18,Homme,Maitrise,Etats-Unis,49,34,51,43,44,-0.21711999999999998,0.7654,oui,1,0,0
+787,18,Homme,Diplome professionnel,Autre,30,40,46,41,29,0.88113,0.7654,oui,1,0,0
+788,35,Homme,Diplome professionnel,Autre,44,36,46,38,43,1.29221,0.07987000000000001,oui,1,0,0
+789,18,Homme,Diplome professionnel,Royaume-Unis,21,48,41,39,33,1.8620299999999999,0.7654,non,0,0,0
+790,18,Homme,Quitte Lycee ou universite sans diplome,Royaume-Unis,19,41,50,44,47,0.19268,1.2247,oui,1,1,0
+791,18,Homme,Diplome universitaire,Australie,34,37,51,39,36,1.29221,0.7654,oui,1,0,0
+792,18,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,42,39,49,32,41,1.29221,1.92173,oui,1,1,0
+793,18,Homme,Quitte Lycee ou universite sans diplome,Autre,44,44,47,36,31,-0.71126,-0.21575,oui,1,1,0
+794,25,Homme,Quitte Lycee ou universite sans diplome,Royaume-Unis,36,53,43,39,42,1.29221,0.07987000000000001,non,0,1,0
+795,25,Homme,Diplome universitaire,Royaume-Unis,35,36,53,51,38,0.19268,0.7654,oui,1,0,0
+796,18,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,47,36,43,39,49,-0.71126,-0.21575,oui,1,1,0
+797,18,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,40,33,43,46,41,-0.21711999999999998,0.7654,oui,1,1,0
+798,18,Femme,Diplome universitaire,Royaume-Unis,30,45,48,47,50,-0.71126,0.7654,oui,1,0,1
+799,25,Femme,Quitte Lycee ou universite sans diplome,Etats-Unis,37,47,50,41,47,-0.21711999999999998,1.2247,oui,1,1,1
+800,35,Femme,Quitte Lycee ou universite sans diplome,Royaume-Unis,48,44,54,46,37,1.8620299999999999,-0.52593,oui,1,1,1
+801,18,Homme,Quitte Lycee ou universite sans diplome,Canada,25,41,45,46,54,-0.21711999999999998,-0.21575,oui,1,1,0
+802,25,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,41,37,44,47,34,0.52975,0.40148,oui,1,1,0
+803,18,Homme,Quitte ecole a 18 ans,Irelande,31,42,46,38,37,0.88113,1.2247,oui,1,1,0
+804,45,Femme,Diplome universitaire,Etats-Unis,37,33,38,48,40,-1.37983,1.2247,oui,1,0,1
+805,25,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,41,32,42,49,42,-0.21711999999999998,0.07987000000000001,oui,1,1,0
+806,18,Femme,Diplome universitaire,Canada,54,29,54,31,45,0.52975,0.07987000000000001,oui,1,0,1
+807,25,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,33,41,43,40,35,1.29221,0.7654,oui,1,1,0
+808,18,Homme,Quitte ecole a 17 ans,Australie,32,45,50,47,35,1.8620299999999999,1.2247,oui,1,1,0
+809,18,Femme,Quitte Lycee ou universite sans diplome,Etats-Unis,46,45,52,36,38,0.88113,1.2247,oui,1,1,1
+810,18,Homme,Diplome universitaire,Etats-Unis,40,26,38,48,30,-1.37983,-0.8463700000000001,oui,1,0,0
+811,18,Homme,Diplome professionnel,Royaume-Unis,21,34,36,54,41,-0.21711999999999998,-0.8463700000000001,oui,1,0,0
+812,18,Homme,Quitte ecole a 18 ans,Etats-Unis,21,45,52,37,39,-0.71126,0.07987000000000001,oui,1,1,0
+813,45,Femme,Diplome universitaire,Etats-Unis,48,51,51,30,29,0.88113,1.2247,oui,1,0,1
+814,18,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,47,35,45,34,35,1.29221,1.2247,oui,1,1,0
+815,25,Homme,Diplome universitaire,Etats-Unis,41,36,50,32,45,-0.21711999999999998,0.40148,oui,1,0,0
+816,18,Homme,Quitte Lycee ou universite sans diplome,Royaume-Unis,29,40,42,37,44,0.52975,1.92173,oui,1,1,0
+817,18,Homme,Quitte Lycee ou universite sans diplome,Canada,57,42,47,37,34,1.8620299999999999,1.2247,oui,1,1,0
+818,18,Femme,Quitte Lycee ou universite sans diplome,Etats-Unis,37,33,45,46,47,-0.21711999999999998,-0.52593,oui,1,1,1
+819,45,Homme,Doctorat,Australie,42,41,51,57,44,-0.71126,0.40148,oui,1,0,0
+820,25,Femme,Maitrise,Royaume-Unis,51,34,45,41,33,0.19268,0.40148,oui,1,0,1
+821,18,Homme,Quitte Lycee ou universite sans diplome,Australie,29,51,50,44,45,0.88113,1.92173,oui,1,1,0
+822,18,Femme,Diplome universitaire,Etats-Unis,32,42,44,42,43,0.88113,1.2247,oui,1,0,1
+823,18,Homme,Quitte Lycee ou universite sans diplome,Royaume-Unis,35,47,50,40,45,-0.21711999999999998,1.2247,non,0,1,0
+824,18,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,35,41,50,45,39,0.88113,1.2247,oui,1,1,0
+825,18,Homme,Quitte Lycee ou universite sans diplome,Autre,36,38,44,29,26,1.29221,1.2247,oui,1,1,0
+826,18,Homme,Diplome universitaire,Australie,42,24,26,49,31,-0.71126,-1.18084,oui,1,0,0
+827,18,Homme,Diplome universitaire,Etats-Unis,41,44,46,36,50,-0.21711999999999998,0.40148,oui,1,0,0
+828,18,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,37,49,53,35,36,0.52975,0.7654,oui,1,1,0
+829,18,Homme,Diplome universitaire,Autre,27,43,45,38,39,0.19268,0.40148,oui,1,0,0
+830,25,Femme,Doctorat,Australie,52,43,52,47,43,-1.37983,0.7654,oui,1,0,1
+831,18,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,37,44,56,51,40,-1.37983,0.40148,oui,1,1,0
+832,18,Homme,Diplome professionnel,Royaume-Unis,39,37,40,49,41,0.19268,-0.21575,oui,1,0,0
+833,18,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,45,34,46,47,41,-0.21711999999999998,0.7654,oui,1,1,0
+834,25,Femme,Maitrise,Etats-Unis,37,33,54,44,46,0.52975,1.92173,oui,1,0,1
+835,45,Femme,Doctorat,Etats-Unis,36,41,45,38,36,0.88113,0.7654,non,0,0,1
+836,25,Femme,Maitrise,Etats-Unis,44,35,45,41,46,-0.21711999999999998,-0.8463700000000001,non,0,0,1
+837,18,Homme,Diplome universitaire,Etats-Unis,41,33,42,42,41,-0.21711999999999998,0.07987000000000001,oui,1,0,0
+838,18,Homme,Diplome universitaire,Australie,21,41,45,41,30,0.19268,0.07987000000000001,oui,1,0,0
+839,45,Homme,Maitrise,Etats-Unis,32,42,46,35,44,0.19268,0.40148,oui,1,0,0
+840,18,Homme,Quitte Lycee ou universite sans diplome,Australie,21,51,49,46,48,1.29221,0.07987000000000001,oui,1,1,0
+841,18,Homme,Quitte ecole a 18 ans,Royaume-Unis,43,40,57,44,30,1.29221,0.7654,oui,1,1,0
+842,25,Homme,Diplome universitaire,Etats-Unis,38,30,49,24,42,0.88113,1.2247,oui,1,0,0
+843,18,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,30,39,51,40,32,1.8620299999999999,0.7654,oui,1,1,0
+844,18,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,29,40,47,54,50,-0.21711999999999998,-0.52593,oui,1,1,0
+845,25,Femme,Quitte Lycee ou universite sans diplome,Etats-Unis,41,37,46,36,40,-1.37983,0.07987000000000001,oui,1,1,1
+846,18,Femme,Quitte Lycee ou universite sans diplome,Etats-Unis,39,45,52,50,38,0.19268,0.40148,oui,1,1,1
+847,35,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,45,28,35,42,44,-1.37983,-1.5485799999999998,oui,1,1,0
+848,18,Femme,Diplome professionnel,Canada,41,37,34,50,37,0.19268,-0.52593,oui,1,0,1
+849,25,Homme,Diplome universitaire,Etats-Unis,42,37,47,30,35,0.52975,0.7654,oui,1,0,0
+850,18,Homme,Quitte ecole a 18 ans,Etats-Unis,41,44,52,36,39,1.29221,1.2247,oui,1,1,0
+851,55,Homme,Maitrise,Etats-Unis,21,40,53,51,45,0.19268,0.07987000000000001,oui,1,0,0
+852,18,Homme,Maitrise,Autre,40,33,48,41,45,0.19268,0.40148,oui,1,0,0
+853,18,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,28,49,54,49,43,0.52975,0.07987000000000001,oui,1,1,0
+854,25,Homme,Diplome universitaire,Etats-Unis,43,41,35,35,32,0.19268,1.2247,oui,1,0,0
+855,18,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,36,40,54,44,40,0.19268,0.07987000000000001,oui,1,1,0
+856,18,Femme,Quitte Lycee ou universite sans diplome,Etats-Unis,32,41,45,42,34,1.29221,0.7654,oui,1,1,1
+857,18,Homme,Quitte ecole a 16 ans,Canada,41,45,49,36,33,0.52975,1.2247,oui,1,1,0
+858,25,Homme,Quitte Lycee ou universite sans diplome,Royaume-Unis,26,43,56,53,45,-0.21711999999999998,0.07987000000000001,oui,1,1,0
+859,18,Homme,Diplome professionnel,Etats-Unis,41,48,44,47,54,0.88113,1.2247,oui,1,0,0
+860,25,Homme,Quitte ecole a 17 ans,Canada,49,34,42,30,29,0.19268,-0.52593,oui,1,1,0
+861,18,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,26,54,52,42,48,0.88113,0.7654,oui,1,1,0
+862,18,Femme,Quitte Lycee ou universite sans diplome,Autre,46,31,52,36,32,2.90161,0.40148,oui,1,1,1
+863,25,Homme,Quitte Lycee ou universite sans diplome,Autre,42,45,52,40,28,1.29221,0.7654,oui,1,1,0
+864,18,Homme,Diplome universitaire,Royaume-Unis,36,39,44,39,39,1.8620299999999999,1.2247,oui,1,0,0
+865,18,Homme,Quitte Lycee ou universite sans diplome,Canada,20,48,57,48,48,-0.71126,0.07987000000000001,oui,1,1,0
+866,18,Homme,Quitte Lycee ou universite sans diplome,Irelande,51,36,44,32,37,-0.71126,0.7654,oui,1,1,0
+867,18,Femme,Quitte Lycee ou universite sans diplome,Etats-Unis,34,47,41,39,36,0.88113,0.07987000000000001,oui,1,1,1
+868,18,Homme,Quitte Lycee ou universite sans diplome,Canada,40,32,49,47,36,0.19268,-0.21575,oui,1,1,0
+869,18,Femme,Quitte Lycee ou universite sans diplome,Etats-Unis,35,48,54,48,54,0.52975,1.2247,oui,1,1,1
+870,18,Femme,Quitte Lycee ou universite sans diplome,Etats-Unis,24,42,50,49,52,-0.71126,0.40148,oui,1,1,1
+871,45,Homme,Diplome professionnel,Royaume-Unis,51,35,51,41,28,1.29221,1.92173,oui,1,0,0
+872,25,Homme,Diplome universitaire,Etats-Unis,45,34,52,40,49,0.88113,1.92173,oui,1,0,0
+873,18,Homme,Maitrise,Etats-Unis,38,50,46,32,34,0.52975,0.40148,oui,1,0,0
+874,25,Femme,Maitrise,Etats-Unis,29,37,45,47,40,-0.71126,-0.8463700000000001,oui,1,0,1
+875,18,Femme,Quitte Lycee ou universite sans diplome,Royaume-Unis,50,27,46,38,23,-0.71126,-2.07848,oui,1,1,1
+876,25,Femme,Maitrise,Etats-Unis,38,32,41,45,34,0.52975,-0.21575,oui,1,0,1
+877,18,Femme,Quitte Lycee ou universite sans diplome,Etats-Unis,43,42,54,43,36,1.8620299999999999,1.92173,oui,1,1,1
+878,35,Homme,Diplome professionnel,Etats-Unis,48,24,50,30,39,2.90161,0.7654,oui,1,0,0
+879,25,Homme,Quitte Lycee ou universite sans diplome,Australie,27,43,50,46,25,1.8620299999999999,1.92173,oui,1,1,0
+880,18,Femme,Diplome universitaire,Etats-Unis,30,49,51,43,43,0.88113,0.40148,oui,1,0,1
+881,25,Homme,Maitrise,Etats-Unis,48,40,43,42,41,1.29221,0.7654,oui,1,0,0
+882,18,Femme,Quitte ecole avant 16 ans,Etats-Unis,42,39,51,40,31,0.19268,1.92173,oui,1,1,1
+883,35,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,51,32,47,39,36,1.8620299999999999,0.40148,oui,1,1,0
+884,25,Femme,Quitte Lycee ou universite sans diplome,Etats-Unis,25,49,53,37,41,0.52975,1.2247,oui,1,1,1
+885,18,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,36,48,50,45,37,0.19268,0.7654,oui,1,1,0
+886,18,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,50,40,47,48,41,-0.21711999999999998,0.7654,oui,1,1,0
+887,25,Homme,Quitte Lycee ou universite sans diplome,Autre,46,19,46,43,41,0.19268,0.07987000000000001,oui,1,1,0
+888,18,Homme,Diplome universitaire,Royaume-Unis,40,37,46,41,42,0.88113,0.40148,oui,1,0,0
+889,18,Homme,Diplome universitaire,Royaume-Unis,31,55,50,52,43,0.19268,1.2247,oui,1,0,0
+890,18,Femme,Quitte Lycee ou universite sans diplome,Etats-Unis,26,49,55,54,36,0.19268,-0.52593,oui,1,1,1
+891,18,Femme,Quitte Lycee ou universite sans diplome,Etats-Unis,40,45,53,50,46,-0.71126,0.07987000000000001,oui,1,1,1
+892,18,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,37,46,52,47,46,-0.71126,0.7654,oui,1,1,0
+893,25,Homme,Quitte Lycee ou universite sans diplome,Irelande,22,53,51,43,48,-0.21711999999999998,0.40148,oui,1,1,0
+894,25,Homme,Quitte Lycee ou universite sans diplome,Autre,37,37,32,27,41,0.52975,0.7654,oui,1,1,0
+895,25,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,46,29,47,22,30,1.29221,1.92173,oui,1,1,0
+896,25,Femme,Quitte ecole a 17 ans,Royaume-Unis,60,24,39,36,24,0.52975,-1.18084,oui,1,1,1
+897,18,Homme,Quitte Lycee ou universite sans diplome,Autre,23,27,45,27,40,0.52975,0.7654,oui,1,1,0
+898,18,Femme,Diplome professionnel,Royaume-Unis,20,38,46,44,37,-0.71126,0.07987000000000001,oui,1,0,1
+899,25,Homme,Maitrise,Etats-Unis,28,47,44,44,45,-0.21711999999999998,0.07987000000000001,oui,1,0,0
+900,25,Homme,Diplome universitaire,Etats-Unis,53,38,42,40,34,1.8620299999999999,1.92173,oui,1,0,0
+901,18,Femme,Quitte Lycee ou universite sans diplome,Etats-Unis,53,33,38,37,34,2.90161,1.92173,oui,1,1,1
+902,18,Homme,Diplome universitaire,Canada,15,51,34,20,41,0.52975,1.2247,oui,1,0,0
+903,18,Homme,Quitte Lycee ou universite sans diplome,Royaume-Unis,36,33,48,39,35,0.52975,1.2247,oui,1,1,0
+904,25,Femme,Maitrise,Etats-Unis,38,35,47,39,33,0.52975,0.40148,oui,1,0,1
+905,18,Homme,Quitte ecole a 18 ans,Etats-Unis,35,46,45,46,37,0.88113,1.2247,oui,1,1,0
+906,35,Femme,Diplome universitaire,Etats-Unis,46,38,52,36,45,-1.37983,-0.8463700000000001,oui,1,0,1
+907,18,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,49,39,44,27,33,0.88113,0.40148,oui,1,1,0
+908,25,Homme,Diplome professionnel,Autre,40,42,46,43,54,-0.71126,-0.52593,oui,1,0,0
+909,35,Homme,Diplome universitaire,Australie,24,42,40,34,45,0.52975,1.2247,non,0,0,0
+910,18,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,33,40,43,48,36,-1.37983,1.92173,oui,1,1,0
+911,18,Homme,Diplome universitaire,Etats-Unis,37,44,45,34,42,0.88113,0.7654,oui,1,0,0
+912,25,Femme,Quitte Lycee ou universite sans diplome,Etats-Unis,49,43,52,37,28,1.8620299999999999,1.2247,oui,1,1,1
+913,18,Femme,Quitte Lycee ou universite sans diplome,Etats-Unis,55,19,31,43,31,0.52975,-0.8463700000000001,oui,1,1,1
+914,18,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,43,30,40,34,36,-0.21711999999999998,0.7654,oui,1,1,0
+915,35,Homme,Diplome universitaire,Etats-Unis,39,29,33,32,47,-0.71126,0.40148,non,0,0,0
+916,18,Femme,Quitte Lycee ou universite sans diplome,Etats-Unis,25,54,53,49,48,0.19268,0.7654,oui,1,1,1
+917,25,Femme,Quitte ecole a 17 ans,Etats-Unis,56,20,41,28,19,1.8620299999999999,1.2247,oui,1,1,1
+918,18,Homme,Quitte ecole a 18 ans,Etats-Unis,38,40,45,40,48,-0.71126,-0.21575,oui,1,1,0
+919,25,Homme,Quitte ecole a 16 ans,Etats-Unis,40,39,44,42,38,0.19268,0.7654,oui,1,1,0
+920,18,Femme,Quitte Lycee ou universite sans diplome,Etats-Unis,52,28,44,53,45,0.52975,1.2247,oui,1,1,1
+921,18,Homme,Quitte ecole a 18 ans,Canada,38,49,57,41,34,1.8620299999999999,1.92173,oui,1,1,0
+922,35,Homme,Maitrise,Royaume-Unis,33,38,40,38,43,1.29221,0.07987000000000001,oui,1,0,0
+923,18,Homme,Quitte Lycee ou universite sans diplome,Autre,25,43,52,34,45,-0.21711999999999998,1.2247,oui,1,1,0
+924,18,Homme,Quitte ecole avant 16 ans,Australie,37,38,45,46,33,-0.21711999999999998,0.40148,oui,1,1,0
+925,18,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,25,30,40,35,33,0.19268,-0.21575,oui,1,1,0
+926,25,Homme,Quitte ecole a 18 ans,Etats-Unis,48,31,28,36,36,1.29221,-0.21575,oui,1,1,0
+927,18,Homme,Quitte ecole a 16 ans,Etats-Unis,46,29,47,44,35,0.52975,0.07987000000000001,oui,1,1,0
+928,18,Homme,Diplome professionnel,Etats-Unis,28,48,49,50,37,-0.21711999999999998,0.7654,oui,1,0,0
+929,25,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,38,31,51,38,40,-0.21711999999999998,0.7654,oui,1,1,0
+930,25,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,30,49,55,53,46,0.19268,1.2247,oui,1,1,0
+931,18,Femme,Quitte Lycee ou universite sans diplome,Royaume-Unis,33,46,50,45,40,0.52975,0.07987000000000001,oui,1,1,1
+932,35,Homme,Quitte ecole a 16 ans,Royaume-Unis,29,35,41,44,37,-1.37983,-0.8463700000000001,oui,1,1,0
+933,25,Femme,Diplome universitaire,Australie,43,35,53,49,45,0.52975,0.7654,oui,1,0,1
+934,18,Femme,Quitte ecole a 17 ans,Etats-Unis,47,26,45,50,36,-0.21711999999999998,1.92173,oui,1,1,1
+935,18,Femme,Diplome universitaire,Royaume-Unis,33,40,52,47,54,-0.71126,-0.52593,oui,1,0,1
+936,18,Femme,Quitte Lycee ou universite sans diplome,Etats-Unis,24,47,53,45,36,1.8620299999999999,1.92173,oui,1,1,1
+937,18,Femme,Quitte Lycee ou universite sans diplome,Etats-Unis,56,35,47,44,36,0.52975,0.7654,oui,1,1,1
+938,18,Homme,Diplome professionnel,Royaume-Unis,40,48,52,43,39,0.52975,0.07987000000000001,oui,1,0,0
+939,18,Homme,Quitte Lycee ou universite sans diplome,Autre,35,42,49,47,35,0.88113,1.2247,oui,1,1,0
+940,18,Femme,Diplome universitaire,Royaume-Unis,39,42,45,39,47,-0.71126,0.40148,oui,1,0,1
+941,18,Homme,Quitte Lycee ou universite sans diplome,Autre,40,37,52,33,41,-0.21711999999999998,0.7654,oui,1,1,0
+942,25,Femme,Quitte ecole a 18 ans,Autre,45,48,52,38,51,0.19268,0.40148,oui,1,1,1
+943,25,Homme,Diplome professionnel,Etats-Unis,31,54,58,51,50,-0.21711999999999998,0.40148,oui,1,0,0
+944,18,Femme,Quitte Lycee ou universite sans diplome,Etats-Unis,51,34,49,46,33,0.88113,0.7654,oui,1,1,1
+945,25,Femme,Maitrise,Etats-Unis,46,38,48,48,32,1.29221,0.7654,oui,1,0,1
+946,18,Femme,Quitte Lycee ou universite sans diplome,Etats-Unis,32,32,41,52,35,-0.71126,-1.5485799999999998,oui,1,1,1
+947,18,Homme,Quitte ecole a 18 ans,Etats-Unis,29,38,37,38,30,0.88113,-0.21575,oui,1,1,0
+948,25,Homme,Diplome professionnel,Royaume-Unis,55,30,46,41,29,1.29221,-0.21575,oui,1,0,0
+949,25,Femme,Quitte ecole a 18 ans,Canada,40,40,28,41,47,-1.37983,-2.07848,oui,1,1,1
+950,35,Homme,Diplome professionnel,Etats-Unis,51,27,45,44,30,0.88113,-0.52593,oui,1,0,0
+951,18,Femme,Diplome universitaire,Etats-Unis,42,40,48,40,37,-0.21711999999999998,0.40148,oui,1,0,1
+952,18,Femme,Quitte Lycee ou universite sans diplome,Etats-Unis,25,42,56,47,41,2.90161,1.92173,oui,1,1,1
+953,18,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,40,41,47,41,40,1.8620299999999999,0.7654,oui,1,1,0
+954,25,Femme,Diplome universitaire,Royaume-Unis,46,33,45,41,29,0.52975,0.7654,oui,1,0,1
+955,18,Homme,Quitte Lycee ou universite sans diplome,Autre,49,34,43,42,36,-0.71126,-1.18084,oui,1,1,0
+956,18,Homme,Diplome professionnel,Etats-Unis,53,36,45,33,20,1.8620299999999999,1.2247,oui,1,0,0
+957,45,Homme,Diplome universitaire,Etats-Unis,25,36,41,44,45,-0.71126,-0.8463700000000001,oui,1,0,0
+958,35,Homme,Diplome professionnel,Royaume-Unis,23,38,46,51,50,-0.71126,-1.18084,oui,1,0,0
+959,18,Homme,Quitte Lycee ou universite sans diplome,Autre,33,50,45,35,54,-0.21711999999999998,0.7654,oui,1,1,0
+960,18,Femme,Diplome universitaire,Autre,36,41,54,50,37,0.52975,-0.52593,non,0,0,1
+961,45,Femme,Quitte Lycee ou universite sans diplome,Etats-Unis,35,35,50,55,39,-0.21711999999999998,-0.21575,oui,1,1,1
+962,18,Homme,Diplome professionnel,Australie,39,46,52,45,40,1.8620299999999999,1.92173,oui,1,0,0
+963,25,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,32,42,56,48,33,0.88113,0.40148,oui,1,1,0
+964,35,Homme,Quitte Lycee ou universite sans diplome,Royaume-Unis,42,26,45,44,42,0.19268,1.2247,oui,1,1,0
+965,18,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,27,48,42,48,44,-0.21711999999999998,0.40148,oui,1,1,0
+966,25,Femme,Maitrise,Etats-Unis,25,40,50,46,40,0.19268,0.40148,oui,1,0,1
+967,18,Homme,Maitrise,Royaume-Unis,27,47,45,45,45,0.19268,1.2247,oui,1,0,0
+968,18,Femme,Quitte Lycee ou universite sans diplome,Etats-Unis,30,42,49,50,44,-0.71126,-0.52593,oui,1,1,1
+969,18,Femme,Quitte Lycee ou universite sans diplome,Etats-Unis,33,41,56,52,39,1.29221,1.2247,oui,1,1,1
+970,18,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,22,48,52,33,48,-0.21711999999999998,0.7654,oui,1,1,0
+971,55,Homme,Doctorat,Autre,20,48,49,50,47,0.52975,0.07987000000000001,oui,1,0,0
+972,35,Femme,Diplome universitaire,Canada,38,40,44,39,38,0.88113,0.7654,oui,1,0,1
+973,25,Homme,Quitte Lycee ou universite sans diplome,Canada,40,28,49,36,48,-0.21711999999999998,0.40148,oui,1,1,0
+974,18,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,50,31,37,44,38,-0.71126,0.40148,oui,1,1,0
+975,18,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,20,53,53,52,46,-0.71126,1.92173,oui,1,1,0
+976,18,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,48,40,52,35,36,0.52975,1.92173,oui,1,1,0
+977,65,Homme,Maitrise,Etats-Unis,18,40,49,48,47,0.52975,-0.52593,non,0,0,0
+978,18,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,30,47,50,47,42,-0.21711999999999998,-0.52593,oui,1,1,0
+979,35,Femme,Maitrise,Royaume-Unis,30,49,36,53,39,1.29221,1.2247,oui,1,0,1
+980,45,Femme,Quitte Lycee ou universite sans diplome,Etats-Unis,48,32,42,42,47,-0.71126,-0.21575,oui,1,1,1
+981,25,Femme,Doctorat,Etats-Unis,42,41,50,39,40,-0.71126,-0.8463700000000001,oui,1,0,1
+982,18,Homme,Quitte Lycee ou universite sans diplome,Autre,40,39,46,38,45,-0.21711999999999998,0.07987000000000001,oui,1,1,0
+983,18,Homme,Quitte Lycee ou universite sans diplome,Royaume-Unis,46,47,37,37,34,0.88113,1.2247,oui,1,1,0
+984,25,Femme,Diplome universitaire,Etats-Unis,42,39,56,31,49,0.52975,1.2247,oui,1,0,1
+985,18,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,34,39,53,49,41,0.88113,1.92173,oui,1,1,0
+986,18,Homme,Quitte Lycee ou universite sans diplome,Autre,34,42,53,40,35,0.52975,1.2247,oui,1,1,0
+987,18,Homme,Diplome professionnel,Etats-Unis,43,34,40,40,44,0.88113,0.07987000000000001,oui,1,0,0
+988,25,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,52,44,48,34,25,1.29221,1.2247,oui,1,1,0
+989,18,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,46,29,48,43,35,-0.71126,0.07987000000000001,oui,1,1,0
+990,25,Homme,Diplome universitaire,Etats-Unis,28,40,46,36,40,1.29221,1.2247,oui,1,0,0
+991,18,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,52,36,55,44,39,0.88113,1.2247,oui,1,1,0
+992,18,Homme,Quitte Lycee ou universite sans diplome,Australie,39,51,47,38,28,1.8620299999999999,1.92173,oui,1,1,0
+993,55,Homme,Diplome professionnel,Autre,28,42,49,44,42,-0.21711999999999998,-0.21575,oui,1,0,0
+994,25,Homme,Diplome universitaire,Royaume-Unis,25,45,54,56,49,-0.21711999999999998,0.40148,oui,1,0,0
+995,18,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,41,45,50,49,36,0.52975,1.2247,oui,1,1,0
+996,18,Homme,Maitrise,Autre,28,38,43,37,41,0.52975,0.7654,oui,1,0,0
+997,18,Homme,Maitrise,Royaume-Unis,28,46,42,46,47,0.88113,0.7654,oui,1,0,0
+998,25,Homme,Maitrise,Royaume-Unis,47,38,51,39,48,-0.21711999999999998,0.07987000000000001,oui,1,0,0
+999,25,Femme,Doctorat,Etats-Unis,26,45,43,42,48,-0.21711999999999998,-0.52593,oui,1,0,1
+1000,18,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,29,43,44,44,51,-0.71126,-1.18084,oui,1,1,0
+1001,18,Homme,Quitte ecole a 16 ans,Nouvelle-Zelande,48,32,43,42,37,1.29221,0.7654,oui,1,1,0
+1002,18,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,35,46,36,27,35,1.29221,1.92173,oui,1,1,0
+1003,45,Femme,Quitte Lycee ou universite sans diplome,Autre,32,41,46,46,47,-1.37983,-1.18084,oui,1,1,1
+1004,18,Homme,Quitte Lycee ou universite sans diplome,Autre,55,27,43,33,44,-1.37983,-0.52593,oui,1,1,0
+1005,18,Homme,Quitte ecole a 18 ans,Canada,53,23,37,40,18,-0.21711999999999998,-1.18084,oui,1,1,0
+1006,18,Homme,Quitte ecole a 18 ans,Etats-Unis,44,29,32,43,29,1.29221,1.2247,oui,1,1,0
+1007,18,Femme,Quitte ecole a 18 ans,Etats-Unis,53,33,51,44,35,-0.71126,-0.52593,non,0,1,1
+1008,18,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,35,41,55,49,42,0.19268,0.40148,oui,1,1,0
+1009,45,Homme,Maitrise,Autre,42,31,41,40,33,-0.21711999999999998,-0.21575,oui,1,0,0
+1010,18,Femme,Quitte ecole a 18 ans,Royaume-Unis,48,46,48,41,40,0.52975,0.40148,oui,1,1,1
+1011,45,Homme,Diplome universitaire,Etats-Unis,29,40,45,43,45,-2.55524,-0.52593,oui,1,0,0
+1012,18,Femme,Quitte Lycee ou universite sans diplome,Etats-Unis,30,49,56,51,36,0.19268,1.92173,oui,1,1,1
+1013,25,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,53,31,48,38,31,0.19268,-1.18084,oui,1,1,0
+1014,18,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,42,42,46,44,41,0.19268,0.7654,oui,1,1,0
+1015,25,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,28,53,51,46,37,1.8620299999999999,1.92173,oui,1,1,0
+1016,45,Homme,Diplome universitaire,Etats-Unis,25,44,58,48,50,-1.37983,0.07987000000000001,oui,1,0,0
+1017,18,Homme,Diplome professionnel,Autre,18,55,56,44,52,0.19268,0.7654,oui,1,0,0
+1018,25,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,39,20,39,32,22,0.88113,0.07987000000000001,oui,1,1,0
+1019,18,Femme,Quitte ecole a 18 ans,Royaume-Unis,32,31,38,46,49,-0.71126,-2.07848,oui,1,1,1
+1020,25,Homme,Quitte ecole a 18 ans,Autre,38,50,47,33,42,-0.21711999999999998,0.7654,oui,1,1,0
+1021,35,Femme,Quitte Lycee ou universite sans diplome,Etats-Unis,45,30,35,40,36,0.19268,-2.07848,oui,1,1,1
+1022,18,Homme,Diplome universitaire,Etats-Unis,37,33,52,30,47,-0.21711999999999998,-0.52593,oui,1,0,0
+1023,18,Femme,Quitte Lycee ou universite sans diplome,Royaume-Unis,55,19,37,40,23,-0.71126,-0.8463700000000001,oui,1,1,1
+1024,18,Homme,Quitte ecole a 18 ans,Australie,49,39,55,37,39,-0.21711999999999998,0.07987000000000001,oui,1,1,0
+1025,18,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,29,38,52,36,23,1.29221,0.7654,oui,1,1,0
+1026,18,Femme,Quitte ecole a 18 ans,Etats-Unis,39,32,48,47,37,0.88113,0.07987000000000001,oui,1,1,1
+1027,18,Femme,Diplome universitaire,Etats-Unis,25,33,40,41,39,-0.21711999999999998,-0.52593,oui,1,0,1
+1028,45,Homme,Doctorat,Etats-Unis,37,42,48,37,42,0.19268,0.40148,oui,1,0,0
+1029,35,Femme,Diplome universitaire,Etats-Unis,42,42,42,43,46,1.29221,1.2247,oui,1,0,1
+1030,18,Femme,Maitrise,Etats-Unis,32,45,49,47,50,-0.21711999999999998,1.92173,oui,1,0,1
+1031,18,Femme,Diplome universitaire,Royaume-Unis,41,33,39,36,39,-0.21711999999999998,0.40148,oui,1,0,1
+1032,18,Homme,Quitte Lycee ou universite sans diplome,Australie,29,42,49,50,42,0.19268,0.7654,oui,1,1,0
+1033,25,Homme,Quitte Lycee ou universite sans diplome,Royaume-Unis,38,30,44,36,31,1.29221,0.40148,oui,1,1,0
+1034,18,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,38,35,46,39,40,0.19268,0.40148,oui,1,1,0
+1035,18,Femme,Quitte Lycee ou universite sans diplome,Royaume-Unis,48,36,48,39,34,0.52975,1.92173,oui,1,1,1
+1036,18,Homme,Diplome professionnel,Royaume-Unis,41,43,56,43,38,0.52975,0.7654,oui,1,0,0
+1037,18,Femme,Quitte Lycee ou universite sans diplome,Etats-Unis,41,45,51,42,40,1.29221,1.2247,oui,1,1,1
+1038,25,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,19,43,49,47,47,-1.37983,-0.8463700000000001,oui,1,1,0
+1039,35,Femme,Maitrise,Etats-Unis,48,29,45,58,36,-0.21711999999999998,-2.07848,oui,1,0,1
+1040,18,Femme,Quitte Lycee ou universite sans diplome,Etats-Unis,38,34,50,56,49,0.52975,1.2247,oui,1,1,1
+1041,18,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,43,39,49,38,45,-0.71126,0.07987000000000001,oui,1,1,0
+1042,35,Femme,Maitrise,Royaume-Unis,42,39,31,42,34,0.88113,0.40148,non,0,0,1
+1043,35,Homme,Diplome universitaire,Royaume-Unis,38,24,30,34,31,1.8620299999999999,0.7654,non,0,0,0
+1044,25,Homme,Quitte Lycee ou universite sans diplome,Autre,46,36,46,49,38,0.88113,-0.21575,oui,1,1,0
+1045,25,Femme,Maitrise,Royaume-Unis,45,37,35,48,37,-1.37983,-0.52593,oui,1,0,1
+1046,18,Homme,Quitte Lycee ou universite sans diplome,Royaume-Unis,43,48,54,49,35,1.29221,1.2247,oui,1,1,0
+1047,25,Femme,Maitrise,Etats-Unis,49,48,56,26,32,1.29221,1.2247,oui,1,0,1
+1048,18,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,48,31,48,43,44,-1.37983,-1.5485799999999998,oui,1,1,0
+1049,18,Homme,Maitrise,Royaume-Unis,23,55,48,38,46,0.88113,1.92173,oui,1,0,0
+1050,18,Homme,Diplome professionnel,Royaume-Unis,25,44,45,45,38,-0.21711999999999998,-0.52593,oui,1,0,0
+1051,18,Femme,Quitte Lycee ou universite sans diplome,Etats-Unis,46,43,54,53,37,0.88113,0.7654,oui,1,1,1
+1052,25,Homme,Doctorat,Autre,22,39,50,30,44,0.19268,1.2247,oui,1,0,0
+1053,18,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,29,37,38,41,40,-0.21711999999999998,-0.21575,oui,1,1,0
+1054,18,Homme,Quitte ecole a 18 ans,Canada,48,36,34,30,26,1.29221,1.92173,oui,1,1,0
+1055,18,Femme,Quitte Lycee ou universite sans diplome,Etats-Unis,40,36,48,41,39,-0.21711999999999998,-0.21575,oui,1,1,1
+1056,25,Homme,Quitte ecole a 16 ans,Royaume-Unis,28,48,55,39,46,0.19268,0.40148,oui,1,1,0
+1057,25,Femme,Quitte Lycee ou universite sans diplome,Etats-Unis,38,39,50,47,51,-1.37983,-1.18084,oui,1,1,1
+1058,35,Femme,Quitte ecole a 18 ans,Etats-Unis,39,31,37,31,31,0.19268,0.40148,oui,1,1,1
+1059,18,Homme,Diplome universitaire,Etats-Unis,43,32,36,40,39,0.52975,0.40148,oui,1,0,0
+1060,18,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,30,39,50,49,40,-0.71126,0.40148,oui,1,1,0
+1061,45,Femme,Maitrise,Autre,30,40,55,47,48,-1.37983,-0.52593,non,0,0,1
+1062,18,Femme,Quitte ecole a 18 ans,Etats-Unis,33,44,35,44,47,1.29221,0.07987000000000001,non,0,1,1
+1063,18,Femme,Diplome universitaire,Etats-Unis,48,52,55,42,38,1.29221,1.2247,oui,1,0,1
+1064,25,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,21,39,51,33,45,-0.21711999999999998,0.07987000000000001,oui,1,1,0
+1065,25,Homme,Maitrise,Autre,29,44,55,47,46,-0.21711999999999998,1.2247,oui,1,0,0
+1066,18,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,13,43,53,50,33,0.88113,0.7654,oui,1,1,0
+1067,35,Femme,Quitte ecole a 17 ans,Canada,48,35,49,45,52,-1.37983,-1.5485799999999998,oui,1,1,1
+1068,35,Homme,Diplome universitaire,Canada,30,35,28,41,40,-2.55524,-1.18084,non,0,0,0
+1069,18,Homme,Quitte ecole a 18 ans,Royaume-Unis,21,46,45,43,35,0.88113,0.07987000000000001,oui,1,1,0
+1070,25,Femme,Doctorat,Royaume-Unis,27,40,52,55,54,-1.37983,-0.21575,oui,1,0,1
+1071,25,Femme,Maitrise,Autre,35,30,42,42,50,-0.21711999999999998,-1.18084,oui,1,0,1
+1072,18,Homme,Maitrise,Royaume-Unis,40,40,47,39,43,0.88113,0.07987000000000001,oui,1,0,0
+1073,18,Homme,Quitte Lycee ou universite sans diplome,Irelande,31,37,52,44,31,-0.21711999999999998,0.7654,oui,1,1,0
+1074,18,Femme,Maitrise,Royaume-Unis,51,29,44,45,39,-0.71126,-1.5485799999999998,non,0,0,1
+1075,35,Femme,Doctorat,Royaume-Unis,29,42,45,41,51,-1.37983,-1.5485799999999998,non,0,0,1
+1076,35,Homme,Quitte ecole a 18 ans,Royaume-Unis,39,35,42,40,41,0.19268,0.7654,oui,1,1,0
+1077,18,Homme,Quitte ecole a 17 ans,Royaume-Unis,27,36,50,51,40,-0.71126,-0.21575,oui,1,1,0
+1078,35,Femme,Diplome professionnel,Canada,40,40,38,44,41,-1.37983,-1.18084,non,0,0,1
+1079,25,Femme,Diplome universitaire,Etats-Unis,53,26,56,37,44,0.19268,1.92173,oui,1,0,1
+1080,45,Homme,Diplome professionnel,Royaume-Unis,22,46,43,40,44,-0.21711999999999998,-1.5485799999999998,non,0,0,0
+1081,35,Femme,Diplome professionnel,Royaume-Unis,41,30,35,44,33,-1.37983,-1.18084,non,0,0,1
+1082,25,Femme,Maitrise,Royaume-Unis,39,51,44,45,46,0.52975,0.7654,non,0,0,1
+1083,18,Femme,Maitrise,Royaume-Unis,25,50,47,50,50,-0.21711999999999998,-0.21575,non,0,0,1
+1084,18,Homme,Maitrise,Royaume-Unis,33,43,43,45,38,-0.21711999999999998,-0.21575,oui,1,0,0
+1085,18,Femme,Maitrise,Royaume-Unis,42,47,39,40,32,-0.71126,-0.8463700000000001,non,0,0,1
+1086,18,Femme,Diplome universitaire,Royaume-Unis,35,39,48,45,45,-1.37983,-0.21575,oui,1,0,1
+1087,18,Femme,Maitrise,Royaume-Unis,33,43,51,42,53,0.52975,0.40148,non,0,0,1
+1088,35,Homme,Diplome professionnel,Canada,34,39,49,46,46,-0.71126,0.40148,oui,1,0,0
+1089,18,Femme,Maitrise,Autre,35,46,57,41,44,-1.37983,-0.52593,non,0,0,1
+1090,18,Femme,Maitrise,Royaume-Unis,41,43,45,41,44,0.19268,-0.52593,oui,1,0,1
+1091,25,Femme,Maitrise,Etats-Unis,31,39,47,47,48,0.19268,-0.8463700000000001,non,0,0,1
+1092,25,Femme,Diplome universitaire,Royaume-Unis,26,49,46,50,40,-1.37983,0.7654,oui,1,0,1
+1093,18,Femme,Maitrise,Royaume-Unis,42,49,44,57,38,1.29221,0.40148,non,0,0,1
+1094,45,Femme,Quitte ecole a 16 ans,Royaume-Unis,31,44,37,50,43,0.19268,-0.52593,oui,1,1,1
+1095,18,Homme,Diplome universitaire,Australie,21,34,41,35,32,0.19268,0.7654,oui,1,0,0
+1096,25,Femme,Diplome universitaire,Australie,23,51,39,39,46,0.88113,0.40148,oui,1,0,1
+1097,35,Homme,Maitrise,Royaume-Unis,31,46,46,43,48,0.88113,-0.21575,non,0,0,0
+1098,25,Homme,Maitrise,Royaume-Unis,47,32,39,43,43,-0.21711999999999998,-2.07848,oui,1,0,0
+1099,18,Homme,Quitte ecole a 18 ans,Royaume-Unis,30,35,55,54,33,-0.21711999999999998,-0.52593,oui,1,1,0
+1100,25,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,27,40,50,44,37,0.88113,0.07987000000000001,oui,1,1,0
+1101,18,Femme,Quitte Lycee ou universite sans diplome,Etats-Unis,36,37,45,37,37,-1.37983,-0.21575,oui,1,1,1
+1102,18,Femme,Maitrise,Royaume-Unis,24,48,47,46,46,-0.21711999999999998,0.40148,oui,1,0,1
+1103,18,Homme,Quitte Lycee ou universite sans diplome,Autre,30,43,44,45,28,0.19268,0.7654,oui,1,1,0
+1104,18,Femme,Diplome universitaire,Etats-Unis,39,39,41,41,50,-0.71126,-0.52593,oui,1,0,1
+1105,18,Femme,Maitrise,Autre,28,39,44,40,39,-0.21711999999999998,1.2247,oui,1,0,1
+1106,18,Femme,Quitte ecole a 18 ans,Etats-Unis,26,42,56,37,28,0.19268,0.7654,oui,1,1,1
+1107,25,Homme,Quitte Lycee ou universite sans diplome,Autre,25,32,50,35,26,-1.37983,0.07987000000000001,oui,1,1,0
+1108,25,Femme,Doctorat,Royaume-Unis,34,38,42,56,52,-1.37983,0.07987000000000001,oui,1,0,1
+1109,25,Femme,Quitte Lycee ou universite sans diplome,Autre,54,38,48,35,34,0.19268,0.7654,oui,1,1,1
+1110,18,Homme,Diplome universitaire,Royaume-Unis,47,47,52,42,38,1.8620299999999999,1.92173,oui,1,0,0
+1111,18,Homme,Quitte Lycee ou universite sans diplome,Royaume-Unis,27,51,54,51,40,0.19268,0.40148,oui,1,1,0
+1112,45,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,57,29,32,44,29,0.88113,-0.52593,non,0,1,0
+1113,18,Femme,Quitte Lycee ou universite sans diplome,Etats-Unis,38,39,43,56,51,-1.37983,-1.18084,oui,1,1,1
+1114,45,Homme,Doctorat,Etats-Unis,40,37,49,45,32,1.29221,0.07987000000000001,oui,1,0,0
+1115,18,Homme,Quitte ecole a 18 ans,Etats-Unis,27,31,40,36,46,-0.71126,-0.52593,oui,1,1,0
+1116,18,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,12,43,45,51,54,-0.21711999999999998,0.7654,oui,1,1,0
+1117,45,Homme,Quitte ecole a 16 ans,Royaume-Unis,41,36,48,26,40,0.88113,-0.21575,oui,1,1,0
+1118,18,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,45,40,53,42,31,1.29221,0.40148,oui,1,1,0
+1119,18,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,51,31,44,37,37,-0.71126,-0.21575,oui,1,1,0
+1120,25,Femme,Diplome universitaire,Etats-Unis,21,55,59,50,40,0.52975,1.92173,oui,1,0,1
+1121,18,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,46,37,45,31,34,0.88113,0.7654,oui,1,1,0
+1122,25,Homme,Diplome universitaire,Royaume-Unis,26,48,48,46,47,0.19268,-0.21575,oui,1,0,0
+1123,25,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,32,21,36,38,40,0.19268,0.7654,oui,1,1,0
+1124,18,Homme,Quitte ecole a 16 ans,Canada,35,26,55,43,39,-0.71126,-0.52593,oui,1,1,0
+1125,25,Homme,Diplome professionnel,Royaume-Unis,43,33,37,43,32,0.52975,-0.52593,oui,1,0,0
+1126,25,Homme,Quitte ecole a 18 ans,Royaume-Unis,26,40,28,46,42,1.29221,0.07987000000000001,oui,1,1,0
+1127,25,Homme,Diplome professionnel,Etats-Unis,49,30,42,42,24,-0.21711999999999998,-0.21575,oui,1,0,0
+1128,55,Homme,Quitte ecole a 17 ans,Etats-Unis,41,37,41,32,46,-0.21711999999999998,0.07987000000000001,oui,1,1,0
+1129,18,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,49,33,50,45,36,0.52975,1.2247,oui,1,1,0
+1130,18,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,46,25,40,50,32,0.88113,0.40148,oui,1,1,0
+1131,18,Homme,Quitte Lycee ou universite sans diplome,Autre,22,31,51,53,28,-0.21711999999999998,0.40148,oui,1,1,0
+1132,18,Homme,Quitte Lycee ou universite sans diplome,Autre,40,41,44,43,27,1.29221,0.7654,oui,1,1,0
+1133,25,Femme,Diplome professionnel,Etats-Unis,56,45,50,29,28,1.8620299999999999,1.92173,oui,1,0,1
+1134,25,Homme,Maitrise,Nouvelle-Zelande,42,35,46,35,40,-0.21711999999999998,-0.21575,oui,1,0,0
+1135,35,Homme,Diplome professionnel,Australie,24,41,55,50,44,1.29221,0.7654,oui,1,0,0
+1136,18,Homme,Maitrise,Etats-Unis,40,48,37,37,38,1.8620299999999999,0.40148,oui,1,0,0
+1137,18,Homme,Quitte ecole a 18 ans,Etats-Unis,49,44,43,34,29,1.29221,1.2247,oui,1,1,0
+1138,25,Femme,Doctorat,Royaume-Unis,35,42,39,43,45,-1.37983,-0.8463700000000001,non,0,0,1
+1139,25,Femme,Diplome universitaire,Autre,39,26,45,47,32,-0.21711999999999998,-0.8463700000000001,non,0,0,1
+1140,25,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,41,31,48,21,38,1.8620299999999999,1.2247,oui,1,1,0
+1141,18,Femme,Quitte Lycee ou universite sans diplome,Etats-Unis,27,43,46,52,40,-0.21711999999999998,1.2247,oui,1,1,1
+1142,25,Femme,Diplome universitaire,Australie,51,28,50,36,30,0.52975,1.2247,oui,1,0,1
+1143,35,Homme,Diplome professionnel,Etats-Unis,40,31,46,42,46,0.52975,0.07987000000000001,oui,1,0,0
+1144,18,Femme,Quitte Lycee ou universite sans diplome,Etats-Unis,54,26,53,52,33,-0.21711999999999998,1.2247,oui,1,1,1
+1145,45,Homme,Diplome universitaire,Royaume-Unis,38,32,40,41,37,0.19268,-0.8463700000000001,non,0,0,0
+1146,18,Homme,Quitte Lycee ou universite sans diplome,Irelande,51,34,40,35,25,-0.21711999999999998,0.07987000000000001,oui,1,1,0
+1147,25,Homme,Maitrise,Etats-Unis,38,35,47,43,34,-0.71126,-1.18084,oui,1,0,0
+1148,25,Homme,Diplome universitaire,Etats-Unis,14,37,37,33,48,-0.21711999999999998,0.07987000000000001,oui,1,0,0
+1149,35,Homme,Diplome professionnel,Etats-Unis,53,33,46,33,32,0.88113,-0.52593,oui,1,0,0
+1150,18,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,37,41,46,39,37,0.52975,1.92173,oui,1,1,0
+1151,45,Femme,Quitte ecole a 18 ans,Australie,30,44,43,46,48,-0.71126,-0.52593,oui,1,1,1
+1152,25,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,48,37,49,50,45,0.19268,0.40148,oui,1,1,0
+1153,35,Femme,Diplome universitaire,Etats-Unis,52,27,41,41,32,0.88113,-0.8463700000000001,oui,1,0,1
+1154,55,Femme,Maitrise,Etats-Unis,39,35,40,35,40,0.52975,1.92173,non,0,0,1
+1155,18,Homme,Quitte ecole a 18 ans,Autre,41,34,44,42,27,0.52975,1.2247,oui,1,1,0
+1156,18,Femme,Maitrise,Royaume-Unis,40,41,47,48,38,0.19268,0.7654,oui,1,0,1
+1157,18,Homme,Doctorat,Royaume-Unis,27,51,55,53,38,-0.21711999999999998,1.2247,oui,1,0,0
+1158,18,Femme,Quitte Lycee ou universite sans diplome,Royaume-Unis,38,39,43,39,45,-0.21711999999999998,-0.52593,oui,1,1,1
+1159,18,Homme,Quitte Lycee ou universite sans diplome,Royaume-Unis,42,52,56,46,39,1.29221,0.7654,oui,1,1,0
+1160,45,Homme,Diplome professionnel,Irelande,31,40,43,35,48,-0.71126,0.40148,oui,1,0,0
+1161,25,Femme,Diplome universitaire,Canada,42,39,46,43,33,0.19268,1.2247,oui,1,0,1
+1162,18,Homme,Quitte ecole a 17 ans,Etats-Unis,44,32,35,37,43,0.52975,0.7654,oui,1,1,0
+1163,18,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,36,39,55,44,44,0.52975,1.92173,oui,1,1,0
+1164,25,Femme,Doctorat,Royaume-Unis,34,33,47,49,54,-0.71126,-0.52593,non,0,0,1
+1165,25,Homme,Quitte ecole a 17 ans,Australie,32,42,45,44,45,0.19268,0.07987000000000001,oui,1,1,0
+1166,25,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,44,32,48,39,49,0.88113,-0.21575,oui,1,1,0
+1167,35,Homme,Diplome universitaire,Etats-Unis,32,36,51,48,28,1.8620299999999999,1.92173,oui,1,0,0
+1168,25,Homme,Diplome universitaire,Etats-Unis,41,33,52,41,46,-0.21711999999999998,0.07987000000000001,oui,1,0,0
+1169,18,Homme,Quitte ecole a 18 ans,Etats-Unis,44,38,54,38,34,0.88113,0.7654,oui,1,1,0
+1170,45,Homme,Diplome professionnel,Etats-Unis,40,39,44,30,34,0.52975,0.40148,oui,1,0,0
+1171,35,Femme,Diplome universitaire,Etats-Unis,25,48,54,51,44,-0.71126,-0.21575,oui,1,0,1
+1172,35,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,37,36,45,38,43,-0.71126,0.40148,oui,1,1,0
+1173,18,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,33,41,38,47,48,0.88113,0.40148,oui,1,1,0
+1174,18,Femme,Quitte Lycee ou universite sans diplome,Etats-Unis,40,41,54,47,46,-1.37983,0.07987000000000001,oui,1,1,1
+1175,18,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,36,34,51,41,49,-0.21711999999999998,0.7654,oui,1,1,0
+1176,25,Homme,Maitrise,Etats-Unis,39,34,45,37,49,1.8620299999999999,1.92173,oui,1,0,0
+1177,18,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,23,40,39,48,40,-0.21711999999999998,0.7654,oui,1,1,0
+1178,18,Homme,Quitte Lycee ou universite sans diplome,Autre,44,39,45,34,35,-1.37983,0.07987000000000001,oui,1,1,0
+1179,25,Femme,Quitte Lycee ou universite sans diplome,Etats-Unis,31,42,46,53,43,1.29221,0.40148,oui,1,1,1
+1180,25,Femme,Maitrise,Etats-Unis,55,43,56,24,32,1.8620299999999999,1.92173,oui,1,0,1
+1181,18,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,28,38,41,48,40,-0.21711999999999998,-1.18084,oui,1,1,0
+1182,18,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,34,28,47,39,40,-0.71126,0.40148,oui,1,1,0
+1183,25,Homme,Quitte Lycee ou universite sans diplome,Autre,52,37,41,40,34,0.19268,0.40148,oui,1,1,0
+1184,25,Femme,Diplome professionnel,Australie,40,37,41,56,36,0.52975,0.07987000000000001,oui,1,0,1
+1185,18,Homme,Diplome universitaire,Etats-Unis,31,47,51,41,53,-0.71126,-0.21575,oui,1,0,0
+1186,45,Homme,Quitte ecole a 16 ans,Etats-Unis,34,31,44,49,44,-0.21711999999999998,0.7654,oui,1,1,0
+1187,18,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,44,38,49,37,35,0.88113,0.7654,oui,1,1,0
+1188,18,Homme,Quitte Lycee ou universite sans diplome,Autre,26,44,47,47,36,1.8620299999999999,0.40148,oui,1,1,0
+1189,25,Femme,Diplome universitaire,Royaume-Unis,48,38,51,46,42,0.19268,0.07987000000000001,oui,1,0,1
+1190,55,Femme,Doctorat,Etats-Unis,32,43,48,40,42,-0.21711999999999998,0.07987000000000001,oui,1,0,1
+1191,18,Homme,Quitte Lycee ou universite sans diplome,Canada,25,49,48,39,42,1.29221,0.40148,oui,1,1,0
+1192,18,Homme,Maitrise,Etats-Unis,18,42,50,54,48,-0.71126,-0.52593,oui,1,0,0
+1193,18,Femme,Quitte Lycee ou universite sans diplome,Etats-Unis,42,44,48,44,22,1.8620299999999999,1.2247,non,0,1,1
+1194,18,Homme,Quitte ecole a 18 ans,Canada,51,29,48,46,33,1.8620299999999999,1.2247,oui,1,1,0
+1195,18,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,14,47,52,53,38,0.19268,0.40148,oui,1,1,0
+1196,35,Homme,Diplome universitaire,Etats-Unis,39,41,50,36,45,0.52975,1.2247,non,0,0,0
+1197,18,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,45,37,45,40,29,0.88113,0.40148,oui,1,1,0
+1198,18,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,41,38,41,38,38,-0.21711999999999998,0.7654,oui,1,1,0
+1199,25,Homme,Diplome universitaire,Canada,27,38,44,30,40,0.52975,-1.5485799999999998,non,0,0,0
+1200,25,Homme,Quitte ecole a 16 ans,Etats-Unis,32,21,40,43,44,-1.37983,-0.8463700000000001,oui,1,1,0
+1201,18,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,55,19,36,45,27,0.52975,1.2247,oui,1,1,0
+1202,25,Femme,Diplome universitaire,Autre,37,28,48,49,29,-0.21711999999999998,-0.8463700000000001,non,0,0,1
+1203,18,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,39,46,56,38,37,1.29221,1.92173,oui,1,1,0
+1204,18,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,29,45,47,36,36,-0.21711999999999998,0.7654,oui,1,1,0
+1205,18,Homme,Quitte ecole a 18 ans,Etats-Unis,40,43,43,34,40,0.52975,1.2247,oui,1,1,0
+1206,25,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,44,30,48,36,33,0.19268,0.7654,oui,1,1,0
+1207,18,Femme,Quitte ecole a 18 ans,Royaume-Unis,26,36,45,29,31,1.29221,0.40148,oui,1,1,1
+1208,45,Homme,Diplome universitaire,Royaume-Unis,31,50,54,52,50,-0.21711999999999998,-0.21575,non,0,0,0
+1209,18,Homme,Diplome professionnel,Etats-Unis,37,40,50,28,51,0.88113,1.92173,oui,1,0,0
+1210,18,Homme,Quitte Lycee ou universite sans diplome,Canada,22,33,49,36,39,0.52975,0.40148,oui,1,1,0
+1211,45,Homme,Diplome universitaire,Australie,26,44,42,36,47,0.88113,0.7654,oui,1,0,0
+1212,18,Homme,Quitte Lycee ou universite sans diplome,Canada,23,47,49,39,36,0.88113,0.40148,oui,1,1,0
+1213,18,Homme,Quitte Lycee ou universite sans diplome,Autre,33,32,47,40,34,-1.37983,0.7654,oui,1,1,0
+1214,18,Femme,Quitte Lycee ou universite sans diplome,Canada,45,41,49,42,26,-1.37983,0.40148,oui,1,1,1
+1215,18,Homme,Quitte Lycee ou universite sans diplome,Australie,33,41,49,40,42,0.19268,0.7654,oui,1,1,0
+1216,35,Femme,Diplome professionnel,Royaume-Unis,43,43,35,37,43,1.29221,0.7654,non,0,0,1
+1217,25,Homme,Diplome professionnel,Etats-Unis,48,36,51,43,35,0.88113,0.7654,oui,1,0,0
+1218,18,Homme,Diplome professionnel,Canada,34,49,54,44,31,0.52975,0.7654,oui,1,0,0
+1219,18,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,40,44,43,37,42,0.19268,0.7654,oui,1,1,0
+1220,25,Femme,Maitrise,Etats-Unis,39,48,44,38,34,0.19268,-0.52593,oui,1,0,1
+1221,18,Femme,Quitte Lycee ou universite sans diplome,Autre,24,41,50,35,30,-0.71126,0.7654,oui,1,1,1
+1222,18,Femme,Diplome professionnel,Etats-Unis,46,46,47,32,35,0.88113,0.40148,oui,1,0,1
+1223,18,Femme,Quitte ecole a 18 ans,Etats-Unis,46,38,46,33,37,0.88113,1.2247,oui,1,1,1
+1224,18,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,33,44,47,40,42,1.29221,1.2247,oui,1,1,0
+1225,25,Homme,Doctorat,Etats-Unis,31,22,29,42,41,-0.21711999999999998,-1.18084,non,0,0,0
+1226,18,Femme,Quitte Lycee ou universite sans diplome,Etats-Unis,45,38,45,43,39,-0.21711999999999998,-0.21575,oui,1,1,1
+1227,18,Homme,Diplome universitaire,Etats-Unis,42,49,49,44,48,0.19268,1.92173,oui,1,0,0
+1228,25,Femme,Diplome universitaire,Etats-Unis,41,44,53,42,31,0.52975,-0.21575,oui,1,0,1
+1229,35,Homme,Quitte ecole a 16 ans,Etats-Unis,47,36,46,47,30,-1.37983,-0.21575,oui,1,1,0
+1230,18,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,26,52,53,44,46,0.52975,0.40148,oui,1,1,0
+1231,18,Femme,Quitte ecole a 18 ans,Etats-Unis,37,41,52,40,41,0.19268,0.07987000000000001,oui,1,1,1
+1232,18,Femme,Diplome universitaire,Autre,46,31,52,29,38,1.29221,1.2247,oui,1,0,1
+1233,18,Femme,Quitte Lycee ou universite sans diplome,Autre,51,37,48,47,45,0.19268,0.07987000000000001,non,0,1,1
+1234,18,Homme,Diplome universitaire,Royaume-Unis,43,37,49,47,41,0.19268,0.40148,oui,1,0,0
+1235,18,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,36,32,45,45,46,-1.37983,-1.5485799999999998,oui,1,1,0
+1236,55,Homme,Maitrise,Etats-Unis,37,44,49,41,46,-0.21711999999999998,-0.8463700000000001,non,0,0,0
+1237,45,Femme,Maitrise,Royaume-Unis,21,45,53,47,42,-0.21711999999999998,-1.5485799999999998,non,0,0,1
+1238,18,Homme,Diplome universitaire,Etats-Unis,36,45,51,40,50,0.19268,-0.52593,oui,1,0,0
+1239,25,Homme,Quitte ecole a 18 ans,Etats-Unis,39,42,51,50,36,0.52975,0.07987000000000001,oui,1,1,0
+1240,18,Femme,Diplome universitaire,Royaume-Unis,35,41,48,34,45,0.52975,0.7654,non,0,0,1
+1241,45,Femme,Quitte Lycee ou universite sans diplome,Royaume-Unis,40,40,47,47,42,0.52975,-0.52593,non,0,1,1
+1242,35,Femme,Diplome universitaire,Royaume-Unis,46,30,42,42,35,-0.21711999999999998,-0.52593,non,0,0,1
+1243,25,Femme,Diplome universitaire,Royaume-Unis,24,45,36,36,41,-0.21711999999999998,0.40148,non,0,0,1
+1244,45,Femme,Diplome universitaire,Royaume-Unis,27,26,35,52,48,-1.37983,-0.52593,non,0,0,1
+1245,25,Femme,Diplome universitaire,Royaume-Unis,41,40,38,44,31,-0.71126,-0.52593,oui,1,0,1
+1246,45,Femme,Diplome universitaire,Royaume-Unis,24,51,45,44,54,-1.37983,-0.8463700000000001,non,0,0,1
+1247,45,Femme,Diplome professionnel,Royaume-Unis,24,38,29,53,32,-1.37983,-1.5485799999999998,non,0,0,1
+1248,55,Homme,Diplome universitaire,Royaume-Unis,37,36,39,40,32,0.52975,0.07987000000000001,non,0,0,0
+1249,45,Femme,Diplome professionnel,Royaume-Unis,30,38,43,51,46,-1.37983,-0.21575,non,0,0,1
+1250,45,Femme,Maitrise,Royaume-Unis,31,39,54,43,48,1.8620299999999999,0.7654,non,0,0,1
+1251,35,Femme,Maitrise,Royaume-Unis,27,39,48,40,49,-0.71126,-0.52593,non,0,0,1
+1252,45,Femme,Doctorat,Royaume-Unis,43,39,53,40,47,0.52975,0.7654,oui,1,0,1
+1253,35,Femme,Quitte ecole a 17 ans,Royaume-Unis,39,28,31,36,31,-1.37983,-2.07848,non,0,1,1
+1254,35,Femme,Diplome universitaire,Royaume-Unis,32,31,31,45,40,-1.37983,-1.18084,non,0,0,1
+1255,25,Femme,Diplome universitaire,Royaume-Unis,36,34,43,40,37,-0.21711999999999998,-0.21575,non,0,0,1
+1256,45,Femme,Diplome universitaire,Royaume-Unis,49,35,47,52,43,-1.37983,-0.52593,non,0,0,1
+1257,35,Femme,Diplome universitaire,Royaume-Unis,26,36,45,34,46,0.88113,0.40148,non,0,0,1
+1258,25,Femme,Maitrise,Royaume-Unis,50,31,40,37,42,-0.71126,-0.52593,non,0,0,1
+1259,25,Femme,Doctorat,Royaume-Unis,27,45,41,39,42,-1.37983,-0.8463700000000001,non,0,0,1
+1260,45,Femme,Maitrise,Royaume-Unis,32,34,42,35,41,1.8620299999999999,0.40148,non,0,0,1
+1261,45,Femme,Diplome universitaire,Royaume-Unis,29,42,43,45,36,0.19268,0.40148,oui,1,0,1
+1262,25,Femme,Quitte Lycee ou universite sans diplome,Royaume-Unis,50,36,52,50,36,1.8620299999999999,0.07987000000000001,non,0,1,1
+1263,25,Femme,Diplome professionnel,Royaume-Unis,39,46,38,44,46,0.52975,0.7654,oui,1,0,1
+1264,45,Femme,Diplome universitaire,Royaume-Unis,36,39,40,45,46,-0.71126,-0.21575,non,0,0,1
+1265,25,Femme,Diplome professionnel,Royaume-Unis,32,34,37,47,42,0.52975,0.40148,non,0,0,1
+1266,35,Femme,Quitte ecole a 16 ans,Royaume-Unis,28,40,37,41,44,0.19268,-0.21575,non,0,1,1
+1267,25,Femme,Maitrise,Royaume-Unis,53,33,43,31,26,1.29221,1.92173,oui,1,0,1
+1268,35,Femme,Diplome professionnel,Royaume-Unis,37,32,42,47,44,-1.37983,-2.07848,non,0,0,1
+1269,35,Femme,Diplome universitaire,Royaume-Unis,40,40,37,32,42,0.19268,0.40148,non,0,0,1
+1270,25,Femme,Maitrise,Royaume-Unis,35,37,42,54,44,-1.37983,-0.52593,non,0,0,1
+1271,25,Femme,Diplome professionnel,Royaume-Unis,24,39,37,49,43,-0.71126,-0.52593,oui,1,0,1
+1272,55,Femme,Diplome universitaire,Royaume-Unis,34,39,46,48,38,0.88113,-1.18084,non,0,0,1
+1273,35,Femme,Quitte Lycee ou universite sans diplome,Autre,52,33,32,48,34,0.19268,-2.07848,non,0,1,1
+1274,35,Homme,Doctorat,Autre,52,39,51,36,39,-0.21711999999999998,-0.21575,non,0,0,0
+1275,35,Femme,Maitrise,Royaume-Unis,26,41,48,41,46,-0.21711999999999998,-0.21575,oui,1,0,1
+1276,45,Femme,Diplome professionnel,Royaume-Unis,21,35,33,44,53,-0.71126,0.07987000000000001,oui,1,0,1
+1277,18,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,31,47,49,39,33,0.52975,1.2247,oui,1,1,0
+1278,25,Femme,Quitte Lycee ou universite sans diplome,Etats-Unis,35,49,57,37,38,1.29221,1.2247,oui,1,1,1
+1279,35,Femme,Diplome professionnel,Etats-Unis,25,38,50,49,49,-1.37983,0.07987000000000001,oui,1,0,1
+1280,18,Femme,Diplome universitaire,Royaume-Unis,42,41,37,45,38,0.52975,-0.52593,non,0,0,1
+1281,18,Homme,Diplome universitaire,Royaume-Unis,44,44,39,28,48,1.8620299999999999,1.92173,non,0,0,0
+1282,18,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,24,51,47,50,45,-0.21711999999999998,-0.21575,oui,1,1,0
+1283,18,Femme,Quitte Lycee ou universite sans diplome,Royaume-Unis,23,40,46,44,40,-0.71126,0.07987000000000001,oui,1,1,1
+1284,18,Femme,Quitte Lycee ou universite sans diplome,Etats-Unis,44,25,48,35,27,1.8620299999999999,1.2247,oui,1,1,1
+1285,18,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,54,33,45,35,32,-0.71126,-1.18084,oui,1,1,0
+1286,18,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,20,52,59,48,44,1.29221,1.2247,oui,1,1,0
+1287,18,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,43,43,40,33,38,1.8620299999999999,0.7654,oui,1,1,0
+1288,35,Femme,Diplome universitaire,Etats-Unis,30,43,57,40,41,0.88113,1.2247,oui,1,0,1
+1289,18,Femme,Quitte Lycee ou universite sans diplome,Etats-Unis,35,46,45,36,39,-0.21711999999999998,0.40148,oui,1,1,1
+1290,18,Homme,Maitrise,Royaume-Unis,31,42,51,42,47,-0.21711999999999998,0.07987000000000001,oui,1,0,0
+1291,18,Homme,Quitte Lycee ou universite sans diplome,Autre,47,28,45,36,34,0.19268,0.7654,oui,1,1,0
+1292,25,Homme,Diplome professionnel,Royaume-Unis,33,45,47,41,43,1.8620299999999999,1.2247,oui,1,0,0
+1293,25,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,53,32,48,32,32,1.29221,1.2247,oui,1,1,0
+1294,25,Femme,Maitrise,Etats-Unis,43,53,53,38,51,0.88113,1.92173,oui,1,0,1
+1295,18,Femme,Quitte Lycee ou universite sans diplome,Etats-Unis,53,23,50,38,34,-0.21711999999999998,-0.52593,oui,1,1,1
+1296,18,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,36,36,53,48,33,-0.71126,0.7654,oui,1,1,0
+1297,18,Femme,Quitte Lycee ou universite sans diplome,Etats-Unis,32,43,44,37,50,-0.21711999999999998,0.07987000000000001,oui,1,1,1
+1298,18,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,32,40,49,42,38,0.19268,1.2247,oui,1,1,0
+1299,35,Femme,Diplome universitaire,Etats-Unis,19,43,49,34,38,0.52975,0.07987000000000001,oui,1,0,1
+1300,25,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,45,39,55,44,44,0.52975,1.2247,oui,1,1,0
+1301,35,Femme,Quitte Lycee ou universite sans diplome,Etats-Unis,30,33,54,45,37,-0.21711999999999998,0.07987000000000001,oui,1,1,1
+1302,18,Femme,Quitte Lycee ou universite sans diplome,Etats-Unis,38,48,46,49,49,0.19268,-0.8463700000000001,oui,1,1,1
+1303,18,Homme,Diplome universitaire,Etats-Unis,29,49,54,52,49,-1.37983,0.07987000000000001,oui,1,0,0
+1304,35,Homme,Diplome universitaire,Australie,35,36,38,39,45,-1.37983,-2.07848,oui,1,0,0
+1305,18,Femme,Quitte Lycee ou universite sans diplome,Etats-Unis,31,45,55,49,31,1.29221,0.40148,oui,1,1,1
+1306,18,Homme,Quitte Lycee ou universite sans diplome,Australie,58,22,52,43,23,0.19268,-0.8463700000000001,oui,1,1,0
+1307,25,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,32,44,56,39,44,0.19268,0.7654,oui,1,1,0
+1308,25,Homme,Maitrise,Royaume-Unis,27,31,44,38,43,-0.21711999999999998,-0.21575,oui,1,0,0
+1309,25,Femme,Diplome universitaire,Autre,32,43,46,46,42,0.52975,0.40148,oui,1,0,1
+1310,25,Femme,Maitrise,Irelande,23,56,50,56,44,0.52975,1.92173,oui,1,0,1
+1311,18,Homme,Quitte ecole a 16 ans,Autre,41,34,38,38,40,0.52975,0.40148,oui,1,1,0
+1312,18,Femme,Quitte Lycee ou universite sans diplome,Royaume-Unis,33,42,47,46,47,-0.21711999999999998,0.07987000000000001,oui,1,1,1
+1313,35,Femme,Maitrise,Etats-Unis,26,52,51,40,53,-0.71126,0.07987000000000001,oui,1,0,1
+1314,18,Femme,Quitte Lycee ou universite sans diplome,Etats-Unis,24,54,28,33,31,1.8620299999999999,1.2247,oui,1,1,1
+1315,35,Homme,Diplome universitaire,Etats-Unis,27,46,49,49,49,0.52975,1.2247,oui,1,0,0
+1316,18,Homme,Diplome universitaire,Autre,20,47,50,41,50,-0.21711999999999998,0.40148,oui,1,0,0
+1317,25,Homme,Diplome professionnel,Etats-Unis,27,39,50,31,39,-0.21711999999999998,-0.21575,oui,1,0,0
+1318,25,Femme,Diplome universitaire,Royaume-Unis,36,45,33,34,46,-0.71126,-0.52593,oui,1,0,1
+1319,18,Femme,Quitte Lycee ou universite sans diplome,Etats-Unis,40,31,42,49,41,0.88113,1.2247,oui,1,1,1
+1320,35,Homme,Diplome universitaire,Etats-Unis,29,38,43,42,50,-0.21711999999999998,0.07987000000000001,oui,1,0,0
+1321,18,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,44,46,44,41,40,1.29221,0.7654,oui,1,1,0
+1322,18,Femme,Quitte Lycee ou universite sans diplome,Etats-Unis,31,45,57,48,40,-1.37983,-0.8463700000000001,oui,1,1,1
+1323,18,Femme,Diplome universitaire,Autre,38,42,58,46,29,0.19268,-0.21575,oui,1,0,1
+1324,35,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,46,30,44,45,51,-0.71126,-0.8463700000000001,non,0,1,0
+1325,18,Femme,Quitte Lycee ou universite sans diplome,Etats-Unis,40,36,52,46,34,0.19268,-0.52593,oui,1,1,1
+1326,18,Homme,Diplome professionnel,Australie,42,26,47,44,38,-0.71126,1.2247,oui,1,0,0
+1327,18,Homme,Diplome professionnel,Canada,27,42,54,41,39,1.29221,1.92173,oui,1,0,0
+1328,18,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,24,38,46,51,49,0.19268,-0.21575,oui,1,1,0
+1329,18,Femme,Diplome universitaire,Etats-Unis,29,45,52,54,44,-0.21711999999999998,-0.21575,oui,1,0,1
+1330,25,Femme,Diplome universitaire,Royaume-Unis,53,34,53,32,33,0.88113,0.40148,oui,1,0,1
+1331,18,Homme,Diplome universitaire,Etats-Unis,50,39,45,54,33,0.52975,0.40148,oui,1,0,0
+1332,35,Homme,Diplome universitaire,Etats-Unis,48,32,51,44,37,-0.71126,0.40148,oui,1,0,0
+1333,18,Femme,Diplome professionnel,Canada,53,30,32,37,55,-1.37983,-1.18084,oui,1,0,1
+1334,18,Homme,Diplome universitaire,Etats-Unis,40,38,48,37,44,0.52975,0.40148,oui,1,0,0
+1335,25,Homme,Quitte Lycee ou universite sans diplome,Autre,15,42,50,57,42,1.29221,0.7654,oui,1,1,0
+1336,45,Homme,Diplome universitaire,Etats-Unis,48,31,48,37,42,-0.71126,0.07987000000000001,oui,1,0,0
+1337,18,Femme,Diplome universitaire,Royaume-Unis,36,50,40,48,50,0.19268,-0.52593,oui,1,0,1
+1338,18,Femme,Diplome universitaire,Royaume-Unis,37,40,42,38,47,0.19268,-0.21575,non,0,0,1
+1339,35,Homme,Diplome professionnel,Canada,37,43,47,39,47,0.52975,0.40148,oui,1,0,0
+1340,18,Homme,Diplome professionnel,Etats-Unis,52,26,43,40,21,1.29221,1.2247,oui,1,0,0
+1341,18,Homme,Quitte ecole a 18 ans,Etats-Unis,30,58,57,39,48,1.8620299999999999,1.2247,oui,1,1,0
+1342,35,Homme,Quitte ecole a 18 ans,Etats-Unis,43,30,38,41,38,-0.71126,0.40148,oui,1,1,0
+1343,35,Femme,Doctorat,Autre,32,37,53,44,30,0.52975,0.40148,oui,1,0,1
+1344,18,Homme,Diplome professionnel,Royaume-Unis,38,44,32,36,35,0.88113,0.40148,oui,1,0,0
+1345,18,Homme,Quitte ecole a 18 ans,Canada,49,31,37,26,48,-1.37983,-0.21575,oui,1,1,0
+1346,18,Homme,Quitte ecole a 18 ans,Autre,44,47,55,51,44,0.88113,1.2247,oui,1,1,0
+1347,45,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,44,39,48,42,43,0.19268,-0.21575,oui,1,1,0
+1348,18,Homme,Diplome universitaire,Etats-Unis,43,27,51,40,26,-0.21711999999999998,0.40148,oui,1,0,0
+1349,18,Femme,Quitte ecole a 18 ans,Etats-Unis,47,33,43,45,39,-0.21711999999999998,-0.52593,oui,1,1,1
+1350,18,Femme,Quitte Lycee ou universite sans diplome,Royaume-Unis,26,55,47,35,32,1.8620299999999999,0.7654,oui,1,1,1
+1351,18,Femme,Quitte Lycee ou universite sans diplome,Etats-Unis,19,33,46,43,37,0.19268,0.40148,oui,1,1,1
+1352,18,Femme,Diplome universitaire,Royaume-Unis,40,36,38,42,51,-1.37983,-2.07848,non,0,0,1
+1353,55,Homme,Diplome universitaire,Etats-Unis,52,24,37,35,40,0.88113,-0.8463700000000001,oui,1,0,0
+1354,18,Femme,Quitte ecole a 18 ans,Etats-Unis,30,44,53,48,43,0.19268,0.07987000000000001,oui,1,1,1
+1355,18,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,46,33,54,42,32,0.88113,0.40148,oui,1,1,0
+1356,18,Homme,Diplome universitaire,Etats-Unis,34,42,49,49,42,1.29221,0.7654,oui,1,0,0
+1357,25,Homme,Quitte Lycee ou universite sans diplome,Autre,21,44,49,43,46,0.88113,0.40148,oui,1,1,0
+1358,18,Homme,Diplome professionnel,Canada,40,41,43,37,45,0.88113,0.40148,oui,1,0,0
+1359,18,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,23,37,51,40,31,0.88113,0.40148,oui,1,1,0
+1360,18,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,31,28,48,36,43,-0.21711999999999998,-0.21575,oui,1,1,0
+1361,18,Femme,Quitte Lycee ou universite sans diplome,Australie,41,46,55,43,50,0.52975,0.07987000000000001,oui,1,1,1
+1362,18,Femme,Quitte Lycee ou universite sans diplome,Autre,26,45,55,35,24,-0.21711999999999998,0.7654,oui,1,1,1
+1363,18,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,44,32,49,48,33,0.88113,-0.52593,oui,1,1,0
+1364,25,Femme,Maitrise,Royaume-Unis,39,36,46,47,54,-0.21711999999999998,0.07987000000000001,non,0,0,1
+1365,18,Homme,Quitte Lycee ou universite sans diplome,Royaume-Unis,44,44,39,36,31,1.29221,0.7654,oui,1,1,0
+1366,35,Femme,Diplome universitaire,Etats-Unis,35,33,47,50,35,0.88113,-0.21575,oui,1,0,1
+1367,18,Femme,Quitte ecole a 16 ans,Canada,37,38,45,31,25,1.29221,0.40148,oui,1,1,1
+1368,18,Homme,Quitte ecole a 18 ans,Etats-Unis,38,27,48,46,31,-1.37983,-0.8463700000000001,oui,1,1,0
+1369,18,Femme,Quitte Lycee ou universite sans diplome,Etats-Unis,50,44,52,33,33,0.88113,0.7654,oui,1,1,1
+1370,18,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,40,50,52,46,40,0.52975,1.2247,oui,1,1,0
+1371,25,Femme,Diplome professionnel,Etats-Unis,57,41,46,35,30,1.8620299999999999,1.92173,oui,1,0,1
+1372,25,Femme,Maitrise,Royaume-Unis,30,37,34,48,38,-1.37983,-2.07848,oui,1,0,1
+1373,18,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,48,41,49,41,32,-1.37983,-0.21575,oui,1,1,0
+1374,25,Homme,Diplome universitaire,Canada,47,41,43,46,36,0.52975,0.7654,oui,1,0,0
+1375,45,Homme,Diplome universitaire,Royaume-Unis,30,36,45,42,41,-1.37983,-1.18084,non,0,0,0
+1376,18,Homme,Quitte ecole a 18 ans,Royaume-Unis,26,51,47,48,34,0.19268,1.2247,oui,1,1,0
+1377,35,Homme,Diplome universitaire,Autre,50,36,51,32,39,-0.21711999999999998,0.7654,oui,1,0,0
+1378,25,Femme,Maitrise,Royaume-Unis,42,42,42,52,48,-1.37983,-0.52593,non,0,0,1
+1379,25,Femme,Maitrise,Canada,50,33,50,43,54,-0.21711999999999998,-1.18084,oui,1,0,1
+1380,18,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,30,43,55,42,44,0.88113,1.2247,oui,1,1,0
+1381,25,Femme,Diplome universitaire,Royaume-Unis,25,45,38,40,46,-0.71126,-1.18084,non,0,0,1
+1382,18,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,26,43,52,54,50,-0.21711999999999998,1.2247,oui,1,1,0
+1383,18,Homme,Quitte Lycee ou universite sans diplome,Autre,24,38,51,50,34,-0.71126,-0.21575,oui,1,1,0
+1384,18,Femme,Diplome universitaire,Etats-Unis,29,42,48,48,43,1.29221,1.92173,oui,1,0,1
+1385,18,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,22,48,54,39,51,-0.21711999999999998,1.2247,oui,1,1,0
+1386,18,Femme,Quitte Lycee ou universite sans diplome,Royaume-Unis,33,37,43,43,46,-1.37983,-1.18084,oui,1,1,1
+1387,45,Femme,Quitte Lycee ou universite sans diplome,Royaume-Unis,35,33,52,39,40,0.19268,0.07987000000000001,non,0,1,1
+1388,25,Femme,Doctorat,Etats-Unis,41,42,55,39,37,-0.21711999999999998,-0.52593,non,0,0,1
+1389,35,Femme,Diplome professionnel,Royaume-Unis,42,43,48,39,35,1.29221,0.40148,oui,1,0,1
+1390,18,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,34,43,51,38,44,-0.71126,-0.21575,oui,1,1,0
+1391,18,Homme,Diplome universitaire,Etats-Unis,44,42,41,43,41,1.29221,0.40148,oui,1,0,0
+1392,18,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,31,53,56,39,32,1.8620299999999999,1.92173,oui,1,1,0
+1393,45,Homme,Diplome professionnel,Royaume-Unis,32,41,40,40,43,-1.37983,-1.5485799999999998,non,0,0,0
+1394,25,Femme,Maitrise,Royaume-Unis,49,42,44,43,45,-0.71126,-0.8463700000000001,oui,1,0,1
+1395,25,Femme,Maitrise,Royaume-Unis,43,40,46,48,51,-1.37983,-0.52593,non,0,0,1
+1396,25,Femme,Diplome universitaire,Royaume-Unis,40,39,45,48,46,-0.21711999999999998,-0.52593,oui,1,0,1
+1397,25,Femme,Maitrise,Royaume-Unis,52,37,36,52,35,-1.37983,-1.5485799999999998,non,0,0,1
+1398,18,Femme,Diplome universitaire,Royaume-Unis,30,43,51,53,46,-0.21711999999999998,0.40148,oui,1,0,1
+1399,18,Homme,Quitte Lycee ou universite sans diplome,Royaume-Unis,28,47,45,51,54,0.88113,0.40148,oui,1,1,0
+1400,25,Femme,Diplome universitaire,Royaume-Unis,44,34,41,40,40,-0.71126,-0.52593,oui,1,0,1
+1401,25,Femme,Maitrise,Royaume-Unis,46,46,38,39,41,-1.37983,-1.18084,oui,1,0,1
+1402,25,Femme,Diplome universitaire,Royaume-Unis,42,41,46,51,45,-0.71126,-1.18084,non,0,0,1
+1403,25,Femme,Diplome universitaire,Royaume-Unis,45,40,51,49,38,-1.37983,0.07987000000000001,oui,1,0,1
+1404,25,Femme,Diplome universitaire,Royaume-Unis,40,40,37,44,46,-1.37983,-0.8463700000000001,non,0,0,1
+1405,18,Femme,Diplome universitaire,Royaume-Unis,16,41,32,58,35,-2.55524,-0.8463700000000001,non,0,0,1
+1406,25,Femme,Doctorat,Royaume-Unis,51,48,49,45,36,0.52975,-1.18084,oui,1,0,1
+1407,25,Femme,Diplome universitaire,Royaume-Unis,38,36,34,46,31,-1.37983,-0.8463700000000001,oui,1,0,1
+1408,25,Femme,Maitrise,Royaume-Unis,28,45,53,51,45,0.19268,1.2247,oui,1,0,1
+1409,25,Homme,Maitrise,Royaume-Unis,49,31,41,46,32,0.88113,0.7654,oui,1,0,0
+1410,25,Femme,Doctorat,Royaume-Unis,18,33,40,44,38,-0.71126,0.7654,oui,1,0,1
+1411,25,Femme,Diplome universitaire,Royaume-Unis,30,37,49,52,50,-0.71126,-1.18084,non,0,0,1
+1412,25,Femme,Diplome universitaire,Etats-Unis,40,38,54,41,51,-0.21711999999999998,0.40148,oui,1,0,1
+1413,25,Femme,Maitrise,Royaume-Unis,46,45,53,43,44,-1.37983,0.07987000000000001,oui,1,0,1
+1414,25,Femme,Diplome universitaire,Royaume-Unis,46,35,43,38,47,-0.71126,-0.8463700000000001,oui,1,0,1
+1415,25,Femme,Doctorat,Royaume-Unis,32,54,54,47,46,-0.21711999999999998,0.07987000000000001,oui,1,0,1
+1416,18,Homme,Quitte ecole a 16 ans,Royaume-Unis,53,30,44,31,29,0.88113,0.7654,oui,1,1,0
+1417,18,Homme,Quitte Lycee ou universite sans diplome,Australie,25,32,39,45,44,-1.37983,-0.52593,oui,1,1,0
+1418,18,Femme,Diplome universitaire,Royaume-Unis,45,35,40,45,42,-0.71126,-0.52593,non,0,0,1
+1419,25,Femme,Maitrise,Irelande,34,38,36,54,40,-1.37983,-1.18084,non,0,0,1
+1420,18,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,32,45,54,47,42,0.19268,1.2247,oui,1,1,0
+1421,25,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,44,37,49,38,38,0.88113,1.2247,oui,1,1,0
+1422,25,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,34,43,50,39,44,-0.21711999999999998,1.2247,oui,1,1,0
+1423,45,Homme,Quitte ecole avant 16 ans,Irelande,35,33,45,50,34,0.19268,1.2247,oui,1,1,0
+1424,18,Homme,Diplome universitaire,Etats-Unis,28,51,55,46,40,0.19268,0.40148,oui,1,0,0
+1425,25,Homme,Quitte Lycee ou universite sans diplome,Royaume-Unis,42,36,43,40,33,1.29221,0.7654,oui,1,1,0
+1426,25,Femme,Diplome universitaire,Etats-Unis,33,44,53,48,46,0.19268,1.2247,oui,1,0,1
+1427,35,Homme,Diplome professionnel,Royaume-Unis,39,42,44,42,42,1.29221,0.40148,oui,1,0,0
+1428,18,Femme,Diplome professionnel,Royaume-Unis,36,40,44,45,53,0.88113,0.40148,non,0,0,1
+1429,18,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,27,51,49,34,49,0.52975,1.2247,oui,1,1,0
+1430,18,Femme,Quitte Lycee ou universite sans diplome,Etats-Unis,43,38,40,46,35,-0.21711999999999998,-0.21575,oui,1,1,1
+1431,18,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,33,49,54,39,41,0.88113,1.2247,non,0,1,0
+1432,18,Femme,Quitte Lycee ou universite sans diplome,Etats-Unis,48,47,41,28,37,1.8620299999999999,0.40148,oui,1,1,1
+1433,45,Femme,Doctorat,Royaume-Unis,26,31,40,40,46,-0.71126,-1.5485799999999998,oui,1,0,1
+1434,25,Femme,Maitrise,Royaume-Unis,39,33,41,58,51,-1.37983,-1.18084,non,0,0,1
+1435,25,Femme,Maitrise,Royaume-Unis,40,30,37,47,44,-1.37983,-2.07848,non,0,0,1
+1436,55,Femme,Maitrise,Royaume-Unis,28,40,46,45,47,0.52975,-0.52593,non,0,0,1
+1437,55,Femme,Diplome professionnel,Royaume-Unis,28,36,47,45,33,1.8620299999999999,0.40148,oui,1,0,1
+1438,18,Homme,Quitte ecole a 16 ans,Etats-Unis,48,37,47,46,41,-0.71126,1.2247,oui,1,1,0
+1439,18,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,20,47,50,37,49,-0.71126,0.07987000000000001,oui,1,1,0
+1440,18,Homme,Quitte Lycee ou universite sans diplome,Autre,29,44,45,35,36,-0.21711999999999998,0.7654,oui,1,1,0
+1441,35,Femme,Maitrise,Royaume-Unis,34,40,39,48,45,-1.37983,-1.18084,non,0,0,1
+1442,45,Femme,Maitrise,Royaume-Unis,25,39,46,52,50,-0.71126,-1.18084,non,0,0,1
+1443,25,Femme,Maitrise,Royaume-Unis,46,33,40,51,48,-1.37983,-1.5485799999999998,non,0,0,1
+1444,35,Femme,Doctorat,Royaume-Unis,31,46,50,49,46,-0.71126,-1.18084,oui,1,0,1
+1445,35,Femme,Maitrise,Royaume-Unis,29,37,37,54,48,-0.71126,-0.8463700000000001,non,0,0,1
+1446,45,Femme,Maitrise,Royaume-Unis,23,41,47,49,49,-1.37983,-1.18084,non,0,0,1
+1447,25,Femme,Maitrise,Royaume-Unis,29,46,47,50,54,0.19268,-0.8463700000000001,non,0,0,1
+1448,25,Femme,Maitrise,Royaume-Unis,36,44,37,39,53,-0.21711999999999998,0.07987000000000001,non,0,0,1
+1449,25,Femme,Diplome universitaire,Etats-Unis,25,49,49,51,52,0.52975,0.7654,non,0,0,1
+1450,18,Femme,Maitrise,Royaume-Unis,30,41,39,47,47,-0.21711999999999998,-0.21575,non,0,0,1
+1451,25,Femme,Maitrise,Royaume-Unis,26,47,51,36,51,-0.21711999999999998,-0.52593,oui,1,0,1
+1452,25,Femme,Doctorat,Royaume-Unis,26,36,45,50,53,-1.37983,-0.21575,oui,1,0,1
+1453,18,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,40,37,57,30,55,1.29221,1.92173,oui,1,1,0
+1454,18,Femme,Diplome universitaire,Royaume-Unis,39,41,34,46,49,-1.37983,-1.18084,non,0,0,1
+1455,25,Femme,Doctorat,Royaume-Unis,31,40,44,48,47,-0.71126,-0.52593,non,0,0,1
+1456,18,Homme,Diplome professionnel,Etats-Unis,43,35,54,55,39,-0.71126,1.92173,oui,1,0,0
+1457,45,Femme,Maitrise,Royaume-Unis,19,44,46,52,52,-0.71126,-0.8463700000000001,non,0,0,1
+1458,25,Femme,Doctorat,Royaume-Unis,41,32,42,54,45,-1.37983,0.40148,oui,1,0,1
+1459,25,Femme,Diplome universitaire,Royaume-Unis,24,36,44,46,49,-0.71126,-0.52593,non,0,0,1
+1460,18,Femme,Diplome universitaire,Royaume-Unis,27,45,45,50,37,-0.21711999999999998,-0.8463700000000001,oui,1,0,1
+1461,35,Femme,Doctorat,Royaume-Unis,19,50,46,44,47,0.19268,-0.8463700000000001,non,0,0,1
+1462,55,Homme,Maitrise,Royaume-Unis,37,44,51,45,36,-0.71126,-1.18084,non,0,0,0
+1463,25,Homme,Maitrise,Royaume-Unis,37,41,42,46,43,-0.71126,0.40148,oui,1,0,0
+1464,18,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,25,45,51,49,45,-0.21711999999999998,0.7654,oui,1,1,0
+1465,25,Homme,Maitrise,Royaume-Unis,14,48,41,48,38,0.52975,0.07987000000000001,non,0,0,0
+1466,25,Femme,Quitte Lycee ou universite sans diplome,Etats-Unis,43,36,43,37,41,0.88113,-0.21575,oui,1,1,1
+1467,18,Femme,Diplome universitaire,Etats-Unis,30,42,50,42,46,-1.37983,-0.52593,oui,1,0,1
+1468,55,Femme,Diplome universitaire,Etats-Unis,20,45,51,53,48,-0.21711999999999998,0.07987000000000001,oui,1,0,1
+1469,25,Femme,Maitrise,Royaume-Unis,34,34,36,51,43,-1.37983,-0.52593,oui,1,0,1
+1470,18,Femme,Diplome universitaire,Royaume-Unis,39,40,45,48,40,-1.37983,-1.18084,non,0,0,1
+1471,65,Homme,Diplome universitaire,Royaume-Unis,20,39,41,57,45,-1.37983,-2.07848,non,0,0,0
+1472,55,Homme,Maitrise,Royaume-Unis,28,38,47,45,51,-0.21711999999999998,-0.8463700000000001,oui,1,0,0
+1473,18,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,34,43,44,36,43,-0.71126,1.2247,oui,1,1,0
+1474,25,Femme,Maitrise,Etats-Unis,33,42,51,46,43,-0.71126,0.07987000000000001,oui,1,0,1
+1475,45,Homme,Quitte Lycee ou universite sans diplome,Canada,46,35,39,35,47,1.8620299999999999,1.2247,oui,1,1,0
+1476,25,Femme,Quitte Lycee ou universite sans diplome,Etats-Unis,57,26,41,27,24,1.29221,1.2247,oui,1,1,1
+1477,25,Homme,Diplome professionnel,Canada,32,37,44,40,43,-0.71126,-0.8463700000000001,oui,1,0,0
+1478,18,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,40,35,45,41,32,-1.37983,0.40148,oui,1,1,0
+1479,18,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,27,49,55,43,38,1.8620299999999999,1.92173,oui,1,1,0
+1480,35,Femme,Diplome professionnel,Etats-Unis,35,36,30,43,40,-0.71126,-0.8463700000000001,non,0,0,1
+1481,25,Femme,Quitte Lycee ou universite sans diplome,Etats-Unis,49,42,50,49,43,-0.71126,0.07987000000000001,oui,1,1,1
+1482,45,Femme,Diplome universitaire,Etats-Unis,51,22,46,43,26,0.88113,-2.07848,oui,1,0,1
+1483,45,Femme,Doctorat,Royaume-Unis,27,40,46,44,47,-0.21711999999999998,-0.21575,non,0,0,1
+1484,25,Femme,Diplome universitaire,Royaume-Unis,33,43,50,53,41,-0.71126,0.7654,oui,1,0,1
+1485,35,Homme,Diplome professionnel,Etats-Unis,41,32,42,44,33,0.88113,-0.8463700000000001,oui,1,0,0
+1486,25,Femme,Doctorat,Royaume-Unis,26,49,39,49,46,-0.71126,-0.52593,non,0,0,1
+1487,18,Homme,Quitte Lycee ou universite sans diplome,Autre,25,47,53,32,37,0.52975,1.2247,oui,1,1,0
+1488,25,Femme,Diplome universitaire,Royaume-Unis,35,38,36,43,47,-0.71126,-1.18084,non,0,0,1
+1489,18,Homme,Diplome universitaire,Australie,43,40,44,36,46,1.29221,-0.52593,oui,1,0,0
+1490,25,Femme,Quitte Lycee ou universite sans diplome,Etats-Unis,31,37,44,31,32,1.8620299999999999,1.92173,oui,1,1,1
+1491,25,Femme,Doctorat,Royaume-Unis,49,35,41,33,49,0.88113,-2.07848,oui,1,0,1
+1492,18,Femme,Maitrise,Royaume-Unis,35,47,35,40,36,0.88113,1.2247,non,0,0,1
+1493,18,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,50,36,40,40,30,1.29221,0.7654,oui,1,1,0
+1494,45,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,34,38,49,44,40,1.29221,1.2247,oui,1,1,0
+1495,18,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,55,33,42,41,29,1.29221,0.07987000000000001,oui,1,1,0
+1496,18,Homme,Quitte Lycee ou universite sans diplome,Royaume-Unis,45,17,42,33,28,1.8620299999999999,0.7654,oui,1,1,0
+1497,18,Homme,Quitte Lycee ou universite sans diplome,Royaume-Unis,28,33,45,39,39,-0.71126,0.07987000000000001,oui,1,1,0
+1498,25,Homme,Maitrise,Autre,25,41,47,37,35,0.19268,1.2247,non,0,0,0
+1499,45,Femme,Quitte ecole avant 16 ans,Etats-Unis,42,39,42,40,34,0.19268,-0.52593,oui,1,1,1
+1500,45,Homme,Diplome universitaire,Etats-Unis,26,46,48,43,46,0.88113,1.2247,non,0,0,0
+1501,25,Homme,Doctorat,Etats-Unis,32,43,45,39,42,0.52975,1.2247,oui,1,0,0
+1502,18,Femme,Quitte Lycee ou universite sans diplome,Etats-Unis,42,41,49,29,42,1.8620299999999999,-0.21575,oui,1,1,1
+1503,18,Homme,Diplome universitaire,Etats-Unis,40,26,51,42,38,0.19268,-0.52593,non,0,0,0
+1504,25,Homme,Diplome universitaire,Etats-Unis,31,43,54,41,39,0.19268,0.7654,oui,1,0,0
+1505,18,Femme,Diplome universitaire,Etats-Unis,31,40,43,44,38,1.29221,1.2247,oui,1,0,1
+1506,35,Femme,Diplome professionnel,Etats-Unis,52,19,47,51,36,-0.21711999999999998,-0.21575,oui,1,0,1
+1507,45,Femme,Doctorat,Royaume-Unis,36,50,52,47,54,-0.21711999999999998,-0.52593,non,0,0,1
+1508,18,Femme,Quitte ecole a 16 ans,Royaume-Unis,59,21,52,38,25,-0.21711999999999998,-0.8463700000000001,non,0,1,1
+1509,18,Femme,Diplome universitaire,Royaume-Unis,46,35,51,31,39,0.19268,0.40148,oui,1,0,1
+1510,25,Femme,Diplome professionnel,Etats-Unis,43,31,50,47,42,0.52975,0.7654,oui,1,0,1
+1511,25,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,45,24,44,40,35,-1.37983,-0.8463700000000001,non,0,1,0
+1512,18,Homme,Diplome universitaire,Etats-Unis,43,34,55,44,32,-0.21711999999999998,-0.52593,oui,1,0,0
+1513,18,Homme,Quitte ecole avant 16 ans,Etats-Unis,56,35,47,39,41,-1.37983,-0.8463700000000001,oui,1,1,0
+1514,18,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,34,36,39,39,38,-0.21711999999999998,-2.07848,oui,1,1,0
+1515,25,Homme,Quitte ecole a 18 ans,Etats-Unis,48,22,47,41,27,0.19268,-0.52593,oui,1,1,0
+1516,18,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,46,37,45,34,33,1.8620299999999999,1.2247,oui,1,1,0
+1517,18,Homme,Quitte ecole a 18 ans,Etats-Unis,28,52,55,36,39,1.8620299999999999,1.92173,oui,1,1,0
+1518,45,Homme,Doctorat,Etats-Unis,42,30,54,37,38,1.8620299999999999,0.7654,oui,1,0,0
+1519,18,Homme,Diplome professionnel,Etats-Unis,36,28,56,37,43,0.19268,0.40148,oui,1,0,0
+1520,18,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,33,34,36,34,27,-0.71126,0.07987000000000001,oui,1,1,0
+1521,18,Homme,Quitte Lycee ou universite sans diplome,Autre,49,38,44,42,32,0.19268,-0.21575,oui,1,1,0
+1522,18,Homme,Diplome professionnel,Etats-Unis,49,28,52,37,31,1.29221,0.7654,oui,1,0,0
+1523,25,Homme,Diplome professionnel,Etats-Unis,35,19,53,52,45,-1.37983,-2.07848,oui,1,0,0
+1524,18,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,44,53,56,44,37,1.8620299999999999,1.92173,oui,1,1,0
+1525,18,Homme,Quitte ecole a 18 ans,Etats-Unis,51,23,53,46,31,0.52975,0.40148,oui,1,1,0
+1526,18,Homme,Quitte ecole a 16 ans,Australie,44,48,47,35,35,0.88113,1.92173,oui,1,1,0
+1527,18,Homme,Quitte ecole a 18 ans,Etats-Unis,41,48,53,40,38,1.8620299999999999,0.7654,oui,1,1,0
+1528,18,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,45,40,52,35,30,1.29221,0.40148,oui,1,1,0
+1529,18,Femme,Diplome universitaire,Royaume-Unis,20,52,49,33,43,1.29221,1.92173,oui,1,0,1
+1530,18,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,22,46,55,43,41,1.29221,0.7654,oui,1,1,0
+1531,18,Homme,Quitte ecole avant 16 ans,Nouvelle-Zelande,25,33,52,51,38,0.88113,1.2247,oui,1,1,0
+1532,25,Femme,Diplome universitaire,Etats-Unis,34,46,53,48,40,-0.21711999999999998,0.07987000000000001,oui,1,0,1
+1533,18,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,46,27,49,42,22,0.88113,-0.21575,oui,1,1,0
+1534,18,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,27,48,42,39,42,0.88113,1.2247,oui,1,1,0
+1535,25,Homme,Quitte ecole a 18 ans,Australie,36,42,38,45,37,-0.71126,0.7654,oui,1,1,0
+1536,35,Femme,Quitte Lycee ou universite sans diplome,Irelande,39,40,39,39,38,-0.71126,0.07987000000000001,oui,1,1,1
+1537,18,Femme,Quitte Lycee ou universite sans diplome,Etats-Unis,31,45,47,55,53,-1.37983,-0.21575,oui,1,1,1
+1538,18,Femme,Quitte Lycee ou universite sans diplome,Etats-Unis,37,33,37,46,33,-0.71126,0.7654,oui,1,1,1
+1539,18,Femme,Quitte Lycee ou universite sans diplome,Etats-Unis,36,51,41,40,55,0.88113,1.92173,non,0,1,1
+1540,18,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,47,35,51,49,35,1.29221,0.7654,oui,1,1,0
+1541,18,Femme,Quitte Lycee ou universite sans diplome,Etats-Unis,42,39,56,52,43,0.88113,-0.8463700000000001,oui,1,1,1
+1542,18,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,22,48,38,46,48,0.19268,1.92173,oui,1,1,0
+1543,25,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,44,18,47,34,26,0.88113,0.7654,oui,1,1,0
+1544,18,Homme,Quitte Lycee ou universite sans diplome,Royaume-Unis,34,37,40,38,29,1.29221,0.7654,oui,1,1,0
+1545,18,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,44,45,51,47,36,0.19268,0.07987000000000001,oui,1,1,0
+1546,18,Femme,Quitte Lycee ou universite sans diplome,Etats-Unis,46,33,51,44,41,-0.71126,0.40148,oui,1,1,1
+1547,18,Homme,Quitte ecole a 18 ans,Etats-Unis,33,26,47,39,33,0.52975,0.40148,oui,1,1,0
+1548,18,Femme,Quitte Lycee ou universite sans diplome,Etats-Unis,50,41,51,43,46,0.52975,0.7654,oui,1,1,1
+1549,25,Homme,Diplome universitaire,Royaume-Unis,25,36,33,45,50,-1.37983,-0.8463700000000001,non,0,0,0
+1550,25,Femme,Maitrise,Royaume-Unis,29,33,49,45,50,-0.71126,-0.8463700000000001,non,0,0,1
+1551,25,Femme,Diplome professionnel,Royaume-Unis,31,40,37,45,42,0.19268,-0.52593,oui,1,0,1
+1552,55,Femme,Diplome professionnel,Royaume-Unis,40,29,32,37,39,-1.37983,-2.07848,non,0,0,1
+1553,45,Femme,Quitte Lycee ou universite sans diplome,Royaume-Unis,34,33,36,39,45,-0.21711999999999998,0.07987000000000001,non,0,1,1
+1554,45,Femme,Diplome professionnel,Royaume-Unis,30,36,36,49,48,-1.37983,-2.07848,non,0,0,1
+1555,18,Homme,Quitte Lycee ou universite sans diplome,Royaume-Unis,35,22,39,31,39,1.29221,-0.21575,oui,1,1,0
+1556,25,Homme,Maitrise,Royaume-Unis,22,47,45,43,51,0.19268,0.07987000000000001,oui,1,0,0
+1557,18,Femme,Maitrise,Royaume-Unis,39,45,38,45,44,-0.21711999999999998,0.40148,oui,1,0,1
+1558,25,Femme,Quitte Lycee ou universite sans diplome,Royaume-Unis,24,50,41,53,49,0.19268,-0.21575,oui,1,1,1
+1559,55,Femme,Diplome universitaire,Royaume-Unis,20,50,48,48,52,0.19268,-0.52593,non,0,0,1
+1560,18,Femme,Diplome universitaire,Royaume-Unis,27,39,39,38,50,-0.71126,-0.21575,oui,1,0,1
+1561,25,Femme,Maitrise,Royaume-Unis,43,41,40,37,49,-1.37983,-0.8463700000000001,oui,1,0,1
+1562,35,Femme,Diplome universitaire,Royaume-Unis,42,29,43,45,41,-0.71126,-2.07848,non,0,0,1
+1563,45,Femme,Quitte ecole avant 16 ans,Royaume-Unis,38,38,36,39,40,-0.21711999999999998,-0.52593,non,0,1,1
+1564,35,Homme,Diplome professionnel,Royaume-Unis,43,29,39,42,33,0.88113,0.07987000000000001,oui,1,0,0
+1565,35,Femme,Diplome universitaire,Royaume-Unis,35,51,26,38,56,-1.37983,-1.5485799999999998,non,0,0,1
+1566,45,Femme,Diplome professionnel,Royaume-Unis,31,38,35,52,54,-0.71126,-0.52593,non,0,0,1
+1567,35,Femme,Diplome professionnel,Royaume-Unis,44,45,47,51,44,-1.37983,-1.18084,non,0,0,1
+1568,45,Femme,Diplome professionnel,Royaume-Unis,57,20,43,37,36,-0.71126,-1.5485799999999998,non,0,0,1
+1569,35,Homme,Maitrise,Royaume-Unis,22,45,53,54,42,0.19268,-0.21575,non,0,0,0
+1570,25,Homme,Diplome universitaire,Royaume-Unis,35,43,37,38,40,-1.37983,-0.8463700000000001,non,0,0,0
+1571,25,Femme,Maitrise,Royaume-Unis,26,48,42,42,42,0.88113,-0.8463700000000001,oui,1,0,1
+1572,45,Homme,Diplome professionnel,Royaume-Unis,28,37,45,54,47,-0.71126,-0.52593,non,0,0,0
+1573,18,Femme,Quitte Lycee ou universite sans diplome,Royaume-Unis,30,38,39,47,46,-0.71126,-1.5485799999999998,oui,1,1,1
+1574,25,Femme,Maitrise,Royaume-Unis,39,40,43,47,45,0.19268,0.7654,non,0,0,1
+1575,45,Femme,Diplome professionnel,Royaume-Unis,46,42,50,53,38,0.88113,-0.8463700000000001,non,0,0,1
+1576,35,Femme,Diplome universitaire,Royaume-Unis,35,46,37,49,52,-1.37983,-2.07848,non,0,0,1
+1577,35,Femme,Quitte Lycee ou universite sans diplome,Royaume-Unis,33,41,32,40,45,-1.37983,-0.52593,non,0,1,1
+1578,25,Femme,Maitrise,Royaume-Unis,33,45,41,52,48,0.19268,-0.8463700000000001,non,0,0,1
+1579,45,Femme,Diplome universitaire,Royaume-Unis,26,39,37,40,46,-1.37983,-0.8463700000000001,non,0,0,1
+1580,45,Femme,Maitrise,Royaume-Unis,40,37,54,51,47,-0.21711999999999998,-0.52593,non,0,0,1
+1581,35,Femme,Quitte ecole a 16 ans,Royaume-Unis,31,41,42,51,46,-1.37983,-0.52593,non,0,1,1
+1582,45,Femme,Diplome professionnel,Royaume-Unis,42,29,28,37,43,-1.37983,-2.07848,non,0,0,1
+1583,35,Femme,Maitrise,Royaume-Unis,33,39,36,46,51,-0.21711999999999998,-0.8463700000000001,non,0,0,1
+1584,35,Homme,Diplome professionnel,Royaume-Unis,39,31,45,48,43,-0.71126,-0.8463700000000001,non,0,0,0
+1585,35,Femme,Maitrise,Royaume-Unis,43,54,46,54,43,0.19268,0.7654,non,0,0,1
+1586,25,Femme,Diplome universitaire,Royaume-Unis,37,47,46,42,46,0.88113,0.40148,oui,1,0,1
+1587,35,Femme,Diplome universitaire,Royaume-Unis,36,39,51,41,46,0.19268,-0.8463700000000001,oui,1,0,1
+1588,35,Femme,Diplome professionnel,Royaume-Unis,32,45,33,39,45,-0.21711999999999998,-0.21575,non,0,0,1
+1589,35,Homme,Quitte ecole a 16 ans,Royaume-Unis,24,53,41,39,43,-0.21711999999999998,-0.21575,non,0,1,0
+1590,35,Homme,Diplome professionnel,Royaume-Unis,19,49,45,45,48,0.52975,0.07987000000000001,non,0,0,0
+1591,35,Femme,Diplome universitaire,Royaume-Unis,44,35,39,52,49,-0.21711999999999998,0.40148,non,0,0,1
+1592,45,Femme,Diplome professionnel,Royaume-Unis,19,45,38,58,49,-1.37983,-2.07848,non,0,0,1
+1593,45,Femme,Diplome universitaire,Royaume-Unis,28,52,42,50,45,0.88113,1.92173,non,0,0,1
+1594,35,Femme,Doctorat,Royaume-Unis,36,45,47,43,41,-0.21711999999999998,-0.52593,non,0,0,1
+1595,25,Femme,Diplome universitaire,Royaume-Unis,33,47,42,42,45,-0.71126,-0.8463700000000001,non,0,0,1
+1596,25,Femme,Diplome universitaire,Royaume-Unis,30,51,51,43,40,1.29221,0.7654,oui,1,0,1
+1597,55,Femme,Quitte Lycee ou universite sans diplome,Royaume-Unis,35,44,46,46,45,-0.21711999999999998,-1.5485799999999998,non,0,1,1
+1598,35,Femme,Diplome universitaire,Royaume-Unis,29,42,38,47,43,-0.71126,-0.8463700000000001,non,0,0,1
+1599,25,Femme,Maitrise,Royaume-Unis,28,48,32,44,47,-0.71126,-0.8463700000000001,non,0,0,1
+1600,25,Femme,Diplome professionnel,Royaume-Unis,25,47,35,45,42,-0.71126,-0.8463700000000001,non,0,0,1
+1601,25,Femme,Diplome professionnel,Royaume-Unis,29,46,37,42,46,0.19268,-0.21575,non,0,0,1
+1602,25,Homme,Maitrise,Royaume-Unis,37,44,46,37,52,-0.71126,-1.5485799999999998,oui,1,0,0
+1603,55,Femme,Maitrise,Royaume-Unis,39,43,52,41,36,0.52975,0.7654,non,0,0,1
+1604,25,Femme,Diplome universitaire,Royaume-Unis,35,56,56,49,35,1.8620299999999999,1.2247,non,0,0,1
+1605,45,Homme,Quitte ecole a 16 ans,Royaume-Unis,32,52,45,48,50,-1.37983,-0.8463700000000001,non,0,1,0
+1606,25,Femme,Diplome universitaire,Royaume-Unis,33,53,29,37,41,1.29221,-0.21575,non,0,0,1
+1607,35,Femme,Diplome professionnel,Royaume-Unis,22,49,48,46,46,-0.71126,-1.18084,oui,1,0,1
+1608,35,Femme,Maitrise,Royaume-Unis,28,42,45,42,49,-0.21711999999999998,-0.21575,non,0,0,1
+1609,25,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,33,32,58,37,37,1.29221,0.7654,oui,1,1,0
+1610,25,Femme,Diplome universitaire,Royaume-Unis,34,32,33,49,47,-0.71126,-2.07848,non,0,0,1
+1611,45,Femme,Diplome universitaire,Royaume-Unis,38,44,38,48,38,-1.37983,-2.07848,non,0,0,1
+1612,25,Femme,Diplome universitaire,Royaume-Unis,32,37,35,50,48,-1.37983,-1.5485799999999998,non,0,0,1
+1613,35,Femme,Diplome universitaire,Royaume-Unis,37,48,38,46,42,-0.21711999999999998,-0.21575,oui,1,0,1
+1614,25,Homme,Quitte Lycee ou universite sans diplome,Royaume-Unis,15,54,47,33,46,0.88113,1.2247,non,0,1,0
+1615,35,Femme,Doctorat,Royaume-Unis,25,43,53,50,57,-0.21711999999999998,0.07987000000000001,non,0,0,1
+1616,55,Homme,Diplome professionnel,Royaume-Unis,42,29,34,48,39,0.19268,-0.21575,non,0,0,0
+1617,25,Homme,Maitrise,Royaume-Unis,41,40,50,47,40,0.88113,1.92173,non,0,0,0
+1618,45,Homme,Diplome professionnel,Royaume-Unis,39,41,37,47,46,0.52975,-0.52593,non,0,0,0
+1619,25,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,39,38,52,41,35,0.88113,1.92173,oui,1,1,0
+1620,45,Homme,Diplome professionnel,Royaume-Unis,37,40,42,39,47,-0.21711999999999998,0.40148,non,0,0,0
+1621,25,Homme,Diplome universitaire,Royaume-Unis,49,38,38,41,40,0.19268,-0.52593,non,0,0,0
+1622,35,Homme,Diplome professionnel,Royaume-Unis,22,39,49,46,49,0.19268,-0.21575,non,0,0,0
+1623,35,Homme,Diplome universitaire,Royaume-Unis,41,34,36,47,35,0.19268,-1.18084,non,0,0,0
+1624,45,Homme,Maitrise,Royaume-Unis,37,35,44,38,40,-0.71126,-0.8463700000000001,non,0,0,0
+1625,35,Homme,Quitte Lycee ou universite sans diplome,Royaume-Unis,28,43,45,44,43,-0.21711999999999998,0.07987000000000001,oui,1,1,0
+1626,35,Femme,Diplome professionnel,Royaume-Unis,28,42,36,48,47,-1.37983,-1.18084,non,0,0,1
+1627,25,Femme,Diplome professionnel,Royaume-Unis,23,44,35,47,46,-1.37983,-1.18084,non,0,0,1
+1628,25,Femme,Maitrise,Royaume-Unis,20,48,36,42,51,-1.37983,-2.07848,non,0,0,1
+1629,25,Femme,Maitrise,Royaume-Unis,42,40,45,48,42,-1.37983,-0.52593,non,0,0,1
+1630,45,Femme,Diplome professionnel,Royaume-Unis,37,39,39,45,46,0.52975,-0.52593,non,0,0,1
+1631,35,Femme,Diplome universitaire,Royaume-Unis,34,43,51,36,34,0.19268,0.40148,non,0,0,1
+1632,35,Femme,Diplome professionnel,Royaume-Unis,18,43,44,58,49,-0.71126,-0.8463700000000001,non,0,0,1
+1633,35,Homme,Diplome professionnel,Canada,51,41,42,43,53,1.29221,1.92173,oui,1,0,0
+1634,45,Femme,Diplome professionnel,Royaume-Unis,32,42,39,41,45,0.88113,0.40148,non,0,0,1
+1635,18,Femme,Quitte ecole a 18 ans,Royaume-Unis,36,30,36,43,42,-1.37983,-2.07848,non,0,1,1
+1636,55,Homme,Quitte ecole avant 16 ans,Royaume-Unis,23,40,33,46,46,-0.71126,-0.52593,non,0,1,0
+1637,45,Femme,Diplome professionnel,Royaume-Unis,36,44,33,36,42,-0.71126,-1.18084,non,0,0,1
+1638,18,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,53,31,46,33,34,0.88113,1.2247,oui,1,1,0
+1639,45,Femme,Quitte ecole a 16 ans,Royaume-Unis,38,36,40,45,45,-0.71126,-0.52593,non,0,1,1
+1640,45,Femme,Diplome professionnel,Royaume-Unis,35,41,38,42,40,0.19268,-1.18084,non,0,0,1
+1641,35,Femme,Diplome professionnel,Royaume-Unis,39,44,41,47,43,0.52975,0.07987000000000001,non,0,0,1
+1642,45,Femme,Diplome professionnel,Royaume-Unis,46,40,44,49,48,0.19268,-0.8463700000000001,non,0,0,1
+1643,25,Femme,Maitrise,Royaume-Unis,21,43,35,41,49,-1.37983,-0.8463700000000001,non,0,0,1
+1644,45,Femme,Diplome professionnel,Royaume-Unis,36,34,45,46,41,-0.71126,-0.8463700000000001,non,0,0,1
+1645,25,Femme,Maitrise,Royaume-Unis,29,39,40,48,44,-0.21711999999999998,-0.21575,non,0,0,1
+1646,45,Homme,Quitte ecole a 16 ans,Royaume-Unis,36,47,43,43,41,-0.21711999999999998,-0.52593,non,0,1,0
+1647,35,Homme,Diplome professionnel,Royaume-Unis,36,33,46,49,46,-1.37983,-1.5485799999999998,oui,1,0,0
+1648,35,Homme,Diplome professionnel,Royaume-Unis,44,34,41,46,39,0.19268,0.40148,oui,1,0,0
+1649,25,Femme,Maitrise,Royaume-Unis,29,43,44,48,51,-0.21711999999999998,-0.52593,non,0,0,1
+1650,25,Femme,Diplome universitaire,Royaume-Unis,34,38,39,41,51,-0.71126,-0.21575,non,0,0,1
+1651,25,Femme,Diplome universitaire,Royaume-Unis,36,50,53,51,46,1.29221,0.40148,oui,1,0,1
+1652,55,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,21,31,39,33,39,-0.71126,0.7654,oui,1,1,0
+1653,18,Homme,Diplome universitaire,Etats-Unis,38,31,47,40,33,0.19268,-1.18084,oui,1,0,0
+1654,25,Femme,Doctorat,Royaume-Unis,28,46,43,54,51,-0.71126,0.07987000000000001,non,0,0,1
+1655,55,Homme,Quitte ecole a 16 ans,Royaume-Unis,39,38,40,32,45,-0.21711999999999998,-1.18084,non,0,1,0
+1656,35,Femme,Diplome universitaire,Royaume-Unis,28,47,32,48,48,-0.71126,-1.5485799999999998,non,0,0,1
+1657,18,Femme,Diplome universitaire,Royaume-Unis,52,31,40,39,43,-1.37983,0.40148,oui,1,0,1
+1658,25,Homme,Quitte Lycee ou universite sans diplome,Canada,21,41,43,40,48,-0.21711999999999998,0.07987000000000001,oui,1,1,0
+1659,18,Homme,Diplome professionnel,Royaume-Unis,34,45,58,46,42,1.29221,1.2247,oui,1,0,0
+1660,45,Femme,Diplome universitaire,Royaume-Unis,18,44,47,44,45,-1.37983,-0.8463700000000001,non,0,0,1
+1661,35,Femme,Diplome professionnel,Royaume-Unis,51,41,57,34,31,1.8620299999999999,1.92173,oui,1,0,1
+1662,18,Femme,Quitte ecole avant 16 ans,Royaume-Unis,29,39,43,53,40,-0.71126,0.40148,oui,1,1,1
+1663,25,Homme,Diplome professionnel,Autre,29,47,45,46,41,0.88113,0.7654,oui,1,0,0
+1664,25,Femme,Quitte Lycee ou universite sans diplome,Royaume-Unis,26,40,43,46,36,0.19268,0.40148,oui,1,1,1
+1665,25,Femme,Doctorat,Royaume-Unis,36,43,48,48,41,1.8620299999999999,1.2247,oui,1,0,1
+1666,25,Femme,Diplome universitaire,Royaume-Unis,30,43,40,55,48,0.19268,-0.21575,non,0,0,1
+1667,18,Homme,Quitte Lycee ou universite sans diplome,Royaume-Unis,36,46,55,39,43,1.8620299999999999,1.2247,oui,1,1,0
+1668,25,Femme,Doctorat,Australie,37,37,34,43,48,-1.37983,-1.5485799999999998,oui,1,0,1
+1669,35,Homme,Diplome professionnel,Royaume-Unis,42,32,39,37,45,0.19268,0.40148,non,0,0,0
+1670,35,Femme,Diplome universitaire,Australie,25,36,40,46,48,0.88113,0.7654,non,0,0,1
+1671,45,Homme,Diplome universitaire,Royaume-Unis,42,34,32,36,43,-0.71126,-0.8463700000000001,non,0,0,0
+1672,55,Homme,Diplome universitaire,Royaume-Unis,42,37,53,49,33,-0.71126,-0.21575,non,0,0,0
+1673,25,Femme,Diplome universitaire,Royaume-Unis,30,41,41,48,33,-0.21711999999999998,0.07987000000000001,oui,1,0,1
+1674,25,Homme,Diplome professionnel,Irelande,26,43,51,46,47,-0.71126,-0.21575,oui,1,0,0
+1675,45,Homme,Diplome professionnel,Royaume-Unis,31,41,35,41,55,-0.71126,-1.18084,non,0,0,0
+1676,35,Homme,Diplome professionnel,Royaume-Unis,28,47,30,41,38,-0.21711999999999998,-1.18084,oui,1,0,0
+1677,25,Femme,Diplome universitaire,Royaume-Unis,56,24,38,50,37,-1.37983,-0.8463700000000001,non,0,0,1
+1678,18,Femme,Quitte Lycee ou universite sans diplome,Etats-Unis,49,40,45,48,40,0.19268,-0.21575,oui,1,1,1
+1679,45,Femme,Diplome professionnel,Royaume-Unis,33,45,33,51,49,-0.71126,-1.5485799999999998,non,0,0,1
+1680,18,Femme,Diplome universitaire,Royaume-Unis,37,44,45,28,52,0.19268,0.40148,non,0,0,1
+1681,18,Femme,Diplome universitaire,Royaume-Unis,35,48,40,46,45,-0.71126,-0.52593,non,0,0,1
+1682,45,Femme,Quitte Lycee ou universite sans diplome,Royaume-Unis,33,50,39,51,46,-0.71126,-0.8463700000000001,non,0,1,1
+1683,45,Homme,Diplome professionnel,Royaume-Unis,31,43,37,38,41,-0.21711999999999998,0.7654,oui,1,0,0
+1684,18,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,37,28,45,46,30,-0.21711999999999998,-0.21575,oui,1,1,0
+1685,25,Homme,Diplome universitaire,Etats-Unis,41,23,48,48,44,-0.21711999999999998,1.92173,oui,1,0,0
+1686,18,Femme,Quitte Lycee ou universite sans diplome,Etats-Unis,49,25,51,43,33,-0.21711999999999998,0.40148,oui,1,1,1
+1687,35,Femme,Diplome professionnel,Royaume-Unis,26,44,42,47,46,-0.21711999999999998,-0.21575,non,0,0,1
+1688,25,Femme,Diplome professionnel,Canada,50,22,37,55,40,-0.71126,-1.5485799999999998,non,0,0,1
+1689,25,Femme,Maitrise,Etats-Unis,37,46,55,46,40,0.52975,0.07987000000000001,oui,1,0,1
+1690,35,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,46,29,39,33,42,-1.37983,-0.52593,oui,1,1,0
+1691,25,Homme,Quitte Lycee ou universite sans diplome,Autre,54,27,46,52,35,0.19268,-0.52593,oui,1,1,0
+1692,25,Femme,Doctorat,Royaume-Unis,23,45,45,57,40,-0.21711999999999998,-0.21575,non,0,0,1
+1693,25,Femme,Diplome universitaire,Royaume-Unis,43,38,43,46,39,-1.37983,-0.21575,oui,1,0,1
+1694,25,Femme,Diplome universitaire,Royaume-Unis,31,45,38,52,49,-1.37983,-1.18084,non,0,0,1
+1695,45,Homme,Maitrise,Royaume-Unis,27,38,45,41,39,1.29221,-0.21575,oui,1,0,0
+1696,35,Homme,Diplome professionnel,Royaume-Unis,31,44,44,42,37,0.88113,-0.21575,non,0,0,0
+1697,18,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,37,27,42,45,39,-0.71126,-0.52593,oui,1,1,0
+1698,55,Homme,Doctorat,Royaume-Unis,25,40,50,35,49,-0.21711999999999998,0.07987000000000001,oui,1,0,0
+1699,45,Femme,Diplome universitaire,Royaume-Unis,42,36,50,42,45,0.52975,-0.8463700000000001,non,0,0,1
+1700,25,Femme,Maitrise,Etats-Unis,21,45,50,42,42,-0.21711999999999998,0.07987000000000001,oui,1,0,1
+1701,18,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,49,33,57,31,27,1.8620299999999999,0.40148,oui,1,1,0
+1702,35,Femme,Diplome universitaire,Etats-Unis,54,34,57,48,42,1.29221,1.92173,oui,1,0,1
+1703,25,Femme,Diplome professionnel,Royaume-Unis,30,43,31,45,48,-0.71126,-0.8463700000000001,non,0,0,1
+1704,18,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,32,35,41,45,33,-0.21711999999999998,-0.52593,oui,1,1,0
+1705,18,Homme,Quitte ecole a 18 ans,Canada,40,41,45,37,35,0.52975,0.07987000000000001,oui,1,1,0
+1706,55,Homme,Quitte Lycee ou universite sans diplome,Royaume-Unis,42,27,37,38,28,0.52975,0.07987000000000001,oui,1,1,0
+1707,18,Homme,Diplome universitaire,Royaume-Unis,27,42,35,39,53,-0.21711999999999998,0.07987000000000001,non,0,0,0
+1708,18,Femme,Diplome professionnel,Royaume-Unis,31,45,41,49,41,0.52975,-0.8463700000000001,oui,1,0,1
+1709,35,Femme,Diplome universitaire,Royaume-Unis,31,46,39,45,49,0.19268,-0.21575,non,0,0,1
+1710,45,Femme,Diplome universitaire,Royaume-Unis,26,48,39,49,41,-0.21711999999999998,-0.52593,non,0,0,1
+1711,35,Femme,Quitte ecole a 18 ans,Royaume-Unis,28,34,50,37,44,-0.71126,-0.21575,non,0,1,1
+1712,25,Femme,Diplome universitaire,Royaume-Unis,36,51,49,44,41,1.29221,1.2247,oui,1,0,1
+1713,35,Femme,Maitrise,Royaume-Unis,28,44,39,36,44,-0.71126,-0.21575,oui,1,0,1
+1714,35,Femme,Doctorat,Royaume-Unis,17,51,45,47,56,0.88113,-0.21575,oui,1,0,1
+1715,45,Femme,Quitte ecole a 16 ans,Royaume-Unis,35,38,33,51,51,-1.37983,-1.18084,non,0,1,1
+1716,45,Homme,Diplome professionnel,Royaume-Unis,48,43,49,38,48,-0.71126,-0.21575,non,0,0,0
+1717,45,Homme,Maitrise,Royaume-Unis,34,45,41,38,35,-0.21711999999999998,-0.52593,non,0,0,0
+1718,35,Femme,Maitrise,Royaume-Unis,40,34,52,48,46,-0.71126,-0.21575,non,0,0,1
+1719,45,Homme,Diplome professionnel,Royaume-Unis,25,42,42,37,43,-0.21711999999999998,-0.52593,non,0,0,0
+1720,25,Femme,Diplome universitaire,Royaume-Unis,36,37,45,49,31,-0.71126,0.07987000000000001,non,0,0,1
+1721,25,Femme,Diplome universitaire,Royaume-Unis,40,47,37,57,50,-1.37983,-1.5485799999999998,non,0,0,1
+1722,25,Femme,Quitte ecole a 18 ans,Royaume-Unis,31,41,27,47,49,0.52975,-0.8463700000000001,non,0,1,1
+1723,45,Homme,Diplome universitaire,Royaume-Unis,35,47,50,49,53,1.29221,0.7654,non,0,0,0
+1724,55,Homme,Diplome professionnel,Royaume-Unis,19,39,35,47,45,-0.21711999999999998,-0.8463700000000001,non,0,0,0
+1725,45,Femme,Diplome professionnel,Royaume-Unis,24,41,41,45,46,-1.37983,-0.8463700000000001,non,0,0,1
+1726,25,Femme,Quitte ecole a 16 ans,Royaume-Unis,25,31,29,54,46,-2.55524,-2.07848,non,0,1,1
+1727,25,Femme,Maitrise,Royaume-Unis,37,42,49,38,38,-2.55524,-0.8463700000000001,oui,1,0,1
+1728,18,Femme,Quitte ecole a 16 ans,Royaume-Unis,21,42,32,54,47,-0.21711999999999998,-1.18084,non,0,1,1
+1729,45,Homme,Maitrise,Royaume-Unis,28,33,42,40,39,-0.21711999999999998,-0.52593,non,0,0,0
+1730,18,Homme,Quitte Lycee ou universite sans diplome,Autre,18,46,45,44,52,-2.55524,-0.21575,oui,1,1,0
+1731,25,Femme,Quitte Lycee ou universite sans diplome,Royaume-Unis,42,30,40,43,36,-0.21711999999999998,0.7654,oui,1,1,1
+1732,45,Homme,Maitrise,Royaume-Unis,32,38,47,42,43,-0.21711999999999998,-0.21575,oui,1,0,0
+1733,25,Homme,Diplome professionnel,Royaume-Unis,40,34,39,35,50,0.19268,-1.18084,oui,1,0,0
+1734,45,Homme,Diplome professionnel,Royaume-Unis,27,38,34,43,43,-1.37983,-1.5485799999999998,non,0,0,0
+1735,45,Femme,Diplome professionnel,Royaume-Unis,26,45,41,49,51,0.19268,0.07987000000000001,non,0,0,1
+1736,25,Femme,Maitrise,Royaume-Unis,16,42,29,55,54,-0.21711999999999998,-0.52593,oui,1,0,1
+1737,35,Homme,Diplome professionnel,Royaume-Unis,23,46,47,51,44,-0.71126,0.7654,non,0,0,0
+1738,45,Homme,Diplome professionnel,Royaume-Unis,24,38,44,46,42,-0.21711999999999998,-0.52593,non,0,0,0
+1739,55,Femme,Quitte ecole avant 16 ans,Royaume-Unis,34,41,40,49,46,-0.71126,-0.52593,non,0,1,1
+1740,25,Femme,Diplome professionnel,Royaume-Unis,38,40,42,45,42,-0.71126,-1.18084,oui,1,0,1
+1741,45,Femme,Diplome universitaire,Royaume-Unis,27,42,41,42,49,-1.37983,-2.07848,non,0,0,1
+1742,25,Femme,Diplome universitaire,Etats-Unis,50,44,51,32,42,-1.37983,-1.18084,oui,1,0,1
+1743,35,Homme,Diplome universitaire,Royaume-Unis,22,45,52,39,38,0.52975,0.7654,oui,1,0,0
+1744,35,Femme,Maitrise,Royaume-Unis,30,43,41,41,48,-0.21711999999999998,-0.8463700000000001,non,0,0,1
+1745,55,Femme,Quitte Lycee ou universite sans diplome,Royaume-Unis,31,33,35,46,42,-0.71126,-0.52593,non,0,1,1
+1746,25,Femme,Quitte ecole a 16 ans,Royaume-Unis,20,46,38,56,55,-1.37983,-0.8463700000000001,non,0,1,1
+1747,35,Femme,Maitrise,Royaume-Unis,33,36,41,44,43,-0.21711999999999998,-1.18084,non,0,0,1
+1748,45,Femme,Quitte Lycee ou universite sans diplome,Royaume-Unis,37,45,48,52,41,0.19268,-0.21575,non,0,1,1
+1749,18,Homme,Diplome universitaire,Etats-Unis,49,35,59,60,36,0.88113,1.92173,oui,1,0,0
+1750,25,Femme,Quitte ecole a 17 ans,Etats-Unis,58,37,42,30,26,0.88113,-0.21575,oui,1,1,1
+1751,45,Homme,Quitte ecole a 16 ans,Royaume-Unis,33,43,39,39,45,-0.21711999999999998,-0.21575,non,0,1,0
+1752,25,Femme,Diplome universitaire,Etats-Unis,54,44,54,36,37,1.29221,1.2247,oui,1,0,1
+1753,25,Homme,Diplome universitaire,Royaume-Unis,29,46,40,55,49,0.52975,-0.52593,non,0,0,0
+1754,25,Femme,Diplome professionnel,Royaume-Unis,34,50,45,44,39,0.88113,0.07987000000000001,oui,1,0,1
+1755,18,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,26,41,48,27,30,0.88113,1.92173,oui,1,1,0
+1756,18,Femme,Quitte ecole a 18 ans,Etats-Unis,46,49,58,40,49,0.52975,0.7654,oui,1,1,1
+1757,18,Homme,Quitte ecole a 18 ans,Etats-Unis,43,40,54,47,29,0.52975,0.40148,oui,1,1,0
+1758,35,Homme,Diplome professionnel,Royaume-Unis,46,37,28,41,47,-1.37983,-2.07848,non,0,0,0
+1759,45,Homme,Maitrise,Australie,27,37,46,38,49,1.8620299999999999,0.40148,oui,1,0,0
+1760,35,Homme,Maitrise,Autre,33,27,45,41,44,-0.21711999999999998,-1.5485799999999998,oui,1,0,0
+1761,45,Femme,Diplome professionnel,Royaume-Unis,30,42,46,34,48,0.19268,-0.21575,non,0,0,1
+1762,35,Femme,Diplome professionnel,Royaume-Unis,33,36,44,41,47,0.88113,0.40148,oui,1,0,1
+1763,18,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,41,32,45,28,31,-0.71126,0.7654,oui,1,1,0
+1764,18,Femme,Diplome universitaire,Autre,28,32,56,45,57,-0.21711999999999998,1.2247,oui,1,0,1
+1765,35,Homme,Quitte ecole a 16 ans,Royaume-Unis,45,38,46,45,35,0.88113,1.2247,oui,1,1,0
+1766,25,Femme,Quitte Lycee ou universite sans diplome,Etats-Unis,41,52,54,41,48,-0.71126,1.2247,oui,1,1,1
+1767,25,Femme,Diplome universitaire,Etats-Unis,44,31,53,58,44,-0.71126,-0.52593,oui,1,0,1
+1768,18,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,39,26,46,51,56,-1.37983,-0.52593,oui,1,1,0
+1769,25,Femme,Quitte Lycee ou universite sans diplome,Autre,45,33,53,43,37,-0.21711999999999998,-0.8463700000000001,oui,1,1,1
+1770,35,Femme,Diplome professionnel,Royaume-Unis,28,43,37,47,42,-0.71126,-0.21575,non,0,0,1
+1771,25,Homme,Diplome universitaire,Etats-Unis,31,46,45,46,42,0.88113,1.92173,oui,1,0,0
+1772,55,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,33,30,44,34,48,0.52975,-0.8463700000000001,non,0,1,0
+1773,18,Homme,Quitte ecole a 18 ans,Etats-Unis,32,48,52,43,38,0.52975,1.2247,oui,1,1,0
+1774,25,Femme,Maitrise,Etats-Unis,45,44,42,35,36,0.88113,1.92173,oui,1,0,1
+1775,18,Femme,Quitte ecole a 18 ans,Irelande,44,37,48,46,34,-0.71126,0.40148,oui,1,1,1
+1776,18,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,27,43,48,46,45,-0.71126,-0.52593,oui,1,1,0
+1777,18,Femme,Diplome universitaire,Etats-Unis,44,32,54,45,49,0.88113,1.92173,oui,1,0,1
+1778,45,Femme,Quitte ecole a 16 ans,Royaume-Unis,46,35,33,41,35,1.8620299999999999,1.92173,oui,1,1,1
+1779,18,Femme,Diplome universitaire,Etats-Unis,35,42,45,26,47,0.88113,0.7654,oui,1,0,1
+1780,45,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,33,40,47,45,40,0.88113,1.2247,oui,1,1,0
+1781,18,Femme,Diplome universitaire,Etats-Unis,49,35,30,34,34,0.19268,0.40148,oui,1,0,1
+1782,18,Homme,Quitte ecole a 18 ans,Canada,23,36,34,32,50,-0.71126,0.07987000000000001,oui,1,1,0
+1783,25,Femme,Quitte ecole a 17 ans,Royaume-Unis,32,43,50,46,50,0.88113,0.40148,oui,1,1,1
+1784,25,Femme,Quitte Lycee ou universite sans diplome,Royaume-Unis,48,34,39,36,35,1.29221,1.92173,non,0,1,1
+1785,18,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,46,32,42,42,32,0.19268,0.40148,oui,1,1,0
+1786,25,Femme,Maitrise,Royaume-Unis,34,36,42,46,44,-1.37983,-1.5485799999999998,oui,1,0,1
+1787,18,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,29,58,56,43,36,0.52975,1.2247,oui,1,1,0
+1788,18,Homme,Diplome universitaire,Etats-Unis,41,33,46,48,37,-0.21711999999999998,1.2247,oui,1,0,0
+1789,45,Femme,Diplome universitaire,Autre,32,32,44,39,46,-0.71126,-0.52593,non,0,0,1
+1790,18,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,36,39,58,36,30,1.8620299999999999,1.92173,oui,1,1,0
+1791,18,Homme,Quitte ecole a 17 ans,Etats-Unis,37,42,48,35,39,1.8620299999999999,0.07987000000000001,oui,1,1,0
+1792,35,Femme,Doctorat,Etats-Unis,33,39,50,44,55,-1.37983,-1.5485799999999998,oui,1,0,1
+1793,18,Homme,Diplome universitaire,Etats-Unis,42,29,56,39,57,0.19268,1.2247,oui,1,0,0
+1794,18,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,31,39,49,54,38,-0.71126,-0.8463700000000001,oui,1,1,0
+1795,18,Femme,Quitte Lycee ou universite sans diplome,Etats-Unis,44,27,59,44,36,1.8620299999999999,1.2247,oui,1,1,1
+1796,25,Homme,Diplome universitaire,Autre,36,44,52,40,47,0.19268,1.2247,oui,1,0,0
+1797,35,Femme,Quitte ecole a 16 ans,Royaume-Unis,43,36,30,38,27,-0.21711999999999998,-0.52593,oui,1,1,1
+1798,18,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,39,39,56,45,30,1.29221,0.7654,oui,1,1,0
+1799,18,Homme,Diplome universitaire,Etats-Unis,50,29,45,29,36,0.88113,0.7654,oui,1,0,0
+1800,55,Homme,Maitrise,Royaume-Unis,30,51,31,36,52,0.88113,0.40148,non,0,0,0
+1801,45,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,56,31,45,26,20,-0.21711999999999998,1.2247,non,0,1,0
+1802,25,Homme,Doctorat,Etats-Unis,41,50,59,51,53,0.52975,1.92173,oui,1,0,0
+1803,18,Homme,Maitrise,Etats-Unis,28,43,54,50,43,1.29221,0.40148,oui,1,0,0
+1804,18,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,34,51,52,45,34,0.88113,0.7654,oui,1,1,0
+1805,18,Homme,Diplome professionnel,Etats-Unis,40,39,54,51,37,0.52975,0.07987000000000001,oui,1,0,0
+1806,18,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,44,36,51,46,38,0.52975,1.2247,oui,1,1,0
+1807,35,Femme,Diplome professionnel,Etats-Unis,36,34,39,42,33,0.52975,-1.18084,oui,1,0,1
+1808,35,Homme,Diplome universitaire,Etats-Unis,34,33,53,39,29,0.52975,1.2247,oui,1,0,0
+1809,18,Femme,Maitrise,Royaume-Unis,40,34,41,44,39,-1.37983,-1.5485799999999998,non,0,0,1
+1810,18,Femme,Quitte ecole a 17 ans,Etats-Unis,48,47,52,33,43,0.88113,1.92173,oui,1,1,1
+1811,18,Homme,Diplome universitaire,Etats-Unis,30,31,52,35,48,0.52975,1.92173,oui,1,0,0
+1812,18,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,22,34,52,43,55,-0.71126,-0.21575,oui,1,1,0
+1813,25,Femme,Quitte ecole a 18 ans,Autre,49,39,48,34,32,0.88113,1.92173,oui,1,1,1
+1814,25,Homme,Diplome universitaire,Autre,29,44,46,42,38,1.29221,1.2247,non,0,0,0
+1815,35,Femme,Diplome universitaire,Canada,45,35,58,40,51,0.19268,1.2247,oui,1,0,1
+1816,18,Femme,Maitrise,Royaume-Unis,37,42,38,53,48,-0.71126,-1.18084,oui,1,0,1
+1817,45,Homme,Diplome universitaire,Royaume-Unis,20,40,46,38,41,0.52975,0.40148,non,0,0,0
+1818,18,Femme,Quitte Lycee ou universite sans diplome,Etats-Unis,35,31,47,50,44,0.88113,0.7654,oui,1,1,1
+1819,25,Femme,Diplome universitaire,Etats-Unis,37,44,49,39,41,1.8620299999999999,0.7654,oui,1,0,1
+1820,18,Homme,Maitrise,Etats-Unis,14,55,53,45,51,-0.21711999999999998,1.2247,oui,1,0,0
+1821,18,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,51,25,54,39,21,1.8620299999999999,-0.21575,oui,1,1,0
+1822,45,Femme,Quitte Lycee ou universite sans diplome,Etats-Unis,49,39,48,46,37,1.8620299999999999,-0.52593,oui,1,1,1
+1823,18,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,28,42,56,36,36,-0.21711999999999998,0.40148,oui,1,1,0
+1824,18,Femme,Quitte Lycee ou universite sans diplome,Etats-Unis,48,31,52,41,24,0.88113,-0.21575,oui,1,1,1
+1825,25,Homme,Diplome universitaire,Royaume-Unis,31,29,41,41,39,0.52975,0.40148,non,0,0,0
+1826,18,Homme,Diplome universitaire,Etats-Unis,36,32,46,34,42,-0.21711999999999998,-0.8463700000000001,oui,1,0,0
+1827,18,Femme,Diplome universitaire,Etats-Unis,38,38,51,51,42,0.88113,0.07987000000000001,oui,1,0,1
+1828,25,Femme,Diplome universitaire,Etats-Unis,26,29,46,45,44,-0.21711999999999998,0.7654,oui,1,0,1
+1829,25,Femme,Maitrise,Etats-Unis,32,47,48,26,41,0.88113,1.2247,oui,1,0,1
+1830,25,Femme,Diplome universitaire,Etats-Unis,44,28,43,33,33,-1.37983,-1.18084,oui,1,0,1
+1831,25,Femme,Diplome universitaire,Australie,37,22,47,36,35,-0.71126,-0.52593,oui,1,0,1
+1832,18,Homme,Quitte ecole a 18 ans,Autre,38,40,48,37,27,0.19268,1.2247,oui,1,1,0
+1833,18,Homme,Diplome universitaire,Etats-Unis,14,52,51,45,55,-0.71126,0.07987000000000001,oui,1,0,0
+1834,35,Femme,Diplome universitaire,Etats-Unis,32,32,47,41,50,-0.21711999999999998,-0.21575,oui,1,0,1
+1835,25,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,29,44,42,40,44,0.88113,0.40148,oui,1,1,0
+1836,45,Homme,Diplome universitaire,Etats-Unis,42,34,45,40,30,1.29221,0.7654,oui,1,0,0
+1837,35,Femme,Diplome professionnel,Etats-Unis,54,26,51,45,28,0.88113,-1.18084,oui,1,0,1
+1838,35,Femme,Quitte Lycee ou universite sans diplome,Etats-Unis,39,29,48,48,40,-0.21711999999999998,0.7654,oui,1,1,1
+1839,35,Femme,Diplome professionnel,Etats-Unis,35,34,45,47,44,-1.37983,-2.07848,oui,1,0,1
+1840,25,Femme,Diplome professionnel,Australie,22,46,56,52,44,1.29221,1.92173,oui,1,0,1
+1841,55,Femme,Diplome universitaire,Etats-Unis,40,44,48,52,41,0.88113,-0.52593,oui,1,0,1
+1842,18,Homme,Quitte Lycee ou universite sans diplome,Autre,37,37,54,41,33,1.29221,1.2247,oui,1,1,0
+1843,25,Homme,Diplome universitaire,Etats-Unis,47,39,53,29,48,0.52975,-0.52593,oui,1,0,0
+1844,45,Homme,Doctorat,Royaume-Unis,33,34,45,32,41,-0.21711999999999998,-0.52593,oui,1,0,0
+1845,18,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,30,43,57,51,45,0.19268,0.7654,oui,1,1,0
+1846,45,Homme,Diplome universitaire,Etats-Unis,35,44,49,48,50,-0.21711999999999998,0.07987000000000001,oui,1,0,0
+1847,18,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,24,48,51,50,49,0.88113,0.40148,oui,1,1,0
+1848,18,Femme,Diplome universitaire,Etats-Unis,51,33,53,37,31,2.90161,1.92173,oui,1,0,1
+1849,18,Femme,Quitte Lycee ou universite sans diplome,Canada,42,33,48,47,49,1.8620299999999999,1.2247,oui,1,1,1
+1850,45,Homme,Diplome professionnel,Etats-Unis,26,33,38,38,47,-1.37983,-0.52593,oui,1,0,0
+1851,25,Femme,Diplome universitaire,Etats-Unis,55,30,56,48,34,0.19268,-1.18084,oui,1,0,1
+1852,18,Homme,Quitte ecole a 17 ans,Australie,39,44,43,41,32,0.88113,1.2247,oui,1,1,0
+1853,25,Homme,Diplome professionnel,Etats-Unis,40,46,44,40,47,0.19268,-0.21575,oui,1,0,0
+1854,25,Femme,Maitrise,Royaume-Unis,34,39,42,41,48,-0.21711999999999998,0.7654,oui,1,0,1
+1855,35,Homme,Quitte ecole a 16 ans,Etats-Unis,31,31,42,46,41,-0.21711999999999998,-0.8463700000000001,oui,1,1,0
+1856,18,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,34,48,43,29,45,-0.21711999999999998,0.40148,oui,1,1,0
+1857,18,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,22,41,57,41,42,0.88113,0.40148,oui,1,1,0
+1858,18,Homme,Quitte ecole a 17 ans,Australie,34,40,49,41,30,1.29221,1.2247,oui,1,1,0
+1859,35,Homme,Diplome professionnel,Autre,25,47,49,43,43,-0.71126,0.40148,oui,1,0,0
+1860,18,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,39,36,43,33,35,-1.37983,0.7654,oui,1,1,0
+1861,18,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,52,42,55,42,28,2.90161,0.40148,oui,1,1,0
+1862,18,Homme,Quitte ecole a 18 ans,Etats-Unis,33,42,48,42,41,0.88113,1.2247,oui,1,1,0
+1863,35,Homme,Quitte Lycee ou universite sans diplome,Autre,32,40,50,45,43,-0.21711999999999998,0.7654,oui,1,1,0
+1864,55,Femme,Diplome universitaire,Canada,21,32,52,40,37,-0.71126,0.07987000000000001,oui,1,0,1
+1865,25,Femme,Diplome universitaire,Etats-Unis,32,40,53,42,45,0.88113,0.40148,oui,1,0,1
+1866,45,Homme,Quitte ecole avant 16 ans,Etats-Unis,43,37,48,36,44,0.52975,0.40148,oui,1,1,0
+1867,18,Femme,Quitte Lycee ou universite sans diplome,Etats-Unis,42,44,59,36,48,0.88113,1.2247,oui,1,1,1
+1868,25,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,19,40,57,37,45,-0.21711999999999998,0.40148,oui,1,1,0
+1869,18,Femme,Diplome professionnel,Etats-Unis,36,40,58,39,25,0.88113,1.2247,oui,1,0,1
+1870,18,Femme,Diplome universitaire,Etats-Unis,37,34,54,45,52,-0.71126,-0.21575,oui,1,0,1
+1871,18,Femme,Quitte Lycee ou universite sans diplome,Etats-Unis,47,37,47,38,41,1.8620299999999999,-0.21575,oui,1,1,1
+1872,18,Homme,Quitte Lycee ou universite sans diplome,Autre,30,39,47,32,31,0.19268,0.40148,oui,1,1,0
+1873,18,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,34,47,54,41,42,0.19268,0.7654,oui,1,1,0
+1874,25,Femme,Diplome universitaire,Autre,26,46,56,54,50,-0.71126,0.07987000000000001,oui,1,0,1
+1875,18,Homme,Quitte ecole a 18 ans,Etats-Unis,46,37,54,36,43,-0.71126,0.40148,oui,1,1,0
+1876,18,Homme,Quitte Lycee ou universite sans diplome,Canada,28,40,58,48,30,0.88113,1.92173,oui,1,1,0
+1877,18,Homme,Quitte ecole a 17 ans,Etats-Unis,43,31,49,39,39,0.52975,0.40148,oui,1,1,0
+1878,65,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,55,39,58,49,37,-0.21711999999999998,0.07987000000000001,oui,1,1,0
+1879,18,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,35,27,49,38,41,1.29221,1.2247,oui,1,1,0
+1880,25,Homme,Quitte Lycee ou universite sans diplome,Canada,34,36,54,37,36,0.52975,0.40148,oui,1,1,0
+1881,18,Homme,Quitte ecole a 17 ans,Etats-Unis,50,26,41,31,46,-0.21711999999999998,1.2247,oui,1,1,0
+1882,18,Homme,Diplome universitaire,Canada,35,27,51,38,55,-0.71126,-0.21575,oui,1,0,0
+1883,18,Homme,Quitte Lycee ou universite sans diplome,Autre,28,42,47,41,40,0.88113,0.7654,oui,1,1,0
+1884,18,Femme,Quitte Lycee ou universite sans diplome,Etats-Unis,25,51,56,48,33,0.88113,1.92173,oui,1,1,1
+1885,18,Homme,Quitte Lycee ou universite sans diplome,Etats-Unis,33,51,49,48,30,0.88113,0.7654,oui,1,1,0
+1886,25,Femme,Diplome universitaire,Etats-Unis,47,30,36,31,31,0.52975,-0.52593,oui,1,0,1
+1887,18,Femme,Quitte Lycee ou universite sans diplome,Etats-Unis,45,26,47,32,22,1.29221,1.2247,oui,1,1,1
+1888,18,Homme,Quitte Lycee ou universite sans diplome,Irelande,31,53,55,50,45,0.88113,1.2247,oui,1,1,0

@@ -1,0 +1,20 @@
+1. ID : identifiant du participant
+2. Age : borne inférieure de la classe d'âge du participant parmi [18-24, 25-34, 35-44, 45-54, 55-64, 65-+]
+3. Genre : genre du participant parmi [Homme, Femme]
+4. Education : niveau d'éducation du participant parmi
+[Diplome professionnel, Diplome universitaire, Doctorat, Maitrise, Quitte Lycee ou universite sans diplome, Quitte ecole a 16 ans, Quitte ecole a 17 ans, Quitte ecole a 18 ans, Quitte ecole avant 16 ans]
+5. Pays : pays de résidence du participant parmi [Australie, Autre, Canada, Etats-Unis, Irelande, Nouvelle-Zelande, Royaume-Unis]
+
+Les variables suivantes sont des scores obtenus à des questionnaires comportementaux. Une grande valeur signifie un trait de caractère plus exprimé.
+6. Nscore : score obtenu pour le trait de caractère de névrotisme au questionnaire psychométrique NEO-FFI-R
+7. Escore : score obtenu pour le trait de caractère d'extravertiion au questionnaire psychométrique NEO-FFI-R
+8. Oscore : score obtenu pour le trait de caractère d'ouverture à l'expérience au questionnaire psychométrique NEO-FFI-R
+9. Ascore : score obtenu pour le trait de caractère d'agréabilité au questionnaire psychométrique NEO-FFI-R
+10. Cscore : score obtenu pour le trait de caractère de conscience au questionnaire psychométrique NEO-FFI-R
+11. Impulsivite : score normalisé obtenu pour le trait de caractère d'impulsivité mesuré par le questionnaire BIS-11
+12. Sensations : score normalisé obtenu pour le trait de caractère de recherche de sensations mesuré par le questionnaire ImpSS
+
+Vous pouvez voir des détails concernant les catactères sur la page https://fr.wikipedia.org/wiki/NEO_PI-Rs
+
+13. Cannabis : consommation de drogue si la valeur est "oui", "non" sinon
+14. Cannabis_recode: recode la variable Cannabis par 1 (consommation) ou 0 (non consommation)
