@@ -1,5 +1,5 @@
 ID,Age,Genre,Education,Pays,Nscore,Escore,Oscore,Ascore,Cscore,Impulsivite,Sensations,Cannabis,Cannabis_recode,Sans_diplome,Genre_num
-1,35,Femme,Diplome professionnel,Royaume-Unis,39,36,41,37,42,-0.21711999999999998,-1.18084,non,0,0,1
+1,35,Femme,Diplome professionnel,Royaume-Unis,39,36,41,37,42,-0.217119,-1.18084,non,0,0,1
 2,25,Homme,Doctorat,Royaume-Unis,29,52,54,48,41,-0.71126,-0.21575,oui,1,0,0
 3,35,Homme,Diplome professionnel,Royaume-Unis,31,45,39,32,34,-1.37983,0.40148,oui,1,0,0
 4,18,Femme,Maitrise,Royaume-Unis,34,34,45,47,46,-1.37983,-1.18084,oui,1,0,1
