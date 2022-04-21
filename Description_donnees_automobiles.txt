@@ -1,0 +1,34 @@
+Description des données
+
+Facteur_de_risque : facteur de risque donné par les assurances : +3 pour une voiture 
+risquée, -3 pour une voiture sûre
+Valeur_perdue : valeur perdue par années, normalisé
+Marque : parmi  alfa-romero, audi, bmw, chevrolet, dodge, honda,
+                               isuzu, jaguar, mazda, mercedes-benz, mercury,
+                               mitsubishi, nissan, peugot, plymouth, porsche,
+                               renault, saab, subaru, toyota, volkswagen, volvo
+Carburant : diesel ou essence
+Injection : std, turbo
+Nb_portes : 2 ou 4
+Type : hardtop, wagon, sedan, hatchback, convertible
+Roues_motrices : position ou nombre des roues motrices : quatre, avant, arriere
+Pos_moteur : avant ou arriere
+Roue : taille des roues
+Longueur 
+Largeur
+Hauteur
+Poids
+Type_moteur	 : dohc, dohcv, l, ohc, ohcf, ohcv, rotor
+Nb_cylindres
+Taille_moteur
+Syst_carburant : 1bbl, 2bbl, 4bbl, idi, mfi, mpfi, spdi, spfi
+Bore
+Nb_cycles_moteur : type de moteur à 2, 4 temps
+Rapport_compression
+CV : puissance
+Rotation_moteur_max
+Conso_ville : en miles per galon
+Conso_autoroute en miles per galon
+Prix
+Prix_log10p1 = log10(Prix+1)
+ 
